@@ -1,0 +1,96 @@
+#!/usr/bin/env python3
+"""voice — one command for every engine on the tailnet.
+
+  voice list
+  voice render --voice NAME (--text FILE | --say "words") --out OUT.wav [--speed 1.0] [--fx retro]
+  voice fx --in IN.wav --out OUT.wav --fx retro
+
+Output is always 24 kHz mono WAV. Registry: voices.json beside this repo."""
+import argparse, json, os, subprocess, sys, tempfile, time
+ROOT = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+REG = json.load(open(os.path.join(ROOT, "voices.json")))
+REG.pop("_comment", None)
+MODELS = os.path.join(ROOT, "models")
+
+FX = {
+  # AM wireless: 300-3400 Hz band, hard compression, slow tape wobble, a bed of surface noise
+  "retro": ("[0:a]highpass=f=300,lowpass=f=3400,acompressor=threshold=-20dB:ratio=6:attack=4:release=80:makeup=6dB,"
+            "vibrato=f=0.45:d=0.02,aresample=24000[v];"
+            "anoisesrc=color=pink:amplitude=0.006:sample_rate=24000:duration=3600[n];"
+            "[v][n]amix=inputs=2:duration=first:dropout_transition=0,volume=1.4,alimiter=limit=0.95[out]"),
+  # telephone: narrower still, no wobble
+  "phone": ("[0:a]highpass=f=400,lowpass=f=3000,acompressor=threshold=-18dB:ratio=8:makeup=8dB,"
+            "acrusher=bits=8:mode=log:aa=1:mix=0.15,aresample=24000[out]"),
+}
+
+def sh(cmd, **kw):
+    r = subprocess.run(cmd, capture_output=True, text=True, **kw)
+    if r.returncode: sys.exit(f"{cmd[0]} failed: {r.stderr.strip()[-400:]}")
+    return r
+
+def to_wav(src, out):
+    sh(["ffmpeg", "-y", "-loglevel", "error", "-i", src, "-ar", "24000", "-ac", "1", "-c:a", "pcm_s16le", out])
+
+def render_kokoro(v, text, out, speed):
+    import soundfile as sf
+    from kokoro_onnx import Kokoro
+    k = Kokoro(os.path.join(MODELS, "kokoro-v1.0.onnx"), os.path.join(MODELS, "voices-v1.0.bin"))
+    samples, sr = k.create(text, voice=v["voice"], speed=speed, lang=v.get("lang", "en-us"))
+    sf.write(out, samples, sr)
+
+def render_say(v, text, out, speed):
+    with tempfile.NamedTemporaryFile(suffix=".aiff", delete=False) as t: aiff = t.name
+    rate = ["-r", str(int(175 * speed))] if speed != 1.0 else []
+    sh(["say", "-v", v["voice"], *rate, "-o", aiff, text])
+    to_wav(aiff, out); os.unlink(aiff)
+
+def render_piper(v, text, out, speed):
+    model = f"voices/{v['voice']}.onnx"
+    ls = f"--length_scale {1/speed:.2f}" if speed != 1.0 else ""
+    if v.get("host"):
+        # run on the Pi that owns the model; stream WAV back over ssh
+        cmd = f"cd ~/station && ./venv/bin/piper -m {model} {ls} --output_file - 2>/dev/null"
+        r = subprocess.run(["ssh", v["host"], cmd], input=text.encode(), capture_output=True)
+        if r.returncode or not r.stdout: sys.exit(f"remote piper failed: {r.stderr.decode()[-300:]}")
+        raw = out + ".piper.wav"; open(raw, "wb").write(r.stdout); to_wav(raw, out); os.unlink(raw)
+    else:
+        sh(["piper", "-m", os.path.join(MODELS, v["voice"] + ".onnx"), *ls.split(), "--output_file", out], input=text)
+
+def render_api(v, text, out, speed):
+    sys.exit("hero voice: no API key configured yet (Keychain 'elevenlabs-api'); see Radio Voice Plan Phase 0")
+
+ENGINES = {"kokoro": render_kokoro, "say": render_say, "piper": render_piper, "api": render_api}
+
+def apply_fx(src, out, fx):
+    sh(["ffmpeg", "-y", "-loglevel", "error", "-i", src, "-filter_complex", FX[fx], "-map", "[out]",
+        "-ar", "24000", "-ac", "1", "-c:a", "pcm_s16le", out])
+
+def main():
+    ap = argparse.ArgumentParser(prog="voice")
+    sub = ap.add_subparsers(dest="cmd", required=True)
+    sub.add_parser("list")
+    r = sub.add_parser("render")
+    r.add_argument("--voice", required=True); r.add_argument("--text"); r.add_argument("--say")
+    r.add_argument("--out", required=True); r.add_argument("--speed", type=float, default=1.0)
+    r.add_argument("--fx", choices=list(FX))
+    f = sub.add_parser("fx"); f.add_argument("--in", dest="inp", required=True); f.add_argument("--out", required=True)
+    f.add_argument("--fx", choices=list(FX), default="retro")
+    a = ap.parse_args()
+    if a.cmd == "list":
+        for n, v in REG.items():
+            print(f"{n:10s} {v['engine']:7s} {v.get('voice',''):32s} {v.get('sex','')}/{v.get('accent',''):16s} {v.get('note','')}")
+        return
+    if a.cmd == "fx":
+        apply_fx(a.inp, a.out, a.fx); print(a.out); return
+    v = REG.get(a.voice) or sys.exit(f"unknown voice {a.voice!r}; try: voice list")
+    text = open(a.text).read() if a.text else a.say
+    if not text: sys.exit("give --text FILE or --say WORDS")
+    t0 = time.time()
+    raw = a.out if not a.fx else a.out + ".dry.wav"
+    ENGINES[v["engine"]](v, text.strip(), raw, a.speed)
+    if a.fx: apply_fx(raw, a.out, a.fx); os.unlink(raw)
+    el = time.time() - t0
+    dur = float(sh(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", a.out]).stdout)
+    print(f"{a.out}  {dur:.1f}s audio in {el:.1f}s = {dur/el:.2f}x realtime  [{v['engine']}:{v.get('voice')}{' +'+a.fx if a.fx else ''}]")
+
+if __name__ == "__main__": main()

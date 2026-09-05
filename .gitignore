@@ -1,0 +1,31 @@
+# Radio Voice — source only. Audio, models, the Constitute pull and the
+# generated corpora stay out of git (1.3 GB); the wiki pages they build are
+# published on the constitution.legalcommons.org sites instead.
+__pycache__/
+*.pyc
+
+# audio and models
+*.wav
+*.m4a
+*.aiff
+*.mp3
+*.onnx
+*.bin
+models/
+out/
+
+# the Constitute Project pull (raw/, 79 MB) and everything milled from it
+mill/raw/
+mill/by_cons/
+mill/pages/
+mill/*.jsonl
+mill/*.json
+mill/*.log
+
+# generated wiki pages and media
+pages/
+hear/human/
+hear/fixtures/**/*.m4a
+uk/*.xml
+uk/*.json
+uk/raw/

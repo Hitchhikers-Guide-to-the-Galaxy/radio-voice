@@ -1,0 +1,438 @@
+{
+ "street": {
+  "square": "clause.legalcommons.org/right-to-amparo",
+  "houses": [
+   "constitution.legalcommons.org/argentina-1853-reinst-1983-rev-1994",
+   "constitution.legalcommons.org/bolivia-plurinational-state-of-2009",
+   "constitution.legalcommons.org/chile-2023-chile-2023d",
+   "constitution.legalcommons.org/chile-2023-chile-2023dd",
+   "constitution.legalcommons.org/costa-rica-1949-rev-2020",
+   "constitution.legalcommons.org/dominican-republic-2015",
+   "constitution.legalcommons.org/ecuador-2008-rev-2021",
+   "constitution.legalcommons.org/el-salvador-1983-rev-2014",
+   "constitution.legalcommons.org/equatorial-guinea-1991-rev-2012",
+   "constitution.legalcommons.org/guatemala-1985-rev-1993",
+   "constitution.legalcommons.org/honduras-1982-rev-2013",
+   "constitution.legalcommons.org/mexico-1917-rev-2015",
+   "constitution.legalcommons.org/nicaragua-1987-rev-2014",
+   "constitution.legalcommons.org/panama-1972-rev-2004",
+   "constitution.legalcommons.org/paraguay-1992-rev-2011",
+   "constitution.legalcommons.org/venezuela-bolivarian-republic-of-1999-rev-2009"
+  ],
+  "lanes": [
+   "clause.legalcommons.org/legal-procedural-rights"
+  ],
+  "roads": [
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/argentina-1853-reinst-1983-rev-1994"
+   ],
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/bolivia-plurinational-state-of-2009"
+   ],
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/chile-2023-chile-2023d"
+   ],
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/chile-2023-chile-2023dd"
+   ],
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/costa-rica-1949-rev-2020"
+   ],
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/dominican-republic-2015"
+   ],
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/ecuador-2008-rev-2021"
+   ],
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/el-salvador-1983-rev-2014"
+   ],
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/equatorial-guinea-1991-rev-2012"
+   ],
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/guatemala-1985-rev-1993"
+   ],
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/honduras-1982-rev-2013"
+   ],
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/mexico-1917-rev-2015"
+   ],
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/nicaragua-1987-rev-2014"
+   ],
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/panama-1972-rev-2004"
+   ],
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/paraguay-1992-rev-2011"
+   ],
+   [
+    "clause.legalcommons.org/right-to-amparo",
+    "constitution.legalcommons.org/venezuela-bolivarian-republic-of-1999-rev-2009"
+   ]
+  ]
+ },
+ "edition": "legalcommons-pages-epoch-4",
+ "built": "2026-09-05T18:40:09Z",
+ "houses": [
+  {
+   "slug": "argentina-1853-reinst-1983-rev-1994",
+   "title": "Argentina 1853 (reinst. 1983, rev. 1994)",
+   "fragment_id": "argentina-1994:title-i-federal-governme.r",
+   "heading": "TITLE I. FEDERAL GOVERNMENT",
+   "words": 78,
+   "voice": "michael",
+   "seconds": 34.6,
+   "loudness": {
+    "integrated_lufs": -16.24,
+    "true_peak_dbtp": -2.7,
+    "lra": 2.0,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "restricted",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/argentina-1853-reinst-1983-rev-1994/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/argentina-1853-reinst-1983-rev-1994/hear/argentina-1994-title-i-federal-governme.r.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/argentina-1853-reinst-1983-rev-1994/hear/argentina-1994-title-i-federal-governme.r.opus",
+   "role": "verbatim_fragment"
+  },
+  {
+   "slug": "bolivia-plurinational-state-of-2009",
+   "title": "Bolivia (Plurinational State of) 2009",
+   "fragment_id": "bolivia-2009:p.1",
+   "heading": "Preamble",
+   "words": 82,
+   "voice": "heart",
+   "seconds": 30.3,
+   "loudness": {
+    "integrated_lufs": -16.19,
+    "true_peak_dbtp": -1.75,
+    "lra": 2.3,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "restricted",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-2009/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-2009/hear/bolivia-2009-p.1.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-2009/hear/bolivia-2009-p.1.opus",
+   "role": "verbatim_fragment"
+  },
+  {
+   "slug": "chile-2023-chile-2023d",
+   "title": "Chile 2023 (Chile 2023D)",
+   "fragment_id": "chile-2023d:guarantees-of-rights-and.1",
+   "heading": "Guarantees of Rights and Liberties",
+   "words": 97,
+   "voice": "george",
+   "seconds": 37.5,
+   "loudness": {
+    "integrated_lufs": -16.23,
+    "true_peak_dbtp": -3.75,
+    "lra": 1.0,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "restricted",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023d/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023d/hear/chile-2023d-guarantees-of-rights-and.1.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023d/hear/chile-2023d-guarantees-of-rights-and.1.opus",
+   "role": "verbatim_fragment"
+  },
+  {
+   "slug": "chile-2023-chile-2023dd",
+   "title": "Chile 2023 (Chile 2023DD)",
+   "fragment_id": "chile-2023dd:constitutional-duties.r",
+   "heading": "Constitutional Duties",
+   "words": 84,
+   "voice": "bella",
+   "seconds": 32.4,
+   "loudness": {
+    "integrated_lufs": -16.08,
+    "true_peak_dbtp": -3.35,
+    "lra": 2.5,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "restricted",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023dd/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023dd/hear/chile-2023dd-constitutional-duties.r.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023dd/hear/chile-2023dd-constitutional-duties.r.opus",
+   "role": "verbatim_fragment"
+  },
+  {
+   "slug": "costa-rica-1949-rev-2020",
+   "title": "Costa Rica 1949 (rev. 2020)",
+   "fragment_id": "costa-rica-2020:sole-chapter.r",
+   "heading": "Sole Chapter",
+   "words": 67,
+   "voice": "lewis",
+   "seconds": 27.0,
+   "loudness": {
+    "integrated_lufs": -16.2,
+    "true_peak_dbtp": -3.33,
+    "lra": 2.1,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "restricted",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/costa-rica-1949-rev-2020/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/costa-rica-1949-rev-2020/hear/costa-rica-2020-sole-chapter.r.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/costa-rica-1949-rev-2020/hear/costa-rica-2020-sole-chapter.r.opus",
+   "role": "verbatim_fragment"
+  },
+  {
+   "slug": "dominican-republic-2015",
+   "title": "Dominican Republic 2015",
+   "fragment_id": "dominican-republic-2015:chapter-i-fundamental-ri.1",
+   "heading": "Chapter I. Fundamental rights",
+   "words": 56,
+   "voice": "sarah",
+   "seconds": 22.6,
+   "loudness": {
+    "integrated_lufs": -16.22,
+    "true_peak_dbtp": -1.88,
+    "lra": 1.3,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "open",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2015/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2015/hear/dominican-republic-2015-chapter-i-fundamental-ri.1.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2015/hear/dominican-republic-2015-chapter-i-fundamental-ri.1.opus",
+   "role": "verbatim_fragment"
+  },
+  {
+   "slug": "ecuador-2008-rev-2021",
+   "title": "Ecuador 2008 (rev. 2021)",
+   "fragment_id": "ecuador-2021:p.r",
+   "heading": "Preamble",
+   "words": 38,
+   "voice": "michael",
+   "seconds": 17.6,
+   "loudness": {
+    "integrated_lufs": -16.23,
+    "true_peak_dbtp": -2.7,
+    "lra": 1.4,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "open",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/ecuador-2008-rev-2021/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/ecuador-2008-rev-2021/hear/ecuador-2021-p.r.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/ecuador-2008-rev-2021/hear/ecuador-2021-p.r.opus",
+   "role": "verbatim_fragment"
+  },
+  {
+   "slug": "el-salvador-1983-rev-2014",
+   "title": "El Salvador 1983 (rev. 2014)",
+   "fragment_id": "el-salvador-2014:105.r",
+   "heading": "Article 105",
+   "words": 76,
+   "voice": "isabella",
+   "seconds": 27.0,
+   "loudness": {
+    "integrated_lufs": -16.08,
+    "true_peak_dbtp": -2.77,
+    "lra": 1.4,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "restricted",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/el-salvador-1983-rev-2014/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/el-salvador-1983-rev-2014/hear/el-salvador-2014-105.r.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/el-salvador-1983-rev-2014/hear/el-salvador-2014-105.r.opus",
+   "role": "verbatim_fragment"
+  },
+  {
+   "slug": "equatorial-guinea-1991-rev-2012",
+   "title": "Equatorial Guinea 1991 (rev. 2012)",
+   "fragment_id": "equatorial-guinea-2012:chapter-ix-of-the-tribun.1",
+   "heading": "Chapter IX. Of the Tribunal of Accounts",
+   "words": 62,
+   "voice": "fenrir",
+   "seconds": 21.7,
+   "loudness": {
+    "integrated_lufs": -16.28,
+    "true_peak_dbtp": -3.13,
+    "lra": 1.9,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "open",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/equatorial-guinea-1991-rev-2012/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/equatorial-guinea-1991-rev-2012/hear/equatorial-guinea-2012-chapter-ix-of-the-tribun.1.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/equatorial-guinea-1991-rev-2012/hear/equatorial-guinea-2012-chapter-ix-of-the-tribun.1.opus",
+   "role": "verbatim_fragment"
+  },
+  {
+   "slug": "guatemala-1985-rev-1993",
+   "title": "Guatemala 1985 (rev. 1993)",
+   "fragment_id": "guatemala-1993:chapter-ii-social-rights.r",
+   "heading": "CHAPTER II. Social Rights",
+   "words": 99,
+   "voice": "alice",
+   "seconds": 34.8,
+   "loudness": {
+    "integrated_lufs": -16.23,
+    "true_peak_dbtp": -3.39,
+    "lra": 0.9,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "restricted",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/guatemala-1985-rev-1993/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/guatemala-1985-rev-1993/hear/guatemala-1993-chapter-ii-social-rights.r.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/guatemala-1985-rev-1993/hear/guatemala-1993-chapter-ii-social-rights.r.opus",
+   "role": "verbatim_fragment"
+  },
+  {
+   "slug": "honduras-1982-rev-2013",
+   "title": "Honduras 1982 (rev. 2013)",
+   "fragment_id": "honduras-2013:chapter-ii-individual-ri.1",
+   "heading": "CHAPTER II. Individual Rights",
+   "words": 88,
+   "voice": "onyx",
+   "seconds": 33.5,
+   "loudness": {
+    "integrated_lufs": -16.11,
+    "true_peak_dbtp": -3.94,
+    "lra": 3.0,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "open",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/honduras-1982-rev-2013/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/honduras-1982-rev-2013/hear/honduras-2013-chapter-ii-individual-ri.1.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/honduras-1982-rev-2013/hear/honduras-2013-chapter-ii-individual-ri.1.opus",
+   "role": "verbatim_fragment"
+  },
+  {
+   "slug": "mexico-1917-rev-2015",
+   "title": "Mexico 1917 (rev. 2015)",
+   "fragment_id": "mexico-2015:chapter-i-human-rights-a.r",
+   "heading": "CHAPTER I. Human Rights and Guarantees",
+   "words": 89,
+   "voice": "lily",
+   "seconds": 33.5,
+   "loudness": {
+    "integrated_lufs": -16.09,
+    "true_peak_dbtp": -1.7,
+    "lra": 1.5,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "credited",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/mexico-1917-rev-2015/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/mexico-1917-rev-2015/hear/mexico-2015-chapter-i-human-rights-a.r.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/mexico-1917-rev-2015/hear/mexico-2015-chapter-i-human-rights-a.r.opus",
+   "role": "verbatim_fragment"
+  },
+  {
+   "slug": "nicaragua-1987-rev-2014",
+   "title": "Nicaragua 1987 (rev. 2014)",
+   "fragment_id": "nicaragua-2014:p.r",
+   "heading": "Preamble",
+   "words": 64,
+   "voice": "heart",
+   "seconds": 27.3,
+   "loudness": {
+    "integrated_lufs": -16.11,
+    "true_peak_dbtp": -2.87,
+    "lra": 1.3,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "restricted",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/nicaragua-1987-rev-2014/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/nicaragua-1987-rev-2014/hear/nicaragua-2014-p.r.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/nicaragua-1987-rev-2014/hear/nicaragua-2014-p.r.opus",
+   "role": "verbatim_fragment"
+  },
+  {
+   "slug": "panama-1972-rev-2004",
+   "title": "Panama 1972 (rev. 2004)",
+   "fragment_id": "panama-2004:chapter-2-the-municipal-.r",
+   "heading": "Chapter 2. The Municipal System",
+   "words": 52,
+   "voice": "daniel-k",
+   "seconds": 17.4,
+   "loudness": {
+    "integrated_lufs": -16.08,
+    "true_peak_dbtp": -3.67,
+    "lra": 1.1,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "open",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/panama-1972-rev-2004/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/panama-1972-rev-2004/hear/panama-2004-chapter-2-the-municipal-.r.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/panama-1972-rev-2004/hear/panama-2004-chapter-2-the-municipal-.r.opus",
+   "role": "verbatim_fragment"
+  },
+  {
+   "slug": "paraguay-1992-rev-2011",
+   "title": "Paraguay 1992 (rev. 2011)",
+   "fragment_id": "paraguay-2011:title-ii-of-the-rights-o.r",
+   "heading": "Title II. Of the Rights, of the Duties, and of the Guarantees",
+   "words": 42,
+   "voice": "fable",
+   "seconds": 13.4,
+   "loudness": {
+    "integrated_lufs": -16.17,
+    "true_peak_dbtp": -2.21,
+    "lra": 1.6,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "restricted",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/paraguay-1992-rev-2011/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/paraguay-1992-rev-2011/hear/paraguay-2011-title-ii-of-the-rights-o.r.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/paraguay-1992-rev-2011/hear/paraguay-2011-title-ii-of-the-rights-o.r.opus",
+   "role": "verbatim_fragment"
+  },
+  {
+   "slug": "venezuela-bolivarian-republic-of-1999-rev-2009",
+   "title": "Venezuela (Bolivarian Republic of) 1999 (rev. 2009)",
+   "fragment_id": "venezuela-2009:chapter-i-socioeconomic-.1",
+   "heading": "Chapter I. Socioeconomic Order and the Function of the State in the Ec",
+   "words": 97,
+   "voice": "heart",
+   "seconds": 39.7,
+   "loudness": {
+    "integrated_lufs": -16.09,
+    "true_peak_dbtp": -2.59,
+    "lra": 2.1,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "restricted",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/venezuela-bolivarian-republic-of-1999-rev-2009/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/venezuela-bolivarian-republic-of-1999-rev-2009/hear/venezuela-2009-chapter-i-socioeconomic-.1.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/venezuela-bolivarian-republic-of-1999-rev-2009/hear/venezuela-2009-chapter-i-socioeconomic-.1.opus",
+   "role": "verbatim_fragment"
+  }
+ ],
+ "extras": [
+  {
+   "slug": "united-states-of-america-1789-rev-1992",
+   "title": "United States of America 1789 (rev. 1992)",
+   "fragment_id": "united-states-of-america-1992:p",
+   "heading": "Preamble",
+   "words": 52,
+   "voice": "human:Laurie Anne Walden",
+   "role": "human_reading",
+   "seconds": 22.31,
+   "loudness": {
+    "integrated_lufs": -16.22,
+    "true_peak_dbtp": -3.54,
+    "lra": 1.6,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "rights": "public_domain",
+   "manifest": "https://constitution.legalcommons.org/assets/pages/united-states-of-america-1789-rev-1992/hear/wiki-city-media.json",
+   "audio": "https://constitution.legalcommons.org/assets/pages/united-states-of-america-1789-rev-1992/hear/united-states-of-america-1992-p-human.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/united-states-of-america-1789-rev-1992/hear/united-states-of-america-1992-p-human.opus"
+  }
+ ]
+}

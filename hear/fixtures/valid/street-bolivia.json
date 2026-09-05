@@ -1,0 +1,106 @@
+{
+ "schema_version": "0.1.0",
+ "manifest_id": "media:constitution.legalcommons.org/bolivia-plurinational-state-of-2009:2026-09-05",
+ "map_edition_id": "legalcommons-pages-epoch-3",
+ "semantic_target": {
+  "wiki_city_id": "page:constitution.legalcommons.org/bolivia-plurinational-state-of-2009",
+  "entity_type": "page_house",
+  "canonical_uri": "https://constitution.legalcommons.org/bolivia-plurinational-state-of-2009.json",
+  "title": "Bolivia (Plurinational State of) 2009",
+  "source_revision": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+  "access_policy_uri": "policy:public"
+ },
+ "assets": [
+  {
+   "asset_id": "voice:bolivia-2009:p.1:v1",
+   "media_type": "audio",
+   "role": "verbatim_fragment",
+   "language": "en-US",
+   "title": "Preamble, read by a synthetic voice",
+   "delivery": [
+    {
+     "uri": "bolivia-2009-p.1.opus",
+     "mime": "audio/ogg; codecs=opus",
+     "sha256": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+     "bytes": 1
+    },
+    {
+     "uri": "bolivia-2009-p.1.m4a",
+     "mime": "audio/mp4",
+     "sha256": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+     "bytes": 1
+    }
+   ],
+   "master": {
+    "uri": "bolivia-2009-p.1.wav",
+    "sha256": "sha256:0000000000000000000000000000000000000000000000000000000000000000"
+   },
+   "duration_seconds": 40.6,
+   "loudness": {
+    "integrated_lufs": -16.1,
+    "true_peak_dbtp": -1.6,
+    "lra": 6.2,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "transcript_uri": "bolivia-2009-p.1.vtt",
+   "transcript_text_uri": "bolivia-2009-p.1.txt",
+   "source_text": {
+    "kind": "verbatim",
+    "text_uri": "bolivia-2009-p.1.txt",
+    "fragment_id": "bolivia-2009:p.1",
+    "heading": "Preamble",
+    "words": 82,
+    "input_revision": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "review_status": "machine_selected"
+   },
+   "provenance": {
+    "kind": "synthetic_voice",
+    "generator": "radio-voice/hear/build_street.py",
+    "model": "kokoro-v1.0.onnx",
+    "model_version": "1.0",
+    "model_sha256": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "voice_id": "heart",
+    "voice_registry": "radio-voice/voices.json",
+    "pipeline": "kokoro -> loudnorm I=-16:TP=-1.5:LRA=11 -> libopus 48k / aac 96k",
+    "generated_at": "2026-09-05T20:00:00Z"
+   },
+   "rights": {
+    "source_licence": "CC-BY-NC-3.0 (Constitute Project)",
+    "source_rights_class": "restricted",
+    "voice_licence": "Apache-2.0 (Kokoro)",
+    "consent_record_uri": null,
+    "public_render": true,
+    "attribution": "Constitute Project; \u00a9 Oxford University Press, Inc. \u2014 Max Planck Institute"
+   },
+   "spatial": {
+    "anchor": "threshold",
+    "distance_model": "inverse",
+    "ref_distance": 4.0,
+    "max_distance": 45.0,
+    "rolloff_factor": 1.2,
+    "cone_inner_angle": 180,
+    "cone_outer_angle": 270,
+    "cone_outer_gain": 0.2,
+    "occlusion": true,
+    "reverb_zone": "small_room"
+   },
+   "playback": {
+    "trigger": "focus_or_threshold",
+    "loop": false,
+    "priority": 70,
+    "bus": "synthetic_speech",
+    "cooldown_seconds": 90
+   }
+  }
+ ],
+ "live_room": {
+  "enabled": false,
+  "room_key": "page:constitution.legalcommons.org/bolivia-plurinational-state-of-2009",
+  "provider": "livekit",
+  "access_policy_uri": "policy:public",
+  "recording": "off",
+  "transcription": "off",
+  "e2ee": "required_when_enabled",
+  "agent_participation": "disclosed_opt_in"
+ }
+}

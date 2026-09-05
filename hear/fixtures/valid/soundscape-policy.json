@@ -1,0 +1,59 @@
+{
+ "schema_version": "0.1.0",
+ "policy_id": "hear-crowds-street-0.1.0",
+ "max_active_emitters": 8,
+ "max_intelligible_speech": 2,
+ "focus_duck_db": -14,
+ "crossfade_ms": 900,
+ "crossfade_law": "equal_power",
+ "hysteresis": {
+  "deadband": 0.08,
+  "min_dwell_ms": 900
+ },
+ "selection_weights": {
+  "proximity": 0.4,
+  "explicit_focus": 0.25,
+  "journey_relevance": 0.15,
+  "view_direction": 0.1,
+  "semantic_relevance": 0.1
+ },
+ "buses": [
+  "human_speech",
+  "synthetic_speech",
+  "live_room",
+  "music",
+  "ambience",
+  "ui"
+ ],
+ "acoustic_lod": [
+  {
+   "scale": "region",
+   "what_sounds": "one regional motif; no speech",
+   "max_intelligible": 0
+  },
+  {
+   "scale": "city",
+   "what_sounds": "at most two beacon voices, the rest a murmur",
+   "max_intelligible": 2
+  },
+  {
+   "scale": "street",
+   "what_sounds": "fragments from the nearest houses, two intelligible",
+   "max_intelligible": 2
+  },
+  {
+   "scale": "threshold",
+   "what_sounds": "the house you face dominates; the street ducks",
+   "max_intelligible": 1
+  },
+  {
+   "scale": "interior",
+   "what_sounds": "this page only, full transcript alongside",
+   "max_intelligible": 1
+  }
+ ],
+ "consent": {
+  "gate_required": true,
+  "gate_text": "Enter the soundscape"
+ }
+}

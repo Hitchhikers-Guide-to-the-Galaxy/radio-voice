@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://atlas.anarchive.earth/assets/hear-crowds-demo/schema/soundscape-policy.schema.json",
+  "title": "Soundscape policy",
+  "description": "Curatorial and mixing policy, versioned and separate from assets. Frozen from the sketch in WIKI-CITY-SEMANTIC-MEDIA-AND-HEAR-CROWDS.md section 7 and the Hysteresis and Crossfades page.",
+  "type": "object", "additionalProperties": false,
+  "required": ["schema_version", "policy_id", "max_active_emitters", "max_intelligible_speech", "focus_duck_db",
+               "crossfade_ms", "hysteresis", "selection_weights", "buses"],
+  "properties": {
+    "schema_version": {"type": "string", "pattern": "^0\\.1\\.[0-9]+$"},
+    "policy_id": {"type": "string", "minLength": 1},
+    "max_active_emitters": {"type": "integer", "minimum": 1, "maximum": 32},
+    "max_intelligible_speech": {"type": "integer", "minimum": 0, "maximum": 8},
+    "focus_duck_db": {"type": "number", "maximum": 0},
+    "crossfade_ms": {"type": "integer", "minimum": 0},
+    "crossfade_law": {"enum": ["equal_power", "equal_gain"]},
+    "hysteresis": {
+      "type": "object", "additionalProperties": false,
+      "required": ["deadband", "min_dwell_ms"],
+      "properties": {
+        "deadband": {"type": "number", "minimum": 0, "description": "score margin a challenger must exceed before it displaces an active emitter"},
+        "min_dwell_ms": {"type": "integer", "minimum": 0}
+      }
+    },
+    "selection_weights": {
+      "type": "object", "additionalProperties": false,
+      "required": ["proximity", "explicit_focus", "journey_relevance", "view_direction", "semantic_relevance"],
+      "properties": {
+        "proximity": {"type": "number", "minimum": 0, "maximum": 1},
+        "explicit_focus": {"type": "number", "minimum": 0, "maximum": 1},
+        "journey_relevance": {"type": "number", "minimum": 0, "maximum": 1},
+        "view_direction": {"type": "number", "minimum": 0, "maximum": 1},
+        "semantic_relevance": {"type": "number", "minimum": 0, "maximum": 1}
+      }
+    },
+    "buses": {"type": "array", "minItems": 1, "uniqueItems": true,
+              "items": {"enum": ["human_speech", "synthetic_speech", "live_room", "music", "ambience", "ui"]}},
+    "acoustic_lod": {
+      "type": "array",
+      "items": {"type": "object", "required": ["scale", "what_sounds"],
+                "properties": {"scale": {"enum": ["region", "city", "street", "threshold", "interior"]},
+                               "what_sounds": {"type": "string"}, "max_intelligible": {"type": "integer"}}}
+    },
+    "consent": {"type": "object", "properties": {"gate_required": {"type": "boolean"}, "gate_text": {"type": "string"}}}
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "_comment": "The station palette registry. name -> engine + engine voice. Engines: kokoro (local onnx), say (macOS), piper (local binary or --host), api (hero voice, key in Keychain 'elevenlabs-api').",
+  "george": {
+    "engine": "kokoro",
+    "voice": "bm_george",
+    "lang": "en-gb",
+    "sex": "m",
+    "accent": "British"
+  },
+  "lewis": {
+    "engine": "kokoro",
+    "voice": "bm_lewis",
+    "lang": "en-gb",
+    "sex": "m",
+    "accent": "British"
+  },
+  "daniel-k": {
+    "engine": "kokoro",
+    "voice": "bm_daniel",
+    "lang": "en-gb",
+    "sex": "m",
+    "accent": "British"
+  },
+  "fable": {
+    "engine": "kokoro",
+    "voice": "bm_fable",
+    "lang": "en-gb",
+    "sex": "m",
+    "accent": "British"
+  },
+  "emma": {
+    "engine": "kokoro",
+    "voice": "bf_emma",
+    "lang": "en-gb",
+    "sex": "f",
+    "accent": "British"
+  },
+  "isabella": {
+    "engine": "kokoro",
+    "voice": "bf_isabella",
+    "lang": "en-gb",
+    "sex": "f",
+    "accent": "British"
+  },
+  "alice": {
+    "engine": "kokoro",
+    "voice": "bf_alice",
+    "lang": "en-gb",
+    "sex": "f",
+    "accent": "British"
+  },
+  "lily": {
+    "engine": "kokoro",
+    "voice": "bf_lily",
+    "lang": "en-gb",
+    "sex": "f",
+    "accent": "British"
+  },
+  "michael": {
+    "engine": "kokoro",
+    "voice": "am_michael",
+    "lang": "en-us",
+    "sex": "m",
+    "accent": "American"
+  },
+  "adam": {
+    "engine": "kokoro",
+    "voice": "am_adam",
+    "lang": "en-us",
+    "sex": "m",
+    "accent": "American"
+  },
+  "fenrir": {
+    "engine": "kokoro",
+    "voice": "am_fenrir",
+    "lang": "en-us",
+    "sex": "m",
+    "accent": "American"
+  },
+  "onyx": {
+    "engine": "kokoro",
+    "voice": "am_onyx",
+    "lang": "en-us",
+    "sex": "m",
+    "accent": "American"
+  },
+  "heart": {
+    "engine": "kokoro",
+    "voice": "af_heart",
+    "lang": "en-us",
+    "sex": "f",
+    "accent": "American"
+  },
+  "bella": {
+    "engine": "kokoro",
+    "voice": "af_bella",
+    "lang": "en-us",
+    "sex": "f",
+    "accent": "American"
+  },
+  "nicole": {
+    "engine": "kokoro",
+    "voice": "af_nicole",
+    "lang": "en-us",
+    "sex": "f",
+    "accent": "American"
+  },
+  "sarah": {
+    "engine": "kokoro",
+    "voice": "af_sarah",
+    "lang": "en-us",
+    "sex": "f",
+    "accent": "American"
+  },
+  "daniel": {
+    "engine": "say",
+    "voice": "Daniel",
+    "sex": "m",
+    "accent": "British",
+    "note": "macOS compact voice"
+  },
+  "moira": {
+    "engine": "say",
+    "voice": "Moira",
+    "sex": "f",
+    "accent": "Irish",
+    "note": "macOS compact voice"
+  },
+  "fred": {
+    "engine": "say",
+    "voice": "Fred",
+    "sex": "m",
+    "accent": "American",
+    "note": "1990s Mac formant voice"
+  },
+  "whisper": {
+    "engine": "say",
+    "voice": "Whisper",
+    "sex": "m",
+    "accent": "American",
+    "note": "novelty"
+  },
+  "northern": {
+    "engine": "piper",
+    "voice": "en_GB-northern_english_male-medium",
+    "sex": "m",
+    "accent": "Northern English",
+    "host": "02-pi4",
+    "note": "Marvin's voice on 02-pi4"
+  },
+  "hero": {
+    "engine": "api",
+    "voice": "TBD",
+    "note": "signature station voice; needs an API key in the Keychain"
+  },
+  "alba": {
+    "engine": "piper",
+    "voice": "en_GB-alba-medium",
+    "sex": "f",
+    "accent": "Scottish",
+    "host": "02-pi4"
+  },
+  "jenny": {
+    "engine": "piper",
+    "voice": "en_GB-jenny_dioco-medium",
+    "sex": "f",
+    "accent": "British",
+    "host": "02-pi4"
+  },
+  "alan": {
+    "engine": "piper",
+    "voice": "en_GB-alan-medium",
+    "sex": "m",
+    "accent": "British",
+    "host": "02-pi4"
+  }
+}
