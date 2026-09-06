@@ -13,6 +13,8 @@ the ones a schema cannot express and the ones the Hear Crowds Plan names:
   M08 dwell below fade          policy: min_dwell_ms < crossfade_ms (voices would flicker)
   M09 weights do not sum to 1   policy: selection weights
   M10 intelligible > active     policy: max_intelligible_speech > max_active_emitters
+  M11 language tag mismatch     a delivery/transcript file name's language tag (Multilingual File
+                                Names: {fid}.{lang}.{ext}, bare = English) disagrees with the asset's language
 
 Diagnostics are machine-readable: one JSON object per file on stdout with
 {"file", "kind", "ok", "errors": [{"code", "path", "message"}]}.  Exit 1 if any
@@ -29,6 +31,17 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SCHEMAS = {k: json.load(open(os.path.join(HERE, "schema", f"{k}.schema.json")))
            for k in ("wiki-city-media", "soundscape-policy")}
 ANTHEM = re.compile(r"anthem|hymn", re.I)
+# Multilingual File Names: the dotted segment before the extension, when it parses as a BCP-47 tag
+FILE_TAG = re.compile(r"(?:\.(?P<lang>[a-z]{2,3}(?:-[A-Z][a-z]{3})?(?:-[A-Z]{2})?))?\.(?P<ext>wav|opus|m4a|mp3|txt|vtt)$")
+
+
+def tag_matches(uri, language):
+    """A bare name is English; a tagged name must be the asset's language or a prefix of it (es ~ es-GT)."""
+    m = FILE_TAG.search(uri or "")
+    if not m: return True
+    tag = m.group("lang")
+    if tag is None: return (language or "").split("-")[0] == "en"
+    return language == tag or (language or "").startswith(tag + "-")
 
 
 def structural(doc, kind):
@@ -59,6 +72,13 @@ def semantic_manifest(doc, files=None):
         stx = a.get("source_text", {})
         if ANTHEM.search(stx.get("heading", "") or "") or ANTHEM.search(stx.get("fragment_id", "") or ""):
             errs.append(dict(code="M05", path=p + "/source_text", message="anthem: song lyrics never air"))
+        for j, d in enumerate(a.get("delivery", [])):
+            if not tag_matches(d.get("uri"), a.get("language")):
+                errs.append(dict(code="M11", path=f"{p}/delivery/{j}/uri",
+                                 message=f"file tag of {d.get('uri')} disagrees with language {a.get('language')}"))
+        for key in ("transcript_uri", "transcript_text_uri"):
+            if a.get(key) and not tag_matches(a[key], a.get("language")):
+                errs.append(dict(code="M11", path=f"{p}/{key}", message=f"file tag of {a[key]} disagrees with language {a.get('language')}"))
         lo = a.get("loudness")
         if lo:
             if abs(lo.get("integrated_lufs", -16) + 16) > 1.0:

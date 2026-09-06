@@ -5,7 +5,7 @@ Fragment id scheme:  {constitution}:{article}.{paragraph}
   paragraph    = 1-based index of the paragraph inside that article (omitted for the whole article)
   run          = a.b-c for consecutive paragraphs b..c
 """
-import json, re, os, math
+import json, re, os, math, glob
 from collections import Counter, defaultdict
 MILL = os.path.expanduser("~/Code/radio-voice/mill")
 CONS = {c["id"]: c for c in json.load(open(f"{MILL}/raw/constitutions.json"))}
@@ -18,7 +18,7 @@ def topics_tree():
     walk(t); return out
 TOPICS = topics_tree()
 def prefix(cid): return cid.lower().replace("_", "-")
-_ART = re.compile(r"^(?:Article|Art\.?|Section|Sec\.?|§|Clause|Rule)\s*([0-9]+[A-Za-z]?(?:\.[0-9]+)?)", re.I)
+_ART = re.compile(r"^(?:Article|Art\.?|Section|Sec\.?|§|Clause|Rule|Artículo|Artigo|Artikel|Articolo|Artykuł|Artikkel|Madde|المادة)\s*([0-9]+[A-Za-z]?(?:\.[0-9]+)?)", re.I)
 _NUM = re.compile(r"^([0-9]+[A-Za-z]?)[.\s)]")
 def article_no(heading):
     h = heading.split(" / ")[-1].strip()
@@ -56,3 +56,48 @@ _dups = {t for t in Counter(c["title"] for c in CONS.values()) if Counter(c["tit
 def page_title(c):
     """Constitute title, disambiguated where two texts share one (Chile 2023 drafts)."""
     return c["title"] if c["title"] not in _dups else f"{c['title']} ({c['id'].replace('_', ' ')})"
+
+# ── other languages (Multilingual City Plan, Phase 1) ─────────────────────────
+LANGS = ("es", "ar")
+def aligned_rows(cid, lang):
+    """raw/aligned/{cid}.{lang}.jsonl as {fid: row}, or {} when the edition is absent."""
+    p = f"{MILL}/raw/aligned/{cid}.{lang}.jsonl"
+    if not os.path.exists(p): return {}
+    return {r["fid"]: r for r in (json.loads(l) for l in open(p))}
+def official_rows(cid):
+    """raw/official/{cid}.{lang}.jsonl (official originals, article level) as {lang: {fid: row}}."""
+    out = {}
+    for p in glob.glob(f"{MILL}/raw/official/{cid}.*.jsonl"):
+        lang = os.path.basename(p)[len(cid) + 1:-6]
+        out[lang] = {r["fid"]: r for r in (json.loads(l) for l in open(p)) if r["paras"]}
+    return out
+def attach_languages(us, cid, langs=LANGS):
+    """Give every unit text_{lang} from the aligned editions, keyed by the English
+    fragment id: an article gets the whole section, a paragraph its counterpart
+    (only where paragraph counts agree), a run the whole section. Sets u["languages"]."""
+    editions = {l: aligned_rows(cid, l) for l in langs}
+    for u in us:
+        u["languages"] = ["en"]
+        fid = u["fid"]; art_fid = fid.rsplit(".", 1)[0] if u["kind"] != "article" else fid
+        for l, rows in editions.items():
+            r = rows.get(art_fid)
+            if not r: continue
+            paras = r[f"paras_{l}"]
+            if u["kind"] == "paragraph":
+                n = int(fid.rsplit(".", 1)[1])
+                if not r["aligned_paragraphs"] or n > len(paras): continue
+                t = paras[n - 1]
+            else:
+                t = " ".join(paras)
+            if t: u[f"text_{l}"] = t; u["languages"].append(l)
+        for l, rows in official_rows(cid).items():   # official originals: article level only
+            r = rows.get(art_fid)
+            if r and u["kind"] == "article":
+                u[f"text_{l}"] = " ".join(r["paras"]); u["languages"].append(l)
+    return us
+LANGUAGES = json.load(open(f"{MILL}/languages.json")) if os.path.exists(f"{MILL}/languages.json") else {}
+def enactment(cid):
+    """(language, languages, confidence, note) of the text as enacted, from languages.json by country."""
+    c = CONS.get(cid); e = LANGUAGES.get(c["country_id"]) if c else None
+    if not e: return None
+    return dict(language=e["language"], languages=e.get("languages", [e["language"]]), confidence=e.get("confidence", "low"), note=e.get("note", ""))
