@@ -1,0 +1,133 @@
+{
+ "schema_version": "0.1.0",
+ "journey_id": "multilingual-flight-1",
+ "built": "2026-09-06T18:02:43Z",
+ "rule": "a zone begins pure and ends pure; polyphony sits between two solos",
+ "edition": "legalcommons-pages-epoch-4",
+ "zones": [
+  {
+   "name": "Latin America, in Spanish",
+   "mix": "solo",
+   "languages": [
+    "es"
+   ],
+   "at": [
+    794.5,
+    1492.2
+   ],
+   "height": 22,
+   "seconds": 28,
+   "houses": [
+    "argentina-1853-reinst-1983-rev-1994",
+    "bolivia-plurinational-state-of-2009",
+    "chile-1925",
+    "chile-1980-rev-2021",
+    "chile-2018",
+    "chile-2022",
+    "chile-2023-chile-2023d",
+    "chile-2023-chile-2023dd",
+    "colombia-1991-rev-2015",
+    "costa-rica-1949-rev-2020",
+    "cuba-1976-rev-2002",
+    "cuba-2018",
+    "cuba-2019",
+    "dominican-republic-2015",
+    "ecuador-2008-rev-2021",
+    "el-salvador-1983-rev-2014",
+    "equatorial-guinea-1991-rev-2012",
+    "guatemala-1985-rev-1993",
+    "honduras-1982-rev-2013",
+    "mexico-1917-rev-2015",
+    "nicaragua-1987-rev-2014",
+    "panama-1972-rev-2004",
+    "paraguay-1992-rev-2011",
+    "peru-1993-rev-2023",
+    "uruguay-1966-reinst-1985-rev-2004",
+    "venezuela-bolivarian-republic-of-1999-rev-2009"
+   ],
+   "says": "pure Spanish: twenty-odd houses of the Latin-American quarter, one intelligible at a time"
+  },
+  {
+   "name": "Iberia and Brazil, Spanish with Portuguese",
+   "mix": "pair",
+   "languages": [
+    "es",
+    "pt"
+   ],
+   "at": [
+    1189.2,
+    1517.1
+   ],
+   "height": 18,
+   "seconds": 22,
+   "houses": [
+    "spain-1978-rev-2011",
+    "brazil-1988-rev-2017",
+    "portugal-1976-rev-2005"
+   ],
+   "says": "two languages sharing the street, one intelligible voice each"
+  },
+  {
+   "name": "The centre, every language",
+   "mix": "polyphonic",
+   "languages": [],
+   "at": [
+    1474.2,
+    1243.5
+   ],
+   "height": 30,
+   "seconds": 26,
+   "houses": [],
+   "says": "polyphonic: every language a strand, none louder than the rest"
+  },
+  {
+   "name": "The Arabic quarter",
+   "mix": "solo",
+   "languages": [
+    "ar"
+   ],
+   "at": [
+    1043.7,
+    1550.2
+   ],
+   "height": 22,
+   "seconds": 28,
+   "houses": [
+    "egypt-2012",
+    "egypt-2014-rev-2019",
+    "iraq-2005",
+    "jordan-1952-rev-2016",
+    "kuwait-1962-reinst-1992",
+    "lebanon-1926-rev-2004",
+    "libya-2011-rev-2012",
+    "libya-2016",
+    "morocco-2011",
+    "sudan-2005",
+    "syrian-arab-republic-2012",
+    "tunisia-1959-rev-2008",
+    "tunisia-2014",
+    "united-arab-emirates-1971-rev-2009",
+    "yemen-1991-rev-2015",
+    "yemen-2015"
+   ],
+   "says": "pure Arabic; the Egyptian preamble is the beacon"
+  },
+  {
+   "name": "Descent to one house",
+   "mix": "native",
+   "languages": [],
+   "at": [
+    918.2,
+    1635.4
+   ],
+   "height": 2,
+   "seconds": 20,
+   "houses": [
+    "bolivia-plurinational-state-of-2009"
+   ],
+   "descend": "bolivia-plurinational-state-of-2009",
+   "says": "native: the English reading gives way to the original at the threshold"
+  }
+ ],
+ "total_seconds": 124
+}
