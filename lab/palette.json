@@ -1,0 +1,112 @@
+{
+ "ar": {
+  "default": "ar_JO-kareem-medium",
+  "engine": "piper",
+  "cer": 0.032,
+  "rtf": 26.69,
+  "machine": "macmini M1 8GB",
+  "basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+  "runner_up": "mms-tts-ara",
+  "candidates": 3
+ },
+ "ar-JO": {
+  "default": "ar_JO-kareem-medium",
+  "engine": "piper",
+  "cer": 0.044,
+  "rtf": 24.99,
+  "machine": "macmini M1 8GB",
+  "basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+  "runner_up": null,
+  "candidates": 1
+ },
+ "de": {
+  "default": "de_DE-thorsten-medium",
+  "engine": "piper",
+  "cer": 0.0,
+  "rtf": 27.37,
+  "machine": "macmini M1 8GB",
+  "basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+  "runner_up": "de_DE-thorsten-high",
+  "candidates": 4
+ },
+ "es": {
+  "default": "em_santa",
+  "engine": "kokoro",
+  "cer": 0.0,
+  "rtf": 0.9,
+  "machine": "laptop M2 8GB",
+  "basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+  "runner_up": "ef_dora",
+  "candidates": 7
+ },
+ "es-MX": {
+  "default": "es_MX-claude-high",
+  "engine": "piper",
+  "cer": 0.006,
+  "rtf": 26.16,
+  "machine": "macmini M1 8GB",
+  "basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+  "runner_up": null,
+  "candidates": 1
+ },
+ "fr": {
+  "default": "fr_FR-siwis-medium",
+  "engine": "piper",
+  "cer": 0.005,
+  "rtf": 21.51,
+  "machine": "macmini M1 8GB",
+  "basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+  "runner_up": "ff_siwis",
+  "candidates": 5
+ },
+ "it": {
+  "default": "it_IT-serena-medium",
+  "engine": "piper",
+  "cer": 0.0,
+  "rtf": 19.53,
+  "machine": "macmini M1 8GB",
+  "basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+  "runner_up": "im_nicola",
+  "candidates": 5
+ },
+ "ja": {
+  "default": "jf_alpha",
+  "engine": "kokoro",
+  "cer": 1.0,
+  "rtf": 0.82,
+  "machine": "laptop M2 8GB",
+  "basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+  "runner_up": "jm_kumo",
+  "candidates": 2
+ },
+ "pt-BR": {
+  "default": "pm_alex",
+  "engine": "kokoro",
+  "cer": 0.031,
+  "rtf": 1.33,
+  "machine": "laptop M2 8GB",
+  "basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+  "runner_up": "pf_dora",
+  "candidates": 6
+ },
+ "pt-PT": {
+  "default": "pt_PT-tugão-medium",
+  "engine": "piper",
+  "cer": 0.044,
+  "rtf": 20.51,
+  "machine": "macmini M1 8GB",
+  "basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+  "runner_up": null,
+  "candidates": 1
+ },
+ "zh": {
+  "default": "zf_xiaobei",
+  "engine": "kokoro",
+  "cer": 0.833,
+  "rtf": 0.83,
+  "machine": "laptop M2 8GB",
+  "basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+  "runner_up": "zm_yunxi",
+  "candidates": 2
+ }
+}

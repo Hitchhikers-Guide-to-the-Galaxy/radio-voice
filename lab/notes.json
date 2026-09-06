@@ -1,0 +1,6 @@
+{
+  "piper_voices": 15,
+  "registry": 64,
+  "mms": "on the laptop 0.67 to 0.90 times realtime at 1.45 GB resident for Arabic, German, Spanish, French and Portuguese (there is no Italian checkpoint); on the MacMini, beside Icecast, Matrix and docs.plus, Arabic 0.30x and German 3.9x at 1.28 GB, so it runs there but only as a batch engine",
+  "finding": "Piper is the batch engine for these languages: on the MacMini it renders Article 1 at 17 to 35 times realtime inside 850 MB, twenty times faster than Kokoro on the laptop and with a single native speaker per voice. The Whisper floor works where the text is prose and fails where it is a roll-call: the Swiss Article 1 is a list of twenty-six cantons and every voice scores badly on it because Whisper cannot spell them, so those rows measure the transcriber, not the voice, and were excluded from the palette. Kokoro's realtime factors today were measured while macOS was rebuilding its contacts index and are two to three times below this morning's standalone 3.1 to 3.8x; the CER is unaffected. MMS covers Arabic, which nothing else in hand did, but its Arabic voice is the slowest and least intelligible clip on the bench. Nothing here has been heard by a native speaker: the provisional defaults are a machine's choice and the listener column is the one that decides."
+}

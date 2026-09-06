@@ -1,0 +1,254 @@
+{
+ "ar-ar_JO-kareem-medium.wav": {
+  "lang": "ar",
+  "cer": 0.032,
+  "whisper_s": 11.8,
+  "hyp": "جمهورية مصر العربية دولة ذات سيادة موحدة لا تقبل التجزئة ولا ينزل عن شيء منها نظامها جمهور ديمقراطي يقوم على أساس المواطنة وسيادة القانون الشعب المصري جزء من الأمة العربية يعمل على تكاملها ووحدتها ومصر جزء من العالم الإسلام تنتمى للقارة الإفريقية وتعتز بانتدادها الأسيوي وتسهم فابناء الحضارة الإنسانية"
+ },
+ "ar-mms-ara.wav": {
+  "lang": "ar",
+  "cer": 0.062,
+  "whisper_s": 15.7,
+  "hyp": "جهورية مصر العربية دولة ذات السلادة موحدة لا تقبل التجذئة ولا ينزل عن شيء منها نظامها جمهور دمقرات نقوم على أساس المواطنة وسيادة القانون الشعب المصري جزء من الأمة العربية يعمل على تكاملها ووحدتها ومصر جزء من العالم الإسلامي تنتمل القارة الإفريقية وتعتز بمتدادها الأسيوية وتسهم فبناء الحضارة الإنسانية"
+ },
+ "de-CH-de_DE-thorsten-medium.wav": {
+  "lang": "de-CH",
+  "cer": 0.06,
+  "whisper_s": 10.5,
+  "hyp": "das Schweizer Volk und die Kanton Zürich, Bern, Luzem, Uwi, Schwyz, Obwalden und Nidwalden, Glarus, Zug, Freiburg, Solothurn, Baselstadt und Baselandschaft, Schaffhausen, Appenzell aus der Hoden und Appenzell in der Hoden, Esti, Gallen, Graubenden, Agau, Thurgau, Tessin, Wart, Wallis, Neunburg, Genf und Jura bilden die schweizerische Eidgenossenschaft."
+ },
+ "de-de_DE-thorsten-high.wav": {
+  "lang": "de",
+  "cer": 0.012,
+  "whisper_s": 14.4,
+  "hyp": "1. Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt. 2. Das deutscher Volk bekennt sich darum zu unverletzlichen und unveräußerlichen Menschenrechten als Grundlage jeder menschlichen Gemeinschaft, bis Friedens und der Gerechtigkeit in der Welt. 3. Die nach folgenden Grundrechte Bindengesetzgebung, vollziehende Gewalt und Rechtsprechung als unmittelbar geltendes Recht."
+ },
+ "de-de_DE-thorsten-medium.wav": {
+  "lang": "de",
+  "cer": 0.0,
+  "whisper_s": 9.9,
+  "hyp": "1. Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen, ist Verpflichtung aller staatlichen Gewalt. 2. Das deutsche Volk bekennt sich darum zu unverletzlichen und unveräußerlichen Menschenrechten als Grundlage jeder menschlichen Gemeinschaft, des Friedens und der Gerechtigkeit in der Welt. 3. Die nachfolgenden Grundrechte binden Gesetzgebung, vollziehende Gewalt und Rechtsprechung als unmittelbar geltendes Recht."
+ },
+ "de-mms-deu.wav": {
+  "lang": "de",
+  "cer": 0.024,
+  "whisper_s": 10.1,
+  "hyp": "Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt. Das deutsche Volk bekennt sich darum zu unverletzlichen und unveräußerlichen Menschenrechten als Grundlage. Jeder menschlichen Gemeinschaft des Friedens und der Gerechtigkeit in der Welt er die nachfolgenden Grundrechte-Bindengesetzgebung vollsehende Gewalt und Rechtsprechung als unmittelbar geltendes Recht."
+ },
+ "es-es_ES-davefx-medium.wav": {
+  "lang": "es",
+  "cer": 0.003,
+  "whisper_s": 8.2,
+  "hyp": "España se constituye en un estado social y democrático de derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político. La soberanía nacional reside en el pueblo español del que emanan los poderes del estado. La forma política del estado español es la monadquía parlamentaria."
+ },
+ "es-es_ES-sharvard-medium.wav": {
+  "lang": "es",
+  "cer": 0.006,
+  "whisper_s": 8.8,
+  "hyp": "España se constituye en un estado social y democrático de derecho, que propuna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político. La soberanía nacional reside en el pueblo español del que manan los poderes del Estado. La forma política del Estado español es la monarquía parlamentaria."
+ },
+ "es-es_MX-claude-high.wav": {
+  "lang": "es",
+  "cer": 0.006,
+  "whisper_s": 9.1,
+  "hyp": "España se constituye en un estado social y democrático de derecho que propugna como valores superiores de su ordenamiento jurídico, la libertad, la justicia, la igualdad y el pluralismo político. La soberanina nacional reside en el pueblo español del que emanan los poderes del Estado, la forma política del Estado, español es la monarquía parlamentaria."
+ },
+ "es-kokoro-ef_dora.wav": {
+  "lang": "es",
+  "cer": 0.0,
+  "whisper_s": 8.2,
+  "hyp": "España se constituye en un estado social y democrático de derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político. La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado. La forma política del Estado español es la monarquía parlamentaria."
+ },
+ "es-kokoro-em_alex.wav": {
+  "lang": "es",
+  "cer": 0.0,
+  "whisper_s": 8.8,
+  "hyp": "España se constituye en un estado social y democrático de derecho que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político. La soberanía nacional reside en el pueblo español del que emanan los poderes del Estado. La forma política del Estado español es la monarquía parlamentaria."
+ },
+ "es-kokoro-em_santa.wav": {
+  "lang": "es",
+  "cer": 0.0,
+  "whisper_s": 8.9,
+  "hyp": "España se constituye en un estado social y democrático de derecho que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político. La soberanía nacional reside en el pueblo español del que emanan los poderes del estado. La forma política del estado español es la monarquía parlamentaria."
+ },
+ "es-mms-spa.wav": {
+  "lang": "es",
+  "cer": 0.02,
+  "whisper_s": 8.3,
+  "hyp": "España se constituye en un estado social y democrático de den hecho que propugna como valores superiores de su ordenamiento curídico. La libertad, la justicia, la igualdad y el pluralismo político. La soberanía nacional reside en el pueblo de español del que emanan los poderes del estado. La forma política del estado español es la monarquía parlamentaria."
+ },
+ "fr-CH-fr_FR-siwis-medium.wav": {
+  "lang": "fr-CH",
+  "cer": 0.142,
+  "whisper_s": 11.9,
+  "hyp": "Le peuple suisse est les cantons de Zurich, de Berne, de Lucerne, de Dury, de Chuisse, de Boisle, et de Nidwald, de Glary, de Zug, de Fribourg, de Seuleur, de Balville et de Balkampagne, de Chaffousse, d'Apenzell Road extérieur et d'Apenzell Road intérieur, de St-Gaull, des Grisons, d'Argovie, de Thergovie, du Tessin, de Vaud, du Valais, de Neuchâtel, de Geneva et du Juraforme, la Confédération Suisse."
+ },
+ "fr-CH-kokoro-ff_siwis.wav": {
+  "lang": "fr-CH",
+  "cer": 0.191,
+  "whisper_s": 14.8,
+  "hyp": "Le peuple suisse et les cantons de Zurich, de Berne, de Lucerne, de Rie, de Chuisse, d'Oboal et de Nidoal, de Glarie, de Zug, de Fribourg, de Soleur, de Baalville et de Balkampagne, de Shafouz, in the Penzelfre Roads Exterieur et in the Penzelfre Roads Intérieurs de Saint-Hen-Golfre, des Grisons d'Argovie, de Enseugovifle, du Tessin de Vaud, du Valais de Nechattel, de Genève et du Jura forment la Confédération Suisse."
+ },
+ "fr-fr_FR-siwis-medium.wav": {
+  "lang": "fr",
+  "cer": 0.005,
+  "whisper_s": 31.3,
+  "hyp": "La France est une république indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion. Elle respecte toutes les croyances. Son organisation est décentralisée. La loi favorise l'égal accès des femmes et des hommes au mandat électoraux et fonctions électives ainsi qu'aux responsabilités professionnelles et sociales."
+ },
+ "fr-fr_FR-tom-medium.wav": {
+  "lang": "fr",
+  "cer": 0.015,
+  "whisper_s": 36.4,
+  "hyp": "La France est une république indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion. Elle respecte de toutes les croyances, son organisation est décentralisée. La loi favorise illégale accès des femmes et des hommes aux mandats électoraux et fonctions électives, ainsi qu'aux responsabilités professionnelles et sociales."
+ },
+ "fr-fr_FR-upmc-medium.wav": {
+  "lang": "fr",
+  "cer": 0.015,
+  "whisper_s": 30.7,
+  "hyp": "La France est une république indivisible, laïque, démocratique et sociale. Elle assure égalité devant la loi de tous les citoyens, sans distinction d'origine, de race ou de religion. Elle respecte toutes les croyances. Son organisation est décentralisée. La loi favorise y égale accès des femmes et des hommes au mandat électoraux et fonctions électives, ainsi qu'aux responsabilités professionnelles et sociales."
+ },
+ "fr-kokoro-ff_siwis.wav": {
+  "lang": "fr",
+  "cer": 0.005,
+  "whisper_s": 23.3,
+  "hyp": "La France est une république indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion. Elle respecte toutes les croyances. Son organisation est décentralisée. La loi favorise l'égal accès des femmes et des hommes au mandat électoraux et fonctions électives, ainsi qu'aux responsabilités professionnelles et sociales."
+ },
+ "fr-mms-fra.wav": {
+  "lang": "fr",
+  "cer": 0.017,
+  "whisper_s": 25.0,
+  "hyp": "La France est une récubique indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens, sans distinction d'origine de race ou de religion. Elle respecte toutes les croyances, son organisation et décentraliser la loi. Favorise l'égal accès des femmes et des hommes au mandat électoraux et fonctions électives ainsi qu'aux responsabilités professionnelles et sociales."
+ },
+ "it-CH-it_IT-paola-medium.wav": {
+  "lang": "it-CH",
+  "cer": 0.194,
+  "whisper_s": 23.6,
+  "hyp": "chi il popolo svizzero e canta ne di Zuri goberna, Lucerna, Uri, Svitta o Valdu, Ninvaldu, Larona, Sugo, Fibugo, Soretta, Basilea, Città e Basilea Campanagia, Shafusa, Opensela e Sternera Opensela interno, Sandallo, Figionea Govia, Tugovia, Ticino, Faddo Valese, Neuschatel, Ginevei, Giula, Costituiscono, La Confederazione, Svizzera."
+ },
+ "it-CH-kokoro-if_sara.wav": {
+  "lang": "it-CH",
+  "cer": 0.037,
+  "whisper_s": 10.6,
+  "hyp": "Il popolo svezzero e i cantoni di Zurigo, Berna, Lucerna, Uri, Svitto, Ovvaldo e Nidvaldo Glarona, Zugo, Friburgo, Soletta, Basilea, Città e Basilea, Campagna, Shaffusa a Pensello esterno e a Pensello interno, Sangallo, Grigioni, Argovia, Turgovia, Ticino, Vaud, Valese, Neuchatel, Ginevra e Giura costituiscono la Confederazione Svezzera."
+ },
+ "it-it_IT-paola-medium.wav": {
+  "lang": "it",
+  "cer": 0.02,
+  "whisper_s": 5.1,
+  "hyp": "L'Italia è una repubblica democratica fondata sul lavoro. La sovranità appartiene al popolo che l'esecita nelle forme e nei limiti della costituzione."
+ },
+ "it-it_IT-riccardo-x_low.wav": {
+  "lang": "it",
+  "cer": 0.094,
+  "whisper_s": 4.8,
+  "hyp": "Vitalire è una repubblica democratica fondata sul lavoro, al sorranità pattiene al popolo che la esercita nelle forme rimanei dimiti della Costituzione."
+ },
+ "it-it_IT-serena-medium.wav": {
+  "lang": "it",
+  "cer": 0.0,
+  "whisper_s": 5.0,
+  "hyp": "L'Italia è una repubblica democratica, fondata sul lavoro. La sovranità appartiene al popolo, che la esercita nelle forme e nei limiti della Costituzione."
+ },
+ "it-kokoro-if_sara.wav": {
+  "lang": "it",
+  "cer": 0.0,
+  "whisper_s": 5.3,
+  "hyp": "L'Italia è una repubblica democratica fondata sul lavoro. La sovranità appartiene al popolo che la esercita nelle forme e nei limiti della costituzione."
+ },
+ "it-kokoro-im_nicola.wav": {
+  "lang": "it",
+  "cer": 0.0,
+  "whisper_s": 4.9,
+  "hyp": "L'Italia è una repubblica democratica fondata sul lavoro, la sovranità appartiene al popolo che la esercita nelle forme e nei limiti della Costituzione."
+ },
+ "pt-BR-kokoro-pf_dora.wav": {
+  "lang": "pt-BR",
+  "cer": 0.033,
+  "whisper_s": 14.1,
+  "hyp": "A República Federativa do Brasil, formada pela União Indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em estado democrático de direito e tem como fundamentos e soberania. 2. A Cidadania. 3. A Dignidade da Pessoa Humana. 4. Os Valores Sociais do Trabalho e da Livre Iniciativa. Vide Lei Número 13.874, de 2019, vê o Pluralismo Político. Parágrafo Único. Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente nos termos desta Constituição."
+ },
+ "pt-BR-kokoro-pm_alex.wav": {
+  "lang": "pt-BR",
+  "cer": 0.031,
+  "whisper_s": 12.9,
+  "hyp": "A República Federativa do Brasil, formada pela União Indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em estado democrático de direito e tem como fundamentos e a soberania. 2. A cidadania. 3. A dignidade da pessoa humana. 4. Os valores sociais do trabalho e da livre iniciativa. Vide Lei número 13.874, de 2019, vê o pluralismo político. Parágrafo único. Tudo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente nos termos desta Constituição."
+ },
+ "pt-BR-kokoro-pm_santa.wav": {
+  "lang": "pt-BR",
+  "cer": 0.041,
+  "whisper_s": 12.2,
+  "hyp": "A República Federativa do Brasil, formada pela União Indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado democrático de direito e tem como fundamentos e a soberania. Dois a cidadania, três a dignidade da pessoa humana. Quatro os valores sociais do trabalho e da livre iniciativa. Vide Lei número 13.874 de 2019 vê o pluralismo político, parágrafo único. Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente nos termos desta Constituição."
+ },
+ "pt-BR-mms-por.wav": {
+  "lang": "pt-BR",
+  "cer": 0.062,
+  "whisper_s": 10.7,
+  "hyp": "A República Federativa do Brasil, formada pela União Indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos a soberania, a cidadania e a dignidade da pessoa humana e os valores sociais do trabalho e da livre iniciativa. Vidi Lei, diz, viu o pluralismo político-paragrafo único todo o poder emana do povo que o exerce por meio de representantes eleitos ou diretamente nos termos desta Constituição."
+ },
+ "pt-BR-pt_BR-cadu-medium.wav": {
+  "lang": "pt-BR",
+  "cer": 0.06,
+  "whisper_s": 12.4,
+  "hyp": "A República Federativa do Brasil, formada pela União Indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se um estado democrático de direito e tem como fundamentos e a soberania, dois a cidadania, treza a dignidade da pessoa humana, quatro os valores sociais do trabalho e da livre iniciativa, Vídeo e Número 13.874, de 2019, vê o pluralismo político. Parágrafo Único, todo poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos temos desta Constituição."
+ },
+ "pt-BR-pt_BR-faber-medium.wav": {
+  "lang": "pt-BR",
+  "cer": 0.083,
+  "whisper_s": 11.6,
+  "hyp": "A República Federativa do Brasil, formada pelo União Indissoluvo dos Estados e Municípios e do Distrito Federal, constitui-se em estado democrático de direito e tem como fundamentos e a sobernia, pois a cidadania, que essa adiquilidade da pessoa humana, quatro valores sociais do trabalho e da livre iniciativa de lei número 13.874, de 2019, vê o pluralismo político. Tarárefo único. Todo o poder e mana do povo, que o exerce por meio de representantes eleitos ou diretamente, nós temos desta Constituição."
+ },
+ "pt-PT-pt_PT-tugão-medium.wav": {
+  "lang": "pt-PT",
+  "cer": 0.044,
+  "whisper_s": 4.2,
+  "hyp": "Portugal é uma republica surana, baseada na dignidade da pessoa humana e na vontade popular e empenhada na constituição de uma sociedade livre, justa e solidária."
+ },
+ "ar-mms-ara-mini.wav": {
+  "lang": "ar",
+  "cer": 0.055,
+  "whisper_s": 16.0,
+  "hyp": "جهورية مصر العربية دولة ذات سيادة موحدة لا تقبل التجزئة ولا ينزل عن شيء منها النظامها جمهوري ديمقراط يقوم على أساس المواطلة وسيادة القنون الشعب المصري جزء من الأمة العربية يعمل على تكاملها ووحدتها ومصر جزء من العالم الإسلامي تنتمل القارة الإفريقية وتعتز بانتدادها الأسيوي وتسهم فبناء الحضارة الإنسانية لي"
+ },
+ "de-mms-deu-mini.wav": {
+  "lang": "de",
+  "cer": 0.024,
+  "whisper_s": 11.2,
+  "hyp": "Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt, dass deutsche Volk bekennt sich darum zu unverletzlichen und unveräußerlichen Menschenrechten als Grundlage. Jeder menschlichen Gemeinschaft des Friedens und der Gerechtigkeit in der Welt, da die nach vollenden Grundrechte binden Gesetzgebung vollziehende Gewalt und Rechtsprechung als unmittelbar geltendes Recht."
+ },
+ "ar-JO-ar_JO-kareem-medium.wav": {
+  "lang": "ar-JO",
+  "cer": 0.044,
+  "whisper_s": 6.9,
+  "hyp": "المملكة الإردنية الهاشمية دولة عربية مستقلة ذات سيادة ملكها لا يتجزء ولا ينزل عن شيء منه والشعب الإردني جزء من اليامة العربية ونظام الحكم فيها نياب ملكي وراف"
+ },
+ "es-MX-es_MX-claude-high.wav": {
+  "lang": "es-MX",
+  "cer": 0.006,
+  "whisper_s": 7.3,
+  "hyp": "En los Estados Unidos mexicanos, todas las personas gozarán de los derechos humanos reconocidos en esta Constitución y de los tratados internacionales de los que el Estado mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que esta Constitución establece."
+ },
+ "ja-kokoro-jf_alpha.wav": {
+  "lang": "ja",
+  "cer": 1.0,
+  "whisper_s": 112.4,
+  "hyp": ""
+ },
+ "ja-kokoro-jm_kumo.wav": {
+  "lang": "ja",
+  "cer": 1.0,
+  "whisper_s": 83.4,
+  "hyp": ""
+ },
+ "zh-kokoro-zf_xiaobei.wav": {
+  "lang": "zh",
+  "cer": 0.833,
+  "whisper_s": 8.5,
+  "hyp": "中華人民共和國是工人階級領導的一共農個聯盟為記者 負責人民民主專政的所侮辱過其下所侮辱出一期渡息 中華人民共和國的根本地 渡中國共產黨領導是 中國特首所侮辱出一期本地 代財政經濟 恩國主席 渡中國恩婆無礙所侮辱出一期渡息"
+ },
+ "zh-kokoro-zm_yunxi.wav": {
+  "lang": "zh",
+  "cer": 0.896,
+  "whisper_s": 8.9,
+  "hyp": "中華人民共若過時,共人藉其領導的一共農個聯盟為妻子, 互待而綿綿處轉成的所無畏處以過嫁所無畏處以嫉妒息。 中華人民共若過的根本其,對中國共產黨領導息, 中國他所所無畏處以最本其,但他曾經其, 恩若知其若,所國人譜如癌所無畏處以嫉妒。"
+ }
+}

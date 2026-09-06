@@ -1,0 +1,24 @@
+[
+ {
+  "lang": "es-MX",
+  "voice": "es_MX-claude-high",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 22.6,
+  "render_s": 0.86,
+  "rtf": 26.16,
+  "max_rss_mb": 580,
+  "file": "es-MX-es_MX-claude-high.wav"
+ },
+ {
+  "lang": "ar-JO",
+  "voice": "ar_JO-kareem-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 21.0,
+  "render_s": 0.84,
+  "rtf": 24.99,
+  "max_rss_mb": 685,
+  "file": "ar-JO-ar_JO-kareem-medium.wav"
+ }
+]

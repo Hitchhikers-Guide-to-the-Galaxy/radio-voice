@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13">
+<rect width="1200" height="640" fill="#fbf9f4"/>
+<line x1="80" y1="570" x2="1160" y2="570" stroke="#888"/><line x1="80" y1="40" x2="80" y2="570" stroke="#888"/>
+<line x1="129.0909090909091" y1="40" x2="129.0909090909091" y2="570" stroke="#c94c4c" stroke-dasharray="4 4"/><text x="133.0909090909091" y="54" fill="#c94c4c">pass line: CER 0.05</text>
+<line x1="80" y1="417.23824858431925" x2="1160" y2="417.23824858431925" stroke="#999" stroke-dasharray="4 4"/><text x="1070" y="413.23824858431925" fill="#666">1x realtime</text>
+<text x="620.0" y="616" text-anchor="middle">Whisper character error rate on Article 1 (lower is better)</text>
+<text transform="translate(20,305.0) rotate(-90)" text-anchor="middle">realtime factor on the named machine (higher is faster)</text>
+<text x="80.0" y="586" text-anchor="middle" fill="#666">0.00</text>
+<text x="178.1818181818182" y="586" text-anchor="middle" fill="#666">0.10</text>
+<text x="276.3636363636364" y="586" text-anchor="middle" fill="#666">0.20</text>
+<text x="374.5454545454545" y="586" text-anchor="middle" fill="#666">0.30</text>
+<text x="472.72727272727275" y="586" text-anchor="middle" fill="#666">0.40</text>
+<text x="570.9090909090909" y="586" text-anchor="middle" fill="#666">0.50</text>
+<text x="72" y="552.8200591942566" text-anchor="end" fill="#666">0.25x</text>
+<text x="72" y="487.0291538892879" text-anchor="end" fill="#666">0.5x</text>
+<text x="72" y="421.23824858431925" text-anchor="end" fill="#666">1x</text>
+<text x="72" y="355.44734327935055" text-anchor="end" fill="#666">2x</text>
+<text x="72" y="289.6564379743819" text-anchor="end" fill="#666">4x</text>
+<text x="72" y="223.86553266941328" text-anchor="end" fill="#666">8x</text>
+<circle cx="111.4" cy="105.5" r="9" fill="#4f6d8f" stroke="#222" stroke-width="2.5"><title>ar · ar_JO-kareem-medium · CER 0.032 · 26.69x on macmini M1 8GB</title></circle>
+<text x="122.4" y="109.5" fill="#333">ar ar JO-kareem-medium</text>
+<circle cx="134.0" cy="531.5" r="6" fill="#2e8b57" stroke="#fff" stroke-width="1.2"><title>ar · mms-tts-ara · CER 0.055 · 0.3x on macmini M1 8GB</title></circle>
+<text x="145.0" y="535.5" fill="#333">ar mms-tts-ara</text>
+<circle cx="140.9" cy="448.4" r="6" fill="#2e8b57" stroke="#fff" stroke-width="1.2"><title>ar · mms-tts-ara · CER 0.062 · 0.72x on laptop M2 8GB</title></circle>
+<text x="151.9" y="452.4" fill="#333">ar mms-tts-ara</text>
+<circle cx="123.2" cy="111.8" r="9" fill="#4f6d8f" stroke="#222" stroke-width="2.5"><title>ar-JO · ar_JO-kareem-medium · CER 0.044 · 24.99x on macmini M1 8GB</title></circle>
+<text x="134.2" y="115.8" fill="#333">ar-JO ar JO-kareem-medium</text>
+<circle cx="80.0" cy="103.1" r="9" fill="#4f6d8f" stroke="#222" stroke-width="2.5"><title>de · de_DE-thorsten-medium · CER 0.0 · 27.37x on macmini M1 8GB</title></circle>
+<text x="91.0" y="107.1" fill="#333">de de DE-thorsten-medium</text>
+<circle cx="91.8" cy="286.6" r="6" fill="#4f6d8f" stroke="#fff" stroke-width="1.2"><title>de · de_DE-thorsten-high · CER 0.012 · 3.96x on macmini M1 8GB</title></circle>
+<text x="102.8" y="290.6" fill="#333">de de DE-thorsten-high</text>
+<circle cx="103.6" cy="287.8" r="6" fill="#2e8b57" stroke="#fff" stroke-width="1.2"><title>de · mms-tts-deu · CER 0.024 · 3.91x on macmini M1 8GB</title></circle>
+<text x="114.6" y="291.8" fill="#333">de mms-tts-deu</text>
+<circle cx="103.6" cy="427.2" r="6" fill="#2e8b57" stroke="#fff" stroke-width="1.2"><title>de · mms-tts-deu · CER 0.024 · 0.9x on laptop M2 8GB</title></circle>
+<text x="114.6" y="431.2" fill="#333">de mms-tts-deu</text>
+<circle cx="138.9" cy="136.3" r="6" fill="#4f6d8f" stroke="#fff" stroke-width="1.2"><title>de-CH · de_DE-thorsten-medium · CER 0.06 · 19.29x on macmini M1 8GB</title></circle>
+<text x="149.9" y="140.3" fill="#333">de-CH de DE-thorsten-medium</text>
+<circle cx="80.0" cy="427.2" r="9" fill="#d9822b" stroke="#222" stroke-width="2.5"><title>es · em_santa · CER 0.0 · 0.9x on laptop M2 8GB</title></circle>
+<text x="91.0" y="431.2" fill="#333">es em santa</text>
+<circle cx="80.0" cy="484.9" r="6" fill="#d9822b" stroke="#fff" stroke-width="1.2"><title>es · ef_dora · CER 0.0 · 0.49x on laptop M2 8GB</title></circle>
+<text x="91.0" y="488.9" fill="#333">es ef dora</text>
+<circle cx="80.0" cy="525.4" r="6" fill="#d9822b" stroke="#fff" stroke-width="1.2"><title>es · em_alex · CER 0.0 · 0.32x on laptop M2 8GB</title></circle>
+<text x="91.0" y="529.4" fill="#333">es em alex</text>
+<circle cx="82.9" cy="129.0" r="6" fill="#4f6d8f" stroke="#fff" stroke-width="1.2"><title>es · es_ES-davefx-medium · CER 0.003 · 20.83x on macmini M1 8GB</title></circle>
+<text x="93.9" y="133.0" fill="#333">es es ES-davefx-medium</text>
+<circle cx="85.9" cy="135.6" r="6" fill="#4f6d8f" stroke="#fff" stroke-width="1.2"><title>es · es_MX-claude-high · CER 0.006 · 19.43x on macmini M1 8GB</title></circle>
+<text x="96.9" y="139.6" fill="#333">es es MX-claude-high</text>
+<circle cx="85.9" cy="145.2" r="6" fill="#4f6d8f" stroke="#fff" stroke-width="1.2"><title>es · es_ES-sharvard-medium · CER 0.006 · 17.57x on macmini M1 8GB</title></circle>
+<text x="96.9" y="149.2" fill="#333">es es ES-sharvard-medium</text>
+<circle cx="99.6" cy="431.6" r="6" fill="#2e8b57" stroke="#fff" stroke-width="1.2"><title>es · mms-tts-spa · CER 0.02 · 0.86x on laptop M2 8GB</title></circle>
+<text x="110.6" y="435.6" fill="#333">es mms-tts-spa</text>
+<circle cx="85.9" cy="107.4" r="9" fill="#4f6d8f" stroke="#222" stroke-width="2.5"><title>es-MX · es_MX-claude-high · CER 0.006 · 26.16x on macmini M1 8GB</title></circle>
+<text x="96.9" y="111.4" fill="#333">es-MX es MX-claude-high</text>
+<circle cx="84.9" cy="126.0" r="9" fill="#4f6d8f" stroke="#222" stroke-width="2.5"><title>fr · fr_FR-siwis-medium · CER 0.005 · 21.51x on macmini M1 8GB</title></circle>
+<text x="95.9" y="130.0" fill="#333">fr fr FR-siwis-medium</text>
+<circle cx="84.9" cy="382.6" r="6" fill="#d9822b" stroke="#fff" stroke-width="1.2"><title>fr · ff_siwis · CER 0.005 · 1.44x on laptop M2 8GB</title></circle>
+<text x="95.9" y="386.6" fill="#333">fr ff siwis</text>
+<circle cx="94.7" cy="128.4" r="6" fill="#4f6d8f" stroke="#fff" stroke-width="1.2"><title>fr · fr_FR-upmc-medium · CER 0.015 · 20.96x on macmini M1 8GB</title></circle>
+<text x="105.7" y="132.4" fill="#333">fr fr FR-upmc-medium</text>
+<circle cx="94.7" cy="181.8" r="6" fill="#4f6d8f" stroke="#fff" stroke-width="1.2"><title>fr · fr_FR-tom-medium · CER 0.015 · 11.95x on macmini M1 8GB</title></circle>
+<text x="105.7" y="185.8" fill="#333">fr fr FR-tom-medium</text>
+<circle cx="96.7" cy="442.0" r="6" fill="#2e8b57" stroke="#fff" stroke-width="1.2"><title>fr · mms-tts-fra · CER 0.017 · 0.77x on laptop M2 8GB</title></circle>
+<text x="107.7" y="446.0" fill="#333">fr mms-tts-fra</text>
+<circle cx="219.4" cy="134.7" r="6" fill="#4f6d8f" stroke="#fff" stroke-width="1.2"><title>fr-CH · fr_FR-siwis-medium · CER 0.142 · 19.63x on macmini M1 8GB</title></circle>
+<text x="230.4" y="138.7" fill="#333">fr-CH fr FR-siwis-medium</text>
+<circle cx="267.5" cy="375.6" r="6" fill="#d9822b" stroke="#fff" stroke-width="1.2"><title>fr-CH · ff_siwis · CER 0.191 · 1.55x on laptop M2 8GB</title></circle>
+<text x="278.5" y="379.6" fill="#333">fr-CH ff siwis</text>
+<circle cx="80.0" cy="135.2" r="9" fill="#4f6d8f" stroke="#222" stroke-width="2.5"><title>it · it_IT-serena-medium · CER 0.0 · 19.53x on macmini M1 8GB</title></circle>
+<text x="91.0" y="139.2" fill="#333">it it IT-serena-medium</text>
+<circle cx="80.0" cy="372.0" r="6" fill="#d9822b" stroke="#fff" stroke-width="1.2"><title>it · im_nicola · CER 0.0 · 1.61x on laptop M2 8GB</title></circle>
+<text x="91.0" y="376.0" fill="#333">it im nicola</text>
+<circle cx="80.0" cy="388.1" r="6" fill="#d9822b" stroke="#fff" stroke-width="1.2"><title>it · if_sara · CER 0.0 · 1.36x on laptop M2 8GB</title></circle>
+<text x="91.0" y="392.1" fill="#333">it if sara</text>
+<circle cx="99.6" cy="147.3" r="6" fill="#4f6d8f" stroke="#fff" stroke-width="1.2"><title>it · it_IT-paola-medium · CER 0.02 · 17.19x on macmini M1 8GB</title></circle>
+<text x="110.6" y="151.3" fill="#333">it it IT-paola-medium</text>
+<circle cx="172.3" cy="78.5" r="6" fill="#4f6d8f" stroke="#fff" stroke-width="1.2"><title>it · it_IT-riccardo-x_low · CER 0.094 · 35.48x on macmini M1 8GB</title></circle>
+<text x="183.3" y="82.5" fill="#333">it it IT-riccardo-x low</text>
+<circle cx="116.3" cy="370.3" r="6" fill="#d9822b" stroke="#fff" stroke-width="1.2"><title>it-CH · if_sara · CER 0.037 · 1.64x on laptop M2 8GB</title></circle>
+<text x="127.3" y="374.3" fill="#333">it-CH if sara</text>
+<circle cx="270.5" cy="129.5" r="6" fill="#4f6d8f" stroke="#fff" stroke-width="1.2"><title>it-CH · it_IT-paola-medium · CER 0.194 · 20.73x on macmini M1 8GB</title></circle>
+<text x="281.5" y="133.5" fill="#333">it-CH it IT-paola-medium</text>
+<circle cx="1061.8" cy="436.1" r="9" fill="#d9822b" stroke="#222" stroke-width="2.5"><title>ja · jf_alpha · CER 1.0 · 0.82x on laptop M2 8GB</title></circle>
+<text x="1072.8" y="440.1" fill="#333">ja jf alpha</text>
+<circle cx="1061.8" cy="443.3" r="6" fill="#d9822b" stroke="#fff" stroke-width="1.2"><title>ja · jm_kumo · CER 1.0 · 0.76x on laptop M2 8GB</title></circle>
+<text x="1072.8" y="447.3" fill="#333">ja jm kumo</text>
+<circle cx="110.4" cy="390.2" r="9" fill="#d9822b" stroke="#222" stroke-width="2.5"><title>pt-BR · pm_alex · CER 0.031 · 1.33x on laptop M2 8GB</title></circle>
+<text x="121.4" y="394.2" fill="#333">pt-BR pm alex</text>
+<circle cx="112.4" cy="400.7" r="6" fill="#d9822b" stroke="#fff" stroke-width="1.2"><title>pt-BR · pf_dora · CER 0.033 · 1.19x on laptop M2 8GB</title></circle>
+<text x="123.4" y="404.7" fill="#333">pt-BR pf dora</text>
+<circle cx="120.3" cy="375.6" r="6" fill="#d9822b" stroke="#fff" stroke-width="1.2"><title>pt-BR · pm_santa · CER 0.041 · 1.55x on laptop M2 8GB</title></circle>
+<text x="131.3" y="379.6" fill="#333">pt-BR pm santa</text>
+<circle cx="138.9" cy="139.1" r="6" fill="#4f6d8f" stroke="#fff" stroke-width="1.2"><title>pt-BR · pt_BR-cadu-medium · CER 0.06 · 18.74x on macmini M1 8GB</title></circle>
+<text x="149.9" y="143.1" fill="#333">pt-BR pt BR-cadu-medium</text>
+<circle cx="140.9" cy="455.3" r="6" fill="#2e8b57" stroke="#fff" stroke-width="1.2"><title>pt-BR · mms-tts-por · CER 0.062 · 0.67x on laptop M2 8GB</title></circle>
+<text x="151.9" y="459.3" fill="#333">pt-BR mms-tts-por</text>
+<circle cx="161.5" cy="139.7" r="6" fill="#4f6d8f" stroke="#fff" stroke-width="1.2"><title>pt-BR · pt_BR-faber-medium · CER 0.083 · 18.62x on macmini M1 8GB</title></circle>
+<text x="172.5" y="143.7" fill="#333">pt-BR pt BR-faber-medium</text>
+<circle cx="123.2" cy="130.5" r="9" fill="#4f6d8f" stroke="#222" stroke-width="2.5"><title>pt-PT · pt_PT-tugão-medium · CER 0.044 · 20.51x on macmini M1 8GB</title></circle>
+<text x="134.2" y="134.5" fill="#333">pt-PT pt PT-tugão-medium</text>
+<circle cx="897.9" cy="434.9" r="9" fill="#d9822b" stroke="#222" stroke-width="2.5"><title>zh · zf_xiaobei · CER 0.833 · 0.83x on laptop M2 8GB</title></circle>
+<text x="908.9" y="438.9" fill="#333">zh zf xiaobei</text>
+<circle cx="959.7" cy="432.7" r="6" fill="#d9822b" stroke="#fff" stroke-width="1.2"><title>zh · zm_yunxi · CER 0.896 · 0.85x on laptop M2 8GB</title></circle>
+<text x="970.7" y="436.7" fill="#333">zh zm yunxi</text>
+<g font-size="13"><rect x="870" y="48" width="290" height="88" rx="6" fill="#fff" fill-opacity="0.9"/><text x="882" y="68" font-weight="bold">Voice quality, Phase 2 bench</text><circle cx="890" cy="86" r="6" fill="#d9822b"/><text x="902" y="90">kokoro</text><circle cx="890" cy="104" r="6" fill="#4f6d8f"/><text x="902" y="108">piper</text><circle cx="890" cy="122" r="6" fill="#2e8b57"/><text x="902" y="126">mms</text><circle cx="1060" cy="86" r="8" fill="#fff" stroke="#222" stroke-width="2.5"/><text x="1074" y="90">provisional default</text></g>
+</svg>

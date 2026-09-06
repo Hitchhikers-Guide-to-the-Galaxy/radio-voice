@@ -1,0 +1,133 @@
+{
+ "es": {
+  "country": "Spain",
+  "cid": "Spain_2011",
+  "fid": "spain-2011:1",
+  "heading": "Artículo 1",
+  "text": "España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político. La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado. La forma política del Estado español es la Monarquía parlamentaria.",
+  "source": "Constitute Spanish edition",
+  "words": 55
+ },
+ "ar": {
+  "country": "Egypt",
+  "cid": "Egypt_2019",
+  "fid": "egypt-2019:1",
+  "heading": "المادة 1",
+  "text": "جمهورية مصر العربية دولة ذات سيادة، موحدة لا تقبل التجزئة، ولا ينزل عن شيء منها، نظامها جمهوري ديمقراطي، يقوم على أساس المواطنة وسيادة القانون. الشعب المصري جزء من الأمة العربية يعمل على تكاملها ووحدتها، ومصر جزء من العالم الإسلامي، تنتمى الى القارة الإفريقية، وتعتز بامتدادها الآسيوي، وتسهم فى بناء الحضارة الإنسانية.",
+  "source": "Constitute Arabic edition",
+  "words": 51
+ },
+ "de": {
+  "country": "Germany",
+  "cid": "German_Federal_Republic_2014",
+  "fid": "german-federal-republic-2014:1",
+  "heading": "Art 1",
+  "text": "(1) Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt. (2) Das Deutsche Volk bekennt sich darum zu unverletzlichen und unveräußerlichen Menschenrechten als Grundlage jeder menschlichen Gemeinschaft, des Friedens und der Gerechtigkeit in der Welt. (3) Die nachfolgenden Grundrechte binden Gesetzgebung, vollziehende Gewalt und Rechtsprechung als unmittelbar geltendes Recht.",
+  "source": "gesetze-im-internet.de (Bundesministerium der Justiz), Grundgesetz, XML",
+  "words": 57
+ },
+ "fr": {
+  "country": "France",
+  "cid": "France_2024",
+  "fid": "france-2024:1",
+  "heading": "ARTICLE 1 ",
+  "text": "La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion. Elle respecte toutes les croyances. Son organisation est décentralisée. La loi favorise l'égal accès des femmes et des hommes aux mandats électoraux et fonctions électives, ainsi qu'aux responsabilités professionnelles et sociales.",
+  "source": "Conseil constitutionnel, texte intégral de la Constitution du 4 octobre 1958 en vigueur",
+  "words": 59
+ },
+ "pt-BR": {
+  "country": "Brazil",
+  "cid": "Brazil_2017",
+  "fid": "brazil-2017:1",
+  "heading": "Art. 1º A República Federativa do Brasil, formada pela união indissolúvel dos Es",
+  "text": "A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos I - a soberania; II - a cidadania; III - a dignidade da pessoa humana; IV - os valores sociais do trabalho e da livre iniciativa; (Vide Lei nº 13.874, de 2019) V - o pluralismo político. Parágrafo único. Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição.",
+  "source": "Planalto (Presidência da República), Constituição de 1988, texto compilado",
+  "words": 86
+ },
+ "pt-PT": {
+  "country": "Portugal",
+  "cid": "Portugal_2005",
+  "fid": "portugal-2005:1",
+  "heading": "Artigo 1 — República Portuguesa",
+  "text": "Portugal é uma República soberana, baseada na dignidade da pessoa humana e na vontade popular e empenhada na construção de uma sociedade livre, justa e solidária.",
+  "source": "Assembleia da República, Constituição da República Portuguesa (VII revisão)",
+  "words": 26
+ },
+ "it": {
+  "country": "Italy",
+  "cid": "Italy_2020",
+  "fid": "italy-2020:1",
+  "heading": "Art. 1",
+  "text": "L’Italia è una Repubblica democratica, fondata sul lavoro. La sovranità appartiene al popolo, che la esercita nelle forme e nei limiti della Costituzione.",
+  "source": "Wikisource (it), Costituzione della Repubblica Italiana",
+  "words": 23
+ },
+ "de-CH": {
+  "country": "Switzerland",
+  "cid": "Switzerland_2014",
+  "fid": "switzerland-2014:1",
+  "heading": "Art. 1 Schweizerische Eidgenossenschaft",
+  "text": "Das Schweizervolk und die Kantone Zürich, Bern, Luzern, Uri, Schwyz, Obwalden und Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt und Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden und Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf und Jura bilden die Schweizerische Eidgenossenschaft.",
+  "source": "Fedlex (Bundeskanzlei), Bundesverfassung, Stand 3. März 2024",
+  "words": 42
+ },
+ "fr-CH": {
+  "country": "Switzerland",
+  "cid": "Switzerland_2014",
+  "fid": "switzerland-2014:1",
+  "heading": "Art. 1 Confédération suisse",
+  "text": "Le peuple suisse et les cantons de Zurich, de Berne, de Lucerne, d’Uri, de Schwyz, d’Obwald et de Nidwald, de Glaris, de Zoug, de Fribourg, de Soleure, de Bâle-Ville et de Bâle-Campagne, de Schaffhouse, d’Appenzell Rhodes-Extérieures et d’Appenzell Rhodes-Intérieures, de Saint-Gall, des Grisons, d’Argovie, de Thurgovie, du Tessin, de Vaud, du Valais, de Neuchâtel, de Genève et du Jura forment la Confédération suisse.",
+  "source": "Fedlex (Chancellerie fédérale), Constitution fédérale, état le 3 mars 2024",
+  "words": 63
+ },
+ "it-CH": {
+  "country": "Switzerland",
+  "cid": "Switzerland_2014",
+  "fid": "switzerland-2014:1",
+  "heading": "Art. 1 Confederazione Svizzera",
+  "text": "Il Popolo svizzero e i Cantoni di Zurigo, Berna, Lucerna, Uri, Svitto, Obvaldo e Nidvaldo, Glarona, Zugo, Friburgo, Soletta, Basilea Città e Basilea Campagna, Sciaffusa, Appenzello Esterno e Appenzello Interno, San Gallo, Grigioni, Argovia, Turgovia, Ticino, Vaud, Vallese, Neuchâtel, Ginevra e Giura costituiscono la Confederazione Svizzera.",
+  "source": "Fedlex (Cancelleria federale), Costituzione federale, stato 3 marzo 2024",
+  "words": 46
+ },
+ "rm": {
+  "country": "Switzerland",
+  "cid": "Switzerland_2014",
+  "fid": "switzerland-2014:1",
+  "heading": "Art. 1 Confederaziun svizra",
+  "text": "Il pievel svizzer ed ils chantuns Turitg, Berna, Lucerna, Uri, Sviz, Sursilvania e Sutsilvania, Glaruna, Zug, Friburg, Soloturn, Basilea-Citad e Basilea-Champagna, Schaffusa, Appenzell Dadens ed Appenzell Dador, Son Gagl, Grischun, Argovia, Turgovia, Tessin, Vad, Vallais, Neuchâtel, Genevra e Giura furman la Confederaziun svizra.",
+  "source": "Fedlex (Chanzlia federala), Constituziun federala, versiun dals 3 da mars 2024",
+  "words": 43
+ },
+ "es-MX": {
+  "country": "Mexico",
+  "cid": "Mexico_2015",
+  "fid": "mexico-2015:chapter-i-human-rights-a",
+  "heading": "Artículo 1o.",
+  "text": "En los Estados Unidos Mexicanos todas las personas gozarán de los derechos humanos reconocidos en esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que esta Constitución establece.",
+  "source": "Constitute Spanish edition, aligned corpus (raw/aligned/Mexico_2015.es.jsonl); first paragraph of Artículo 1o."
+ },
+ "ar-JO": {
+  "country": "Jordan",
+  "cid": "Jordan_2016",
+  "fid": "jordan-2016:1",
+  "heading": "المادة 1",
+  "text": "المملكة الاردنية الهاشمية دولة عربية مستقلة ذات سيادة ملكها لا يتجزأ ولا ينزل عن شيء منه، والشعب الاردني جزء من الامة العربية ونظام الحكم فيها نيابي ملكي وراثي.",
+  "source": "Constitute Arabic edition, aligned corpus (raw/aligned/Jordan_2016.ar.jsonl); the ar_JO Piper voice's own country, a second Arabic line beside Egypt"
+ },
+ "ja": {
+  "country": "Japan",
+  "cid": "Japan_1946",
+  "fid": "japan-1946:1",
+  "heading": "第一条",
+  "text": "天皇は、日本国の象徴であり日本国民統合の象徴であつて、この地位は、主権の存する日本国民の総意に基く。",
+  "source": "Japanese Law Translation Database System, Ministry of Justice, https://www.japaneselawtranslation.go.jp/ja/laws/view/174 (fetched 2026-09-06); Japanese statute text is not subject to copyright (Copyright Act art. 13)"
+ },
+ "zh": {
+  "country": "China",
+  "cid": "China_2018",
+  "fid": "china-2018:1",
+  "heading": "第一条",
+  "text": "中华人民共和国是工人阶级领导的、以工农联盟为基础的人民民主专政的社会主义国家。社会主义制度是中华人民共和国的根本制度。中国共产党领导是中国特色社会主义最本质的特征。禁止任何组织或者个人破坏社会主义制度。",
+  "source": "中国政府网 https://www.gov.cn/guoqing/2018-03/22/content_5276318.htm (fetched 2026-09-06); the two paragraphs of Article 1 as amended 2018"
+ }
+}

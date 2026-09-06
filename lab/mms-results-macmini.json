@@ -1,0 +1,26 @@
+[
+ {
+  "lang": "ar",
+  "voice": "mms-tts-ara",
+  "engine": "mms",
+  "machine": "macmini M1 8GB",
+  "seconds": 38.7,
+  "render_s": 129.31,
+  "rtf": 0.3,
+  "load_s": 6.1,
+  "max_rss_mb": 1284,
+  "file": "ar-mms-ara-mini.wav"
+ },
+ {
+  "lang": "de",
+  "voice": "mms-tts-deu",
+  "engine": "mms",
+  "machine": "macmini M1 8GB",
+  "seconds": 28.1,
+  "render_s": 7.2,
+  "rtf": 3.91,
+  "load_s": 7.1,
+  "max_rss_mb": 1284,
+  "file": "de-mms-deu-mini.wav"
+ }
+]

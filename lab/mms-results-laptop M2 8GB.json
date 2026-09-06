@@ -1,0 +1,68 @@
+[
+ {
+  "lang": "ar",
+  "voice": "mms-tts-ara",
+  "engine": "mms",
+  "machine": "laptop M2 8GB",
+  "seconds": 40.6,
+  "render_s": 56.35,
+  "rtf": 0.72,
+  "load_s": 9.7,
+  "max_rss_mb": 1454,
+  "file": "ar-mms-ara.wav"
+ },
+ {
+  "lang": "de",
+  "voice": "mms-tts-deu",
+  "engine": "mms",
+  "machine": "laptop M2 8GB",
+  "seconds": 27.7,
+  "render_s": 30.63,
+  "rtf": 0.9,
+  "load_s": 8.0,
+  "max_rss_mb": 1454,
+  "file": "de-mms-deu.wav"
+ },
+ {
+  "lang": "es",
+  "voice": "mms-tts-spa",
+  "engine": "mms",
+  "machine": "laptop M2 8GB",
+  "seconds": 24.4,
+  "render_s": 28.51,
+  "rtf": 0.86,
+  "load_s": 8.3,
+  "max_rss_mb": 1454,
+  "file": "es-mms-spa.wav"
+ },
+ {
+  "lang": "fr",
+  "voice": "mms-tts-fra",
+  "engine": "mms",
+  "machine": "laptop M2 8GB",
+  "seconds": 25.2,
+  "render_s": 32.56,
+  "rtf": 0.77,
+  "load_s": 6.9,
+  "max_rss_mb": 1454,
+  "file": "fr-mms-fra.wav"
+ },
+ {
+  "lang": "pt-BR",
+  "voice": "mms-tts-por",
+  "engine": "mms",
+  "machine": "laptop M2 8GB",
+  "seconds": 41.3,
+  "render_s": 61.57,
+  "rtf": 0.67,
+  "load_s": 7.4,
+  "max_rss_mb": 1454,
+  "file": "pt-BR-mms-por.wav"
+ },
+ {
+  "lang": "it",
+  "voice": "mms-tts-ita",
+  "engine": "mms",
+  "error": "facebook/mms-tts-ita is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'\nIf this is a private repository, make sure to pass a token having permission to"
+ }
+]

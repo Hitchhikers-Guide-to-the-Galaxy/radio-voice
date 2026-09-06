@@ -173,5 +173,370 @@
     "sex": "m",
     "accent": "British",
     "host": "02-pi4"
+  },
+  "dora-es": {
+    "engine": "kokoro",
+    "voice": "ef_dora",
+    "lang": "es",
+    "sex": "f",
+    "note": "Kokoro language voice; Voice Lab Phase 2",
+    "runner_up_for": "es"
+  },
+  "alex-es": {
+    "engine": "kokoro",
+    "voice": "em_alex",
+    "lang": "es",
+    "sex": "m",
+    "note": "Kokoro language voice; Voice Lab Phase 2"
+  },
+  "santa-es": {
+    "engine": "kokoro",
+    "voice": "em_santa",
+    "lang": "es",
+    "sex": "m",
+    "note": "Kokoro language voice; Voice Lab Phase 2",
+    "native": true,
+    "native_basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+    "lab_cer": 0.0,
+    "native_for": "es"
+  },
+  "siwis": {
+    "engine": "kokoro",
+    "voice": "ff_siwis",
+    "lang": "fr",
+    "sex": "f",
+    "note": "Kokoro language voice; Voice Lab Phase 2",
+    "runner_up_for": "fr"
+  },
+  "dora-pt": {
+    "engine": "kokoro",
+    "voice": "pf_dora",
+    "lang": "pt-BR",
+    "sex": "f",
+    "note": "Kokoro language voice; Voice Lab Phase 2",
+    "runner_up_for": "pt-BR"
+  },
+  "alex-pt": {
+    "engine": "kokoro",
+    "voice": "pm_alex",
+    "lang": "pt-BR",
+    "sex": "m",
+    "note": "Kokoro language voice; Voice Lab Phase 2",
+    "native": true,
+    "native_basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+    "lab_cer": 0.031,
+    "native_for": "pt-BR"
+  },
+  "santa-pt": {
+    "engine": "kokoro",
+    "voice": "pm_santa",
+    "lang": "pt-BR",
+    "sex": "m",
+    "note": "Kokoro language voice; Voice Lab Phase 2"
+  },
+  "sara": {
+    "engine": "kokoro",
+    "voice": "if_sara",
+    "lang": "it",
+    "sex": "f",
+    "note": "Kokoro language voice; Voice Lab Phase 2"
+  },
+  "nicola": {
+    "engine": "kokoro",
+    "voice": "im_nicola",
+    "lang": "it",
+    "sex": "m",
+    "note": "Kokoro language voice; Voice Lab Phase 2",
+    "runner_up_for": "it"
+  },
+  "alpha-hi": {
+    "engine": "kokoro",
+    "voice": "hf_alpha",
+    "lang": "hi",
+    "sex": "f",
+    "note": "Kokoro language voice; Voice Lab Phase 2"
+  },
+  "beta-hi": {
+    "engine": "kokoro",
+    "voice": "hf_beta",
+    "lang": "hi",
+    "sex": "f",
+    "note": "Kokoro language voice; Voice Lab Phase 2"
+  },
+  "omega-hi": {
+    "engine": "kokoro",
+    "voice": "hm_omega",
+    "lang": "hi",
+    "sex": "m",
+    "note": "Kokoro language voice; Voice Lab Phase 2"
+  },
+  "psi-hi": {
+    "engine": "kokoro",
+    "voice": "hm_psi",
+    "lang": "hi",
+    "sex": "m",
+    "note": "Kokoro language voice; Voice Lab Phase 2"
+  },
+  "alpha-ja": {
+    "engine": "kokoro",
+    "voice": "jf_alpha",
+    "lang": "ja",
+    "sex": "f",
+    "note": "Kokoro language voice; Voice Lab Phase 2",
+    "native": true,
+    "native_basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+    "lab_cer": 1.0,
+    "native_for": "ja"
+  },
+  "kumo": {
+    "engine": "kokoro",
+    "voice": "jm_kumo",
+    "lang": "ja",
+    "sex": "m",
+    "note": "Kokoro language voice; Voice Lab Phase 2",
+    "runner_up_for": "ja"
+  },
+  "xiaobei": {
+    "engine": "kokoro",
+    "voice": "zf_xiaobei",
+    "lang": "zh",
+    "sex": "f",
+    "note": "Kokoro language voice; Voice Lab Phase 2",
+    "native": true,
+    "native_basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+    "lab_cer": 0.833,
+    "native_for": "zh"
+  },
+  "yunxi": {
+    "engine": "kokoro",
+    "voice": "zm_yunxi",
+    "lang": "zh",
+    "sex": "m",
+    "note": "Kokoro language voice; Voice Lab Phase 2",
+    "runner_up_for": "zh"
+  },
+  "kareem": {
+    "engine": "piper",
+    "voice": "ar_JO-kareem-medium",
+    "lang": "ar-JO",
+    "sex": "m",
+    "host": "macmini",
+    "venv": "~/radio-voice/venv",
+    "models": "~/radio-voice/voices",
+    "note": "single Jordanian speaker; Voice Lab Phase 2",
+    "native": true,
+    "native_basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+    "lab_cer": 0.044,
+    "native_for": "ar-JO"
+  },
+  "thorsten": {
+    "engine": "piper",
+    "voice": "de_DE-thorsten-medium",
+    "lang": "de-DE",
+    "sex": "m",
+    "host": "macmini",
+    "venv": "~/radio-voice/venv",
+    "models": "~/radio-voice/voices",
+    "note": "Thorsten Müller's open voice; Voice Lab Phase 2",
+    "native": true,
+    "native_basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+    "lab_cer": 0.0,
+    "native_for": "de"
+  },
+  "thorsten-high": {
+    "engine": "piper",
+    "voice": "de_DE-thorsten-high",
+    "lang": "de-DE",
+    "sex": "m",
+    "host": "macmini",
+    "venv": "~/radio-voice/venv",
+    "models": "~/radio-voice/voices",
+    "note": "high-quality build of the same voice; Voice Lab Phase 2",
+    "runner_up_for": "de"
+  },
+  "sharvard": {
+    "engine": "piper",
+    "voice": "es_ES-sharvard-medium",
+    "lang": "es-ES",
+    "sex": "f",
+    "host": "macmini",
+    "venv": "~/radio-voice/venv",
+    "models": "~/radio-voice/voices",
+    "note": "two speakers; Castilian; Voice Lab Phase 2"
+  },
+  "davefx": {
+    "engine": "piper",
+    "voice": "es_ES-davefx-medium",
+    "lang": "es-ES",
+    "sex": "m",
+    "host": "macmini",
+    "venv": "~/radio-voice/venv",
+    "models": "~/radio-voice/voices",
+    "note": "Castilian; Voice Lab Phase 2"
+  },
+  "claude-mx": {
+    "engine": "piper",
+    "voice": "es_MX-claude-high",
+    "lang": "es-MX",
+    "sex": "m",
+    "host": "macmini",
+    "venv": "~/radio-voice/venv",
+    "models": "~/radio-voice/voices",
+    "note": "Mexican; Voice Lab Phase 2",
+    "native": true,
+    "native_basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+    "lab_cer": 0.006,
+    "native_for": "es-MX"
+  },
+  "siwis-piper": {
+    "engine": "piper",
+    "voice": "fr_FR-siwis-medium",
+    "lang": "fr-FR",
+    "sex": "f",
+    "host": "macmini",
+    "venv": "~/radio-voice/venv",
+    "models": "~/radio-voice/voices",
+    "note": "SIWIS corpus; Voice Lab Phase 2",
+    "native": true,
+    "native_basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+    "lab_cer": 0.005,
+    "native_for": "fr"
+  },
+  "upmc": {
+    "engine": "piper",
+    "voice": "fr_FR-upmc-medium",
+    "lang": "fr-FR",
+    "sex": "f",
+    "host": "macmini",
+    "venv": "~/radio-voice/venv",
+    "models": "~/radio-voice/voices",
+    "note": "UPMC corpus, two speakers; Voice Lab Phase 2"
+  },
+  "tom": {
+    "engine": "piper",
+    "voice": "fr_FR-tom-medium",
+    "lang": "fr-FR",
+    "sex": "m",
+    "host": "macmini",
+    "venv": "~/radio-voice/venv",
+    "models": "~/radio-voice/voices",
+    "note": "; Voice Lab Phase 2"
+  },
+  "faber": {
+    "engine": "piper",
+    "voice": "pt_BR-faber-medium",
+    "lang": "pt-BR",
+    "sex": "m",
+    "host": "macmini",
+    "venv": "~/radio-voice/venv",
+    "models": "~/radio-voice/voices",
+    "note": "Brazilian; Voice Lab Phase 2"
+  },
+  "cadu": {
+    "engine": "piper",
+    "voice": "pt_BR-cadu-medium",
+    "lang": "pt-BR",
+    "sex": "m",
+    "host": "macmini",
+    "venv": "~/radio-voice/venv",
+    "models": "~/radio-voice/voices",
+    "note": "Brazilian; Voice Lab Phase 2"
+  },
+  "tugao": {
+    "engine": "piper",
+    "voice": "pt_PT-tugão-medium",
+    "lang": "pt-PT",
+    "sex": "m",
+    "host": "macmini",
+    "venv": "~/radio-voice/venv",
+    "models": "~/radio-voice/voices",
+    "note": "European Portuguese; Voice Lab Phase 2",
+    "native": true,
+    "native_basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+    "lab_cer": 0.044,
+    "native_for": "pt-PT"
+  },
+  "riccardo": {
+    "engine": "piper",
+    "voice": "it_IT-riccardo-x_low",
+    "lang": "it-IT",
+    "sex": "m",
+    "host": "macmini",
+    "venv": "~/radio-voice/venv",
+    "models": "~/radio-voice/voices",
+    "note": "x_low quality; Voice Lab Phase 2"
+  },
+  "paola": {
+    "engine": "piper",
+    "voice": "it_IT-paola-medium",
+    "lang": "it-IT",
+    "sex": "f",
+    "host": "macmini",
+    "venv": "~/radio-voice/venv",
+    "models": "~/radio-voice/voices",
+    "note": "; Voice Lab Phase 2"
+  },
+  "serena": {
+    "engine": "piper",
+    "voice": "it_IT-serena-medium",
+    "lang": "it-IT",
+    "sex": "f",
+    "host": "macmini",
+    "venv": "~/radio-voice/venv",
+    "models": "~/radio-voice/voices",
+    "note": "; Voice Lab Phase 2",
+    "native": true,
+    "native_basis": "provisional: lowest Whisper CER, then realtime factor; no native listener yet",
+    "lab_cer": 0.0,
+    "native_for": "it"
+  },
+  "mms-ara": {
+    "engine": "mms",
+    "voice": "facebook/mms-tts-ara",
+    "lang": "ar",
+    "sex": "?",
+    "licence": "CC-BY-NC 4.0",
+    "note": "Meta MMS VITS, single speaker from read Bible audio; Voice Lab Phase 2",
+    "runner_up_for": "ar"
+  },
+  "mms-deu": {
+    "engine": "mms",
+    "voice": "facebook/mms-tts-deu",
+    "lang": "de",
+    "sex": "?",
+    "licence": "CC-BY-NC 4.0",
+    "note": "Meta MMS VITS, single speaker from read Bible audio; Voice Lab Phase 2"
+  },
+  "mms-spa": {
+    "engine": "mms",
+    "voice": "facebook/mms-tts-spa",
+    "lang": "es",
+    "sex": "?",
+    "licence": "CC-BY-NC 4.0",
+    "note": "Meta MMS VITS, single speaker from read Bible audio; Voice Lab Phase 2"
+  },
+  "mms-fra": {
+    "engine": "mms",
+    "voice": "facebook/mms-tts-fra",
+    "lang": "fr",
+    "sex": "?",
+    "licence": "CC-BY-NC 4.0",
+    "note": "Meta MMS VITS, single speaker from read Bible audio; Voice Lab Phase 2"
+  },
+  "mms-por": {
+    "engine": "mms",
+    "voice": "facebook/mms-tts-por",
+    "lang": "pt",
+    "sex": "?",
+    "licence": "CC-BY-NC 4.0",
+    "note": "Meta MMS VITS, single speaker from read Bible audio; Voice Lab Phase 2"
+  },
+  "mms-ita": {
+    "engine": "mms",
+    "voice": "facebook/mms-tts-ita",
+    "lang": "it",
+    "sex": "?",
+    "licence": "CC-BY-NC 4.0",
+    "note": "Meta MMS VITS, single speaker from read Bible audio; Voice Lab Phase 2"
   }
 }

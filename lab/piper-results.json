@@ -1,0 +1,200 @@
+[
+ {
+  "lang": "ar",
+  "voice": "ar_JO-kareem-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 41.6,
+  "render_s": 1.56,
+  "rtf": 26.69,
+  "max_rss_mb": 594,
+  "file": "ar-ar_JO-kareem-medium.wav"
+ },
+ {
+  "lang": "de",
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 22.6,
+  "render_s": 0.83,
+  "rtf": 27.37,
+  "max_rss_mb": 683,
+  "file": "de-de_DE-thorsten-medium.wav"
+ },
+ {
+  "lang": "de",
+  "voice": "de_DE-thorsten-high",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 22.6,
+  "render_s": 5.7,
+  "rtf": 3.96,
+  "max_rss_mb": 683,
+  "file": "de-de_DE-thorsten-high.wav"
+ },
+ {
+  "lang": "es",
+  "voice": "es_ES-sharvard-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 20.4,
+  "render_s": 1.16,
+  "rtf": 17.57,
+  "max_rss_mb": 683,
+  "file": "es-es_ES-sharvard-medium.wav"
+ },
+ {
+  "lang": "es",
+  "voice": "es_ES-davefx-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 20.6,
+  "render_s": 0.99,
+  "rtf": 20.83,
+  "max_rss_mb": 683,
+  "file": "es-es_ES-davefx-medium.wav"
+ },
+ {
+  "lang": "es",
+  "voice": "es_MX-claude-high",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 23.8,
+  "render_s": 1.22,
+  "rtf": 19.43,
+  "max_rss_mb": 683,
+  "file": "es-es_MX-claude-high.wav"
+ },
+ {
+  "lang": "fr",
+  "voice": "fr_FR-siwis-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 23.5,
+  "render_s": 1.09,
+  "rtf": 21.51,
+  "max_rss_mb": 683,
+  "file": "fr-fr_FR-siwis-medium.wav"
+ },
+ {
+  "lang": "fr",
+  "voice": "fr_FR-upmc-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 23.3,
+  "render_s": 1.11,
+  "rtf": 20.96,
+  "max_rss_mb": 683,
+  "file": "fr-fr_FR-upmc-medium.wav"
+ },
+ {
+  "lang": "fr",
+  "voice": "fr_FR-tom-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 26.1,
+  "render_s": 2.19,
+  "rtf": 11.95,
+  "max_rss_mb": 683,
+  "file": "fr-fr_FR-tom-medium.wav"
+ },
+ {
+  "lang": "pt-BR",
+  "voice": "pt_BR-faber-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 31.4,
+  "render_s": 1.69,
+  "rtf": 18.62,
+  "max_rss_mb": 699,
+  "file": "pt-BR-pt_BR-faber-medium.wav"
+ },
+ {
+  "lang": "pt-BR",
+  "voice": "pt_BR-cadu-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 36.1,
+  "render_s": 1.93,
+  "rtf": 18.74,
+  "max_rss_mb": 775,
+  "file": "pt-BR-pt_BR-cadu-medium.wav"
+ },
+ {
+  "lang": "pt-PT",
+  "voice": "pt_PT-tugão-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 7.9,
+  "render_s": 0.39,
+  "rtf": 20.51,
+  "max_rss_mb": 851,
+  "file": "pt-PT-pt_PT-tugão-medium.wav"
+ },
+ {
+  "lang": "it",
+  "voice": "it_IT-riccardo-x_low",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 8.2,
+  "render_s": 0.23,
+  "rtf": 35.48,
+  "max_rss_mb": 851,
+  "file": "it-it_IT-riccardo-x_low.wav"
+ },
+ {
+  "lang": "it",
+  "voice": "it_IT-paola-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 8.1,
+  "render_s": 0.47,
+  "rtf": 17.19,
+  "max_rss_mb": 851,
+  "file": "it-it_IT-paola-medium.wav"
+ },
+ {
+  "lang": "it",
+  "voice": "it_IT-serena-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 8.5,
+  "render_s": 0.43,
+  "rtf": 19.53,
+  "max_rss_mb": 851,
+  "file": "it-it_IT-serena-medium.wav"
+ },
+ {
+  "lang": "de-CH",
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 24.8,
+  "render_s": 1.29,
+  "rtf": 19.29,
+  "max_rss_mb": 851,
+  "file": "de-CH-de_DE-thorsten-medium.wav"
+ },
+ {
+  "lang": "fr-CH",
+  "voice": "fr_FR-siwis-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 26.7,
+  "render_s": 1.36,
+  "rtf": 19.63,
+  "max_rss_mb": 851,
+  "file": "fr-CH-fr_FR-siwis-medium.wav"
+ },
+ {
+  "lang": "it-CH",
+  "voice": "it_IT-paola-medium",
+  "engine": "piper",
+  "machine": "macmini M1 8GB",
+  "seconds": 19.1,
+  "render_s": 0.92,
+  "rtf": 20.73,
+  "max_rss_mb": 851,
+  "file": "it-CH-it_IT-paola-medium.wav"
+ }
+]

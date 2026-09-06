@@ -1,0 +1,46 @@
+[
+ {
+  "lang": "ja",
+  "voice": "jf_alpha",
+  "engine": "kokoro",
+  "machine": "laptop M2 8GB",
+  "seconds": 45.9,
+  "render_s": 55.62,
+  "rtf": 0.82,
+  "max_rss_mb": 559,
+  "file": "ja-kokoro-jf_alpha.wav"
+ },
+ {
+  "lang": "ja",
+  "voice": "jm_kumo",
+  "engine": "kokoro",
+  "machine": "laptop M2 8GB",
+  "seconds": 43.2,
+  "render_s": 57.12,
+  "rtf": 0.76,
+  "max_rss_mb": 559,
+  "file": "ja-kokoro-jm_kumo.wav"
+ },
+ {
+  "lang": "zh",
+  "voice": "zf_xiaobei",
+  "engine": "kokoro",
+  "machine": "laptop M2 8GB",
+  "seconds": 26.5,
+  "render_s": 32.03,
+  "rtf": 0.83,
+  "max_rss_mb": 559,
+  "file": "zh-kokoro-zf_xiaobei.wav"
+ },
+ {
+  "lang": "zh",
+  "voice": "zm_yunxi",
+  "engine": "kokoro",
+  "machine": "laptop M2 8GB",
+  "seconds": 19.7,
+  "render_s": 23.33,
+  "rtf": 0.85,
+  "max_rss_mb": 577,
+  "file": "zh-kokoro-zm_yunxi.wav"
+ }
+]

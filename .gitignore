@@ -29,3 +29,6 @@ hear/fixtures/**/*.m4a
 uk/*.xml
 uk/*.json
 uk/raw/
+lab/out/
+lab/chatterbox/
+lab/*.log
