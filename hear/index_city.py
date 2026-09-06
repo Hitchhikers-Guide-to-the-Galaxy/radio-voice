@@ -21,9 +21,15 @@ for mp in sorted(glob.glob(C + '/*/hear/wiki-city-media.json')):
              words=a['source_text'].get('words'), voice=(a['provenance'].get('voice_id') or 'human:' + a['provenance'].get('reader', '')),
              district=dist.get(('constitution.legalcommons.org', slug)), role=a['role'], seconds=a['duration_seconds'], loudness=a['loudness'],
              rights=a['rights'].get('source_rights_class'), manifest=base + 'wiki-city-media.json', audio=base + stem + '.m4a', opus=base + stem + '.opus')
+    nat = [x for x in m['assets'] if x.get('role') == 'verbatim_fragment' and not x.get('language', 'en').startswith('en')]
+    e['language'] = 'en'; e['native'] = False
+    if nat:   # Phase 3: the house's native-language reading, kept beside the English one
+        x = nat[0]; ns = x['delivery'][0]['uri'].rsplit('.', 1)[0]
+        e.update(language=x['language'], native=True, native_voice=x['provenance'].get('voice_id'), native_fragment_id=x['source_text'].get('fragment_id'),
+                 native_seconds=x['duration_seconds'], native_audio=base + ns + '.m4a', native_opus=base + ns + '.opus', native_vtt=base + x['transcript_uri'])
     (extras if a['role'] == 'human_reading' else houses).append(e)
 out = dict(street=street['street'], edition=street.get('edition'), built=time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()),
            scope='every voiced house on constitution.legalcommons.org whose manifest validates', houses=houses, extras=extras)
 for p in (os.path.join(HERE, 'city-media.json'), AS + '/city-media.json'): json.dump(out, open(p, 'w'), indent=1)
 L = [h['loudness']['integrated_lufs'] for h in houses]
-print(f"city index: {len(houses)} houses + {len(extras)} extras; loudness {min(L)}..{max(L)}; invalid left out: {bad}")
+print(f"city index: {len(houses)} houses + {len(extras)} extras; loudness {min(L)}..{max(L)}; native {sum(1 for h in houses if h.get('native'))} in {sorted({h['language'] for h in houses if h.get('native')})}; invalid left out: {bad}")

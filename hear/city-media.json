@@ -90,7 +90,7 @@
   ]
  },
  "edition": "legalcommons-pages-epoch-4",
- "built": "2026-09-05T23:31:08Z",
+ "built": "2026-09-06T17:55:33Z",
  "scope": "every voiced house on constitution.legalcommons.org whose manifest validates",
  "houses": [
   {
@@ -112,7 +112,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/afghanistan-1964/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/afghanistan-1964/hear/afghanistan-1964-4.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/afghanistan-1964/hear/afghanistan-1964-4.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/afghanistan-1964/hear/afghanistan-1964-4.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "afghanistan-2004",
@@ -133,7 +135,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/afghanistan-2004/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/afghanistan-2004/hear/afghanistan-2004-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/afghanistan-2004/hear/afghanistan-2004-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/afghanistan-2004/hear/afghanistan-2004-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "albania-1998-rev-2016",
@@ -154,7 +158,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/albania-1998-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/albania-1998-rev-2016/hear/albania-2016-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/albania-1998-rev-2016/hear/albania-2016-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/albania-1998-rev-2016/hear/albania-2016-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "algeria-1989-reinst-1996-rev-2016",
@@ -175,7 +181,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/algeria-1989-reinst-1996-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/algeria-1989-reinst-1996-rev-2016/hear/algeria-2016-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/algeria-1989-reinst-1996-rev-2016/hear/algeria-2016-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/algeria-1989-reinst-1996-rev-2016/hear/algeria-2016-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "algeria-2020",
@@ -196,7 +204,9 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/algeria-2020/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/algeria-2020/hear/algeria-2020-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/algeria-2020/hear/algeria-2020-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/algeria-2020/hear/algeria-2020-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "andorra-1993",
@@ -217,7 +227,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/andorra-1993/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/andorra-1993/hear/andorra-1993-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/andorra-1993/hear/andorra-1993-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/andorra-1993/hear/andorra-1993-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "angola-2010",
@@ -238,7 +250,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/angola-2010/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/angola-2010/hear/angola-2010-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/angola-2010/hear/angola-2010-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/angola-2010/hear/angola-2010-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "antigua-and-barbuda-1981",
@@ -259,7 +273,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/antigua-and-barbuda-1981/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/antigua-and-barbuda-1981/hear/antigua-and-barbuda-1981-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/antigua-and-barbuda-1981/hear/antigua-and-barbuda-1981-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/antigua-and-barbuda-1981/hear/antigua-and-barbuda-1981-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "argentina-1853-reinst-1983-rev-1994",
@@ -280,7 +296,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/argentina-1853-reinst-1983-rev-1994/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/argentina-1853-reinst-1983-rev-1994/hear/argentina-1994-title-i-federal-governme.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/argentina-1853-reinst-1983-rev-1994/hear/argentina-1994-title-i-federal-governme.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/argentina-1853-reinst-1983-rev-1994/hear/argentina-1994-title-i-federal-governme.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "argentina-1994:p",
+   "native_seconds": 36.63,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/argentina-1853-reinst-1983-rev-1994/hear/argentina-1994-p.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/argentina-1853-reinst-1983-rev-1994/hear/argentina-1994-p.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/argentina-1853-reinst-1983-rev-1994/hear/argentina-1994-p.es.vtt"
   },
   {
    "slug": "armenia-1995-rev-2020",
@@ -301,7 +325,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/armenia-1995-rev-2020/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/armenia-1995-rev-2020/hear/armenia-2020-p.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/armenia-1995-rev-2020/hear/armenia-2020-p.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/armenia-1995-rev-2020/hear/armenia-2020-p.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "australia-1901-rev-1985",
@@ -322,7 +348,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/australia-1901-rev-1985/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/australia-1901-rev-1985/hear/australia-1985-chapter-iv-finance-and-t.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/australia-1901-rev-1985/hear/australia-1985-chapter-iv-finance-and-t.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/australia-1901-rev-1985/hear/australia-1985-chapter-iv-finance-and-t.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "austria-1920-reinst-1945-rev-2013",
@@ -343,7 +371,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/austria-1920-reinst-1945-rev-2013/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/austria-1920-reinst-1945-rev-2013/hear/austria-2013-a-administration.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/austria-1920-reinst-1945-rev-2013/hear/austria-2013-a-administration.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/austria-1920-reinst-1945-rev-2013/hear/austria-2013-a-administration.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "azerbaijan-1995-rev-2016",
@@ -364,7 +394,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/azerbaijan-1995-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/azerbaijan-1995-rev-2016/hear/azerbaijan-2016-chapter-iii-principal-hu.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/azerbaijan-1995-rev-2016/hear/azerbaijan-2016-chapter-iii-principal-hu.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/azerbaijan-1995-rev-2016/hear/azerbaijan-2016-chapter-iii-principal-hu.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "baden-1818",
@@ -385,7 +417,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/baden-1818/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/baden-1818/hear/baden-1818-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/baden-1818/hear/baden-1818-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/baden-1818/hear/baden-1818-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "bahamas-the-1973",
@@ -406,7 +440,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/bahamas-the-1973/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/bahamas-the-1973/hear/bahamas-1973-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/bahamas-the-1973/hear/bahamas-1973-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/bahamas-the-1973/hear/bahamas-1973-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "bahrain-2002-rev-2017",
@@ -427,7 +463,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/bahrain-2002-rev-2017/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/bahrain-2002-rev-2017/hear/bahrain-2017-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/bahrain-2002-rev-2017/hear/bahrain-2017-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/bahrain-2002-rev-2017/hear/bahrain-2017-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "bangladesh-1972-reinst-1986-rev-2018",
@@ -448,7 +486,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/bangladesh-1972-reinst-1986-rev-2018/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/bangladesh-1972-reinst-1986-rev-2018/hear/bangladesh-2018-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/bangladesh-1972-reinst-1986-rev-2018/hear/bangladesh-2018-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/bangladesh-1972-reinst-1986-rev-2018/hear/bangladesh-2018-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "barbados-1966-rev-2026",
@@ -469,7 +509,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/barbados-1966-rev-2026/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/barbados-1966-rev-2026/hear/barbados-2026-34C.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/barbados-1966-rev-2026/hear/barbados-2026-34C.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/barbados-1966-rev-2026/hear/barbados-2026-34C.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "bavaria-1808",
@@ -490,7 +532,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/bavaria-1808/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/bavaria-1808/hear/bavaria-1808-11.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/bavaria-1808/hear/bavaria-1808-11.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/bavaria-1808/hear/bavaria-1808-11.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "belarus-1994-rev-2004",
@@ -511,7 +555,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/belarus-1994-rev-2004/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/belarus-1994-rev-2004/hear/belarus-2004-32.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/belarus-1994-rev-2004/hear/belarus-2004-32.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/belarus-1994-rev-2004/hear/belarus-2004-32.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "belgium-1831-rev-2025",
@@ -532,7 +578,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/belgium-1831-rev-2025/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/belgium-1831-rev-2025/hear/belgium-2025-chapter-iv-on-communitie.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/belgium-1831-rev-2025/hear/belgium-2025-chapter-iv-on-communitie.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/belgium-1831-rev-2025/hear/belgium-2025-chapter-iv-on-communitie.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "belgium-1831",
@@ -553,7 +601,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/belgium-1831/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/belgium-1831/hear/belgium-1831-18.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/belgium-1831/hear/belgium-1831-18.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/belgium-1831/hear/belgium-1831-18.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "belize-1981-rev-2022",
@@ -574,7 +624,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/belize-1981-rev-2022/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/belize-1981-rev-2022/hear/belize-2022-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/belize-1981-rev-2022/hear/belize-2022-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/belize-1981-rev-2022/hear/belize-2022-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "benin-1990",
@@ -595,7 +647,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/benin-1990/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/benin-1990/hear/benin-1990-1.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/benin-1990/hear/benin-1990-1.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/benin-1990/hear/benin-1990-1.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "bhutan-2008",
@@ -616,7 +670,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/bhutan-2008/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/bhutan-2008/hear/bhutan-2008-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/bhutan-2008/hear/bhutan-2008-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/bhutan-2008/hear/bhutan-2008-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "bolivia-plurinational-state-of-1826",
@@ -637,7 +693,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-1826/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-1826/hear/bolivia-1826-chapter-iii-of-the-chamb.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-1826/hear/bolivia-1826-chapter-iii-of-the-chamb.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-1826/hear/bolivia-1826-chapter-iii-of-the-chamb.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "bolivia-plurinational-state-of-2009",
@@ -658,7 +716,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-2009/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-2009/hear/bolivia-2009-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-2009/hear/bolivia-2009-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-2009/hear/bolivia-2009-p.1.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "bolivia-2009:p.1",
+   "native_seconds": 6.15,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-2009/hear/bolivia-2009-p.1.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-2009/hear/bolivia-2009-p.1.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-2009/hear/bolivia-2009-p.1.es.vtt"
   },
   {
    "slug": "bosnia-and-herzegovina-1995-rev-2009",
@@ -679,7 +745,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/bosnia-and-herzegovina-1995-rev-2009/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/bosnia-and-herzegovina-1995-rev-2009/hear/bosnia-herzegovina-2009-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/bosnia-and-herzegovina-1995-rev-2009/hear/bosnia-herzegovina-2009-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/bosnia-and-herzegovina-1995-rev-2009/hear/bosnia-herzegovina-2009-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "botswana-1966-rev-2021",
@@ -700,7 +768,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/botswana-1966-rev-2021/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/botswana-1966-rev-2021/hear/botswana-2021-part-iii-ntlo-ya-dikgosi.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/botswana-1966-rev-2021/hear/botswana-2021-part-iii-ntlo-ya-dikgosi.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/botswana-1966-rev-2021/hear/botswana-2021-part-iii-ntlo-ya-dikgosi.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "brazil-1988-rev-2017",
@@ -721,7 +791,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/brazil-1988-rev-2017/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/brazil-1988-rev-2017/hear/brazil-2017-chapter-ii-urban-policy.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/brazil-1988-rev-2017/hear/brazil-2017-chapter-ii-urban-policy.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/brazil-1988-rev-2017/hear/brazil-2017-chapter-ii-urban-policy.r.opus",
+   "language": "pt-BR",
+   "native": true,
+   "native_voice": "alex-pt",
+   "native_fragment_id": "brazil-2017:1",
+   "native_seconds": 32.36,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/brazil-1988-rev-2017/hear/brazil-2017-1.pt-BR.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/brazil-1988-rev-2017/hear/brazil-2017-1.pt-BR.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/brazil-1988-rev-2017/hear/brazil-2017-1.pt-BR.vtt"
   },
   {
    "slug": "brunei-darussalam-1959-rev-2006",
@@ -742,7 +820,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/brunei-darussalam-1959-rev-2006/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/brunei-darussalam-1959-rev-2006/hear/brunei-2006-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/brunei-darussalam-1959-rev-2006/hear/brunei-2006-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/brunei-darussalam-1959-rev-2006/hear/brunei-2006-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "bulgaria-1991-rev-2015",
@@ -763,7 +843,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/bulgaria-1991-rev-2015/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/bulgaria-1991-rev-2015/hear/bulgaria-2015-47.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/bulgaria-1991-rev-2015/hear/bulgaria-2015-47.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/bulgaria-1991-rev-2015/hear/bulgaria-2015-47.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "burkina-faso-1991-rev-2015",
@@ -784,7 +866,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/burkina-faso-1991-rev-2015/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/burkina-faso-1991-rev-2015/hear/burkina-faso-2015-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/burkina-faso-1991-rev-2015/hear/burkina-faso-2015-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/burkina-faso-1991-rev-2015/hear/burkina-faso-2015-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "burundi-2005",
@@ -805,7 +889,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/burundi-2005/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/burundi-2005/hear/burundi-2005-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/burundi-2005/hear/burundi-2005-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/burundi-2005/hear/burundi-2005-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "burundi-2018",
@@ -826,7 +912,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/burundi-2018/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/burundi-2018/hear/burundi-2018-1.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/burundi-2018/hear/burundi-2018-1.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/burundi-2018/hear/burundi-2018-1.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "cambodia-1993-rev-2008",
@@ -847,7 +935,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/cambodia-1993-rev-2008/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/cambodia-1993-rev-2008/hear/cambodia-2008-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/cambodia-1993-rev-2008/hear/cambodia-2008-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/cambodia-1993-rev-2008/hear/cambodia-2008-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "cameroon-1972-rev-2008",
@@ -868,7 +958,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/cameroon-1972-rev-2008/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/cameroon-1972-rev-2008/hear/cameroon-2008-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/cameroon-1972-rev-2008/hear/cameroon-2008-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/cameroon-1972-rev-2008/hear/cameroon-2008-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "canada-1867-rev-2011",
@@ -889,7 +981,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/canada-1867-rev-2011/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/canada-1867-rev-2011/hear/canada-2011-iv-legislative-power.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/canada-1867-rev-2011/hear/canada-2011-iv-legislative-power.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/canada-1867-rev-2011/hear/canada-2011-iv-legislative-power.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "cape-verde-1980-rev-1992",
@@ -910,7 +1004,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/cape-verde-1980-rev-1992/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/cape-verde-1980-rev-1992/hear/cape-verde-1992-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/cape-verde-1980-rev-1992/hear/cape-verde-1992-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/cape-verde-1980-rev-1992/hear/cape-verde-1992-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "central-african-republic-2004-rev-2010",
@@ -931,7 +1027,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/central-african-republic-2004-rev-2010/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/central-african-republic-2004-rev-2010/hear/central-african-republic-2010-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/central-african-republic-2004-rev-2010/hear/central-african-republic-2010-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/central-african-republic-2004-rev-2010/hear/central-african-republic-2010-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "central-african-republic-2013",
@@ -952,7 +1050,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/central-african-republic-2013/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/central-african-republic-2013/hear/central-african-republic-2013-chapter-ii-of-the-prime-.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/central-african-republic-2013/hear/central-african-republic-2013-chapter-ii-of-the-prime-.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/central-african-republic-2013/hear/central-african-republic-2013-chapter-ii-of-the-prime-.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "central-african-republic-2016",
@@ -973,7 +1073,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/central-african-republic-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/central-african-republic-2016/hear/central-african-republic-2016-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/central-african-republic-2016/hear/central-african-republic-2016-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/central-african-republic-2016/hear/central-african-republic-2016-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "chad-1996-rev-2015",
@@ -994,7 +1096,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/chad-1996-rev-2015/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/chad-1996-rev-2015/hear/chad-2015-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/chad-1996-rev-2015/hear/chad-2015-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/chad-1996-rev-2015/hear/chad-2015-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "chad-2018",
@@ -1015,7 +1119,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/chad-2018/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/chad-2018/hear/chad-2018-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/chad-2018/hear/chad-2018-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/chad-2018/hear/chad-2018-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "chile-1925",
@@ -1036,7 +1142,15 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/chile-1925/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/chile-1925/hear/chile-1925-sub-delegates.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/chile-1925/hear/chile-1925-sub-delegates.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/chile-1925/hear/chile-1925-sub-delegates.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "chile-1925:sub-delegates",
+   "native_seconds": 14.15,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/chile-1925/hear/chile-1925-sub-delegates.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/chile-1925/hear/chile-1925-sub-delegates.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/chile-1925/hear/chile-1925-sub-delegates.es.vtt"
   },
   {
    "slug": "chile-1980-rev-2021",
@@ -1057,7 +1171,15 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/chile-1980-rev-2021/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/chile-1980-rev-2021/hear/chile-2021-87.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/chile-1980-rev-2021/hear/chile-2021-87.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/chile-1980-rev-2021/hear/chile-2021-87.1.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "chile-2021:87.1",
+   "native_seconds": 18.08,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/chile-1980-rev-2021/hear/chile-2021-87.1.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/chile-1980-rev-2021/hear/chile-2021-87.1.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/chile-1980-rev-2021/hear/chile-2021-87.1.es.vtt"
   },
   {
    "slug": "chile-2018",
@@ -1078,7 +1200,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/chile-2018/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/chile-2018/hear/chile-2018d-19.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/chile-2018/hear/chile-2018d-19.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/chile-2018/hear/chile-2018d-19.1.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "chile-2018d:19.1",
+   "native_seconds": 10.48,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/chile-2018/hear/chile-2018d-19.1.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/chile-2018/hear/chile-2018d-19.1.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/chile-2018/hear/chile-2018d-19.1.es.vtt"
   },
   {
    "slug": "chile-2022",
@@ -1099,7 +1229,15 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/chile-2022/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/chile-2022/hear/chile-2022d-natural-common-goods.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/chile-2022/hear/chile-2022d-natural-common-goods.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/chile-2022/hear/chile-2022d-natural-common-goods.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "chile-2022d:natural-common-goods.r",
+   "native_seconds": 52.45,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/chile-2022/hear/chile-2022d-natural-common-goods.r.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/chile-2022/hear/chile-2022d-natural-common-goods.r.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/chile-2022/hear/chile-2022d-natural-common-goods.r.es.vtt"
   },
   {
    "slug": "chile-2023-chile-2023d",
@@ -1120,7 +1258,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023d/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023d/hear/chile-2023d-guarantees-of-rights-and.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023d/hear/chile-2023d-guarantees-of-rights-and.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023d/hear/chile-2023d-guarantees-of-rights-and.1.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "chile-2023d:guarantees-of-rights-and.1",
+   "native_seconds": 28.78,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023d/hear/chile-2023d-guarantees-of-rights-and.1.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023d/hear/chile-2023d-guarantees-of-rights-and.1.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023d/hear/chile-2023d-guarantees-of-rights-and.1.es.vtt"
   },
   {
    "slug": "chile-2023-chile-2023dd",
@@ -1141,7 +1287,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023dd/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023dd/hear/chile-2023dd-constitutional-duties.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023dd/hear/chile-2023dd-constitutional-duties.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023dd/hear/chile-2023dd-constitutional-duties.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "chile-2023dd:fundamental-rights-and-l.1",
+   "native_seconds": 9.35,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023dd/hear/chile-2023dd-fundamental-rights-and-l.1.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023dd/hear/chile-2023dd-fundamental-rights-and-l.1.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023dd/hear/chile-2023dd-fundamental-rights-and-l.1.es.vtt"
   },
   {
    "slug": "china-peoples-republic-of-1982-rev-2018",
@@ -1162,7 +1316,9 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/china-peoples-republic-of-1982-rev-2018/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/china-peoples-republic-of-1982-rev-2018/hear/china-2018-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/china-peoples-republic-of-1982-rev-2018/hear/china-2018-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/china-peoples-republic-of-1982-rev-2018/hear/china-2018-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "colombia-1991-rev-2015",
@@ -1183,7 +1339,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/colombia-1991-rev-2015/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/colombia-1991-rev-2015/hear/colombia-2015-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/colombia-1991-rev-2015/hear/colombia-2015-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/colombia-1991-rev-2015/hear/colombia-2015-p.1.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "colombia-2015:p.1",
+   "native_seconds": 31.4,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/colombia-1991-rev-2015/hear/colombia-2015-p.1.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/colombia-1991-rev-2015/hear/colombia-2015-p.1.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/colombia-1991-rev-2015/hear/colombia-2015-p.1.es.vtt"
   },
   {
    "slug": "comoros-2001-rev-2009",
@@ -1204,7 +1368,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/comoros-2001-rev-2009/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/comoros-2001-rev-2009/hear/comoros-2009-1.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/comoros-2001-rev-2009/hear/comoros-2009-1.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/comoros-2001-rev-2009/hear/comoros-2009-1.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "comoros-2018",
@@ -1225,7 +1391,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/comoros-2018/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/comoros-2018/hear/comoros-2018-chapter-i-of-the-union-o.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/comoros-2018/hear/comoros-2018-chapter-i-of-the-union-o.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/comoros-2018/hear/comoros-2018-chapter-i-of-the-union-o.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "congo-democratic-republic-of-the-2005-rev-2011",
@@ -1246,7 +1414,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/congo-democratic-republic-of-the-2005-rev-2011/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/congo-democratic-republic-of-the-2005-rev-2011/hear/democratic-republic-of-the-congo-2011-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/congo-democratic-republic-of-the-2005-rev-2011/hear/democratic-republic-of-the-congo-2011-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/congo-democratic-republic-of-the-2005-rev-2011/hear/democratic-republic-of-the-congo-2011-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "congo-republic-of-the-2001",
@@ -1267,7 +1437,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/congo-republic-of-the-2001/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/congo-republic-of-the-2001/hear/congo-2001-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/congo-republic-of-the-2001/hear/congo-2001-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/congo-republic-of-the-2001/hear/congo-2001-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "congo-republic-of-the-2015",
@@ -1288,7 +1460,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/congo-republic-of-the-2015/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/congo-republic-of-the-2015/hear/congo-2015-145.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/congo-republic-of-the-2015/hear/congo-2015-145.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/congo-republic-of-the-2015/hear/congo-2015-145.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "costa-rica-1949-rev-2020",
@@ -1309,7 +1483,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/costa-rica-1949-rev-2020/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/costa-rica-1949-rev-2020/hear/costa-rica-2020-sole-chapter.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/costa-rica-1949-rev-2020/hear/costa-rica-2020-sole-chapter.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/costa-rica-1949-rev-2020/hear/costa-rica-2020-sole-chapter.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "costa-rica-2020:sole-chapter.r",
+   "native_seconds": 19.14,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/costa-rica-1949-rev-2020/hear/costa-rica-2020-sole-chapter.r.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/costa-rica-1949-rev-2020/hear/costa-rica-2020-sole-chapter.r.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/costa-rica-1949-rev-2020/hear/costa-rica-2020-sole-chapter.r.es.vtt"
   },
   {
    "slug": "croatia-1991-rev-2013",
@@ -1330,7 +1512,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/croatia-1991-rev-2013/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/croatia-1991-rev-2013/hear/croatia-2013-3.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/croatia-1991-rev-2013/hear/croatia-2013-3.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/croatia-1991-rev-2013/hear/croatia-2013-3.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "cte-divoire-2000",
@@ -1351,7 +1535,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/cte-divoire-2000/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/cte-divoire-2000/hear/cote-divoire-2000-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/cte-divoire-2000/hear/cote-divoire-2000-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/cte-divoire-2000/hear/cote-divoire-2000-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "cte-divoire-2016-rev-2020",
@@ -1372,7 +1558,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/cte-divoire-2016-rev-2020/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/cte-divoire-2016-rev-2020/hear/cote-divoire-2020-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/cte-divoire-2016-rev-2020/hear/cote-divoire-2020-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/cte-divoire-2016-rev-2020/hear/cote-divoire-2020-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "cuba-1976-rev-2002",
@@ -1393,7 +1581,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/cuba-1976-rev-2002/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/cuba-1976-rev-2002/hear/cuba-2002-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/cuba-1976-rev-2002/hear/cuba-2002-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/cuba-1976-rev-2002/hear/cuba-2002-p.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "cuba-2002:45.r",
+   "native_seconds": 5.7,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/cuba-1976-rev-2002/hear/cuba-2002-45.r.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/cuba-1976-rev-2002/hear/cuba-2002-45.r.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/cuba-1976-rev-2002/hear/cuba-2002-45.r.es.vtt"
   },
   {
    "slug": "cuba-2018",
@@ -1414,7 +1610,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/cuba-2018/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/cuba-2018/hear/cuba-2018d-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/cuba-2018/hear/cuba-2018d-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/cuba-2018/hear/cuba-2018d-p.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "cuba-2018d:chapter-ii-international.r",
+   "native_seconds": 29.78,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/cuba-2018/hear/cuba-2018d-chapter-ii-international.r.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/cuba-2018/hear/cuba-2018d-chapter-ii-international.r.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/cuba-2018/hear/cuba-2018d-chapter-ii-international.r.es.vtt"
   },
   {
    "slug": "cuba-2019",
@@ -1435,7 +1639,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/cuba-2019/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/cuba-2019/hear/cuba-2019-chapter-ii-international.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/cuba-2019/hear/cuba-2019-chapter-ii-international.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/cuba-2019/hear/cuba-2019-chapter-ii-international.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "cuba-2019:chapter-ii-international.r",
+   "native_seconds": 21.87,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/cuba-2019/hear/cuba-2019-chapter-ii-international.r.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/cuba-2019/hear/cuba-2019-chapter-ii-international.r.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/cuba-2019/hear/cuba-2019-chapter-ii-international.r.es.vtt"
   },
   {
    "slug": "cyprus-1960-rev-2013",
@@ -1456,7 +1668,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/cyprus-1960-rev-2013/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/cyprus-1960-rev-2013/hear/cyprus-2013-111.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/cyprus-1960-rev-2013/hear/cyprus-2013-111.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/cyprus-1960-rev-2013/hear/cyprus-2013-111.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "czech-republic-1993-rev-2013",
@@ -1477,7 +1691,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/czech-republic-1993-rev-2013/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/czech-republic-1993-rev-2013/hear/czech-republic-2013-chapter-4-economic-socia.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/czech-republic-1993-rev-2013/hear/czech-republic-2013-chapter-4-economic-socia.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/czech-republic-1993-rev-2013/hear/czech-republic-2013-chapter-4-economic-socia.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "denmark-1953",
@@ -1498,7 +1714,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/denmark-1953/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/denmark-1953/hear/denmark-1953-78.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/denmark-1953/hear/denmark-1953-78.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/denmark-1953/hear/denmark-1953-78.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "djibouti-1992-rev-2010",
@@ -1519,7 +1737,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/djibouti-1992-rev-2010/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/djibouti-1992-rev-2010/hear/djibouti-2010-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/djibouti-1992-rev-2010/hear/djibouti-2010-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/djibouti-1992-rev-2010/hear/djibouti-2010-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "dominica-1978-rev-2014",
@@ -1540,7 +1760,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/dominica-1978-rev-2014/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/dominica-1978-rev-2014/hear/dominica-2014-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/dominica-1978-rev-2014/hear/dominica-2014-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/dominica-1978-rev-2014/hear/dominica-2014-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "dominican-republic-2010",
@@ -1561,7 +1783,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2010/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2010/hear/dominican-republic-2010-chapter-iv-of-the-natura.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2010/hear/dominican-republic-2010-chapter-iv-of-the-natura.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2010/hear/dominican-republic-2010-chapter-iv-of-the-natura.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "dominican-republic-2015",
@@ -1582,7 +1806,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2015/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2015/hear/dominican-republic-2015-chapter-i-fundamental-ri.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2015/hear/dominican-republic-2015-chapter-i-fundamental-ri.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2015/hear/dominican-republic-2015-chapter-i-fundamental-ri.1.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "dominican-republic-2015:chapter-i-fundamental-ri.1",
+   "native_seconds": 9.95,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2015/hear/dominican-republic-2015-chapter-i-fundamental-ri.1.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2015/hear/dominican-republic-2015-chapter-i-fundamental-ri.1.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2015/hear/dominican-republic-2015-chapter-i-fundamental-ri.1.es.vtt"
   },
   {
    "slug": "ecuador-2008-rev-2021",
@@ -1603,7 +1835,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/ecuador-2008-rev-2021/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/ecuador-2008-rev-2021/hear/ecuador-2021-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/ecuador-2008-rev-2021/hear/ecuador-2021-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/ecuador-2008-rev-2021/hear/ecuador-2021-p.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "ecuador-2021:chapter-1-basic-principl.r",
+   "native_seconds": 15.22,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/ecuador-2008-rev-2021/hear/ecuador-2021-chapter-1-basic-principl.r.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/ecuador-2008-rev-2021/hear/ecuador-2021-chapter-1-basic-principl.r.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/ecuador-2008-rev-2021/hear/ecuador-2021-chapter-1-basic-principl.r.es.vtt"
   },
   {
    "slug": "egypt-2012",
@@ -1624,7 +1864,15 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/egypt-2012/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/egypt-2012/hear/egypt-2012-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/egypt-2012/hear/egypt-2012-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/egypt-2012/hear/egypt-2012-p.1.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "egypt-2012:p.1",
+   "native_seconds": 21.61,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/egypt-2012/hear/egypt-2012-p.1.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/egypt-2012/hear/egypt-2012-p.1.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/egypt-2012/hear/egypt-2012-p.1.ar.vtt"
   },
   {
    "slug": "egypt-2014-rev-2019",
@@ -1645,7 +1893,15 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/egypt-2014-rev-2019/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/egypt-2014-rev-2019/hear/egypt-2019-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/egypt-2014-rev-2019/hear/egypt-2019-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/egypt-2014-rev-2019/hear/egypt-2019-p.r.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "egypt-2019:section-two-economic-com.1",
+   "native_seconds": 28.8,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/egypt-2014-rev-2019/hear/egypt-2019-section-two-economic-com.1.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/egypt-2014-rev-2019/hear/egypt-2019-section-two-economic-com.1.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/egypt-2014-rev-2019/hear/egypt-2019-section-two-economic-com.1.ar.vtt"
   },
   {
    "slug": "el-salvador-1983-rev-2014",
@@ -1666,7 +1922,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/el-salvador-1983-rev-2014/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/el-salvador-1983-rev-2014/hear/el-salvador-2014-105.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/el-salvador-1983-rev-2014/hear/el-salvador-2014-105.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/el-salvador-1983-rev-2014/hear/el-salvador-2014-105.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "el-salvador-2014:105.r",
+   "native_seconds": 15.43,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/el-salvador-1983-rev-2014/hear/el-salvador-2014-105.r.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/el-salvador-1983-rev-2014/hear/el-salvador-2014-105.r.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/el-salvador-1983-rev-2014/hear/el-salvador-2014-105.r.es.vtt"
   },
   {
    "slug": "equatorial-guinea-1991-rev-2012",
@@ -1687,7 +1951,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/equatorial-guinea-1991-rev-2012/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/equatorial-guinea-1991-rev-2012/hear/equatorial-guinea-2012-chapter-ix-of-the-tribun.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/equatorial-guinea-1991-rev-2012/hear/equatorial-guinea-2012-chapter-ix-of-the-tribun.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/equatorial-guinea-1991-rev-2012/hear/equatorial-guinea-2012-chapter-ix-of-the-tribun.1.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "equatorial-guinea-2012:chapter-ix-of-the-tribun.1",
+   "native_seconds": 6.04,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/equatorial-guinea-1991-rev-2012/hear/equatorial-guinea-2012-chapter-ix-of-the-tribun.1.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/equatorial-guinea-1991-rev-2012/hear/equatorial-guinea-2012-chapter-ix-of-the-tribun.1.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/equatorial-guinea-1991-rev-2012/hear/equatorial-guinea-2012-chapter-ix-of-the-tribun.1.es.vtt"
   },
   {
    "slug": "eritrea-1997",
@@ -1708,7 +1980,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/eritrea-1997/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/eritrea-1997/hear/eritrea-1997-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/eritrea-1997/hear/eritrea-1997-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/eritrea-1997/hear/eritrea-1997-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "estonia-1992-rev-2015",
@@ -1729,7 +2003,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/estonia-1992-rev-2015/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/estonia-1992-rev-2015/hear/estonia-2015-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/estonia-1992-rev-2015/hear/estonia-2015-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/estonia-1992-rev-2015/hear/estonia-2015-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "eswatini-2005",
@@ -1750,7 +2026,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/eswatini-2005/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/eswatini-2005/hear/swaziland-2005-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/eswatini-2005/hear/swaziland-2005-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/eswatini-2005/hear/swaziland-2005-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "ethiopia-1994",
@@ -1771,7 +2049,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/ethiopia-1994/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/ethiopia-1994/hear/ethiopia-1994-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/ethiopia-1994/hear/ethiopia-1994-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/ethiopia-1994/hear/ethiopia-1994-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "fiji-2013",
@@ -1792,7 +2072,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/fiji-2013/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/fiji-2013/hear/fiji-2013-29.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/fiji-2013/hear/fiji-2013-29.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/fiji-2013/hear/fiji-2013-29.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "finland-1999-rev-2018",
@@ -1813,7 +2095,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/finland-1999-rev-2018/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/finland-1999-rev-2018/hear/finland-2018-17.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/finland-1999-rev-2018/hear/finland-2018-17.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/finland-1999-rev-2018/hear/finland-2018-17.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "france-1958-rev-2024",
@@ -1834,7 +2118,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/france-1958-rev-2024/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/france-1958-rev-2024/hear/france-2024-charter-for-the-environm.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/france-1958-rev-2024/hear/france-2024-charter-for-the-environm.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/france-1958-rev-2024/hear/france-2024-charter-for-the-environm.r.opus",
+   "language": "fr",
+   "native": true,
+   "native_voice": "siwis-piper",
+   "native_fragment_id": "france-2024:14",
+   "native_seconds": 12.14,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/france-1958-rev-2024/hear/france-2024-14.fr.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/france-1958-rev-2024/hear/france-2024-14.fr.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/france-1958-rev-2024/hear/france-2024-14.fr.vtt"
   },
   {
    "slug": "gabon-1991-rev-2011",
@@ -1855,7 +2147,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/gabon-1991-rev-2011/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/gabon-1991-rev-2011/hear/gabon-2011-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/gabon-1991-rev-2011/hear/gabon-2011-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/gabon-1991-rev-2011/hear/gabon-2011-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "gambia-the-1996-rev-2018",
@@ -1876,7 +2170,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/gambia-the-1996-rev-2018/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/gambia-the-1996-rev-2018/hear/gambia-2018-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/gambia-the-1996-rev-2018/hear/gambia-2018-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/gambia-the-1996-rev-2018/hear/gambia-2018-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "gambia-the-2019",
@@ -1897,7 +2193,9 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/gambia-the-2019/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/gambia-the-2019/hear/gambia-2019d-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/gambia-the-2019/hear/gambia-2019d-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/gambia-the-2019/hear/gambia-2019d-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "gambia-the-2020",
@@ -1918,7 +2216,9 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/gambia-the-2020/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/gambia-the-2020/hear/gambia-2020d-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/gambia-the-2020/hear/gambia-2020d-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/gambia-the-2020/hear/gambia-2020d-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "georgia-1995-rev-2018",
@@ -1939,7 +2239,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/georgia-1995-rev-2018/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/georgia-1995-rev-2018/hear/georgia-2018-23.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/georgia-1995-rev-2018/hear/georgia-2018-23.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/georgia-1995-rev-2018/hear/georgia-2018-23.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "germany-1949-rev-2014",
@@ -1960,7 +2262,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/germany-1949-rev-2014/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/germany-1949-rev-2014/hear/german-federal-republic-2014-90.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/germany-1949-rev-2014/hear/german-federal-republic-2014-90.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/germany-1949-rev-2014/hear/german-federal-republic-2014-90.opus",
+   "language": "de",
+   "native": true,
+   "native_voice": "thorsten",
+   "native_fragment_id": "german-federal-republic-2014:90",
+   "native_seconds": 56.54,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/germany-1949-rev-2014/hear/german-federal-republic-2014-90.de.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/germany-1949-rev-2014/hear/german-federal-republic-2014-90.de.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/germany-1949-rev-2014/hear/german-federal-republic-2014-90.de.vtt"
   },
   {
    "slug": "germany-prussia-1919",
@@ -1981,7 +2291,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/germany-prussia-1919/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/germany-prussia-1919/hear/germany-prussia-1919-division-one-empire-and-.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/germany-prussia-1919/hear/germany-prussia-1919-division-one-empire-and-.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/germany-prussia-1919/hear/germany-prussia-1919-division-one-empire-and-.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "ghana-1992-rev-1996",
@@ -2002,7 +2314,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/ghana-1992-rev-1996/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/ghana-1992-rev-1996/hear/ghana-1996-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/ghana-1992-rev-1996/hear/ghana-1996-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/ghana-1992-rev-1996/hear/ghana-1996-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "greece-1975-rev-2019",
@@ -2023,7 +2337,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/greece-1975-rev-2019/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/greece-1975-rev-2019/hear/greece-2019-24.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/greece-1975-rev-2019/hear/greece-2019-24.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/greece-1975-rev-2019/hear/greece-2019-24.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "grenada-1973-reinst-1991-rev-1992",
@@ -2044,7 +2360,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/grenada-1973-reinst-1991-rev-1992/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/grenada-1973-reinst-1991-rev-1992/hear/grenada-1992-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/grenada-1973-reinst-1991-rev-1992/hear/grenada-1992-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/grenada-1973-reinst-1991-rev-1992/hear/grenada-1992-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "guatemala-1985-rev-1993",
@@ -2065,7 +2383,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/guatemala-1985-rev-1993/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/guatemala-1985-rev-1993/hear/guatemala-1993-chapter-ii-social-rights.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/guatemala-1985-rev-1993/hear/guatemala-1993-chapter-ii-social-rights.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/guatemala-1985-rev-1993/hear/guatemala-1993-chapter-ii-social-rights.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "guatemala-1993:chapter-ii-social-rights.r",
+   "native_seconds": 10.1,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/guatemala-1985-rev-1993/hear/guatemala-1993-chapter-ii-social-rights.r.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/guatemala-1985-rev-1993/hear/guatemala-1993-chapter-ii-social-rights.r.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/guatemala-1985-rev-1993/hear/guatemala-1993-chapter-ii-social-rights.r.es.vtt"
   },
   {
    "slug": "guinea-2010",
@@ -2086,7 +2412,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/guinea-2010/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/guinea-2010/hear/guinea-2010-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/guinea-2010/hear/guinea-2010-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/guinea-2010/hear/guinea-2010-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "guinea-bissau-1984-rev-1996",
@@ -2107,7 +2435,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/guinea-bissau-1984-rev-1996/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/guinea-bissau-1984-rev-1996/hear/guinea-bissau-1996-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/guinea-bissau-1984-rev-1996/hear/guinea-bissau-1996-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/guinea-bissau-1984-rev-1996/hear/guinea-bissau-1996-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "guyana-1980-rev-2016",
@@ -2128,7 +2458,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/guyana-1980-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/guyana-1980-rev-2016/hear/guyana-2016-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/guyana-1980-rev-2016/hear/guyana-2016-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/guyana-1980-rev-2016/hear/guyana-2016-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "haiti-1987-rev-2012",
@@ -2149,7 +2481,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/haiti-1987-rev-2012/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/haiti-1987-rev-2012/hear/haiti-2012-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/haiti-1987-rev-2012/hear/haiti-2012-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/haiti-1987-rev-2012/hear/haiti-2012-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "honduras-1982-rev-2013",
@@ -2170,7 +2504,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/honduras-1982-rev-2013/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/honduras-1982-rev-2013/hear/honduras-2013-chapter-ii-individual-ri.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/honduras-1982-rev-2013/hear/honduras-2013-chapter-ii-individual-ri.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/honduras-1982-rev-2013/hear/honduras-2013-chapter-ii-individual-ri.1.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "honduras-2013:chapter-ii-individual-ri.1",
+   "native_seconds": 9.78,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/honduras-1982-rev-2013/hear/honduras-2013-chapter-ii-individual-ri.1.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/honduras-1982-rev-2013/hear/honduras-2013-chapter-ii-individual-ri.1.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/honduras-1982-rev-2013/hear/honduras-2013-chapter-ii-individual-ri.1.es.vtt"
   },
   {
    "slug": "hungary-2011-rev-2016",
@@ -2191,7 +2533,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/hungary-2011-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/hungary-2011-rev-2016/hear/hungary-2016-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/hungary-2011-rev-2016/hear/hungary-2016-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/hungary-2011-rev-2016/hear/hungary-2016-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "iceland-1944-rev-2013",
@@ -2212,7 +2556,9 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/iceland-1944-rev-2013/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/iceland-1944-rev-2013/hear/iceland-2013-74.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/iceland-1944-rev-2013/hear/iceland-2013-74.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/iceland-1944-rev-2013/hear/iceland-2013-74.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "iceland-2011",
@@ -2233,7 +2579,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/iceland-2011/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/iceland-2011/hear/iceland-2011d-33.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/iceland-2011/hear/iceland-2011d-33.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/iceland-2011/hear/iceland-2011d-33.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "india-1949-rev-2023",
@@ -2254,7 +2602,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/india-1949-rev-2023/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/india-1949-rev-2023/hear/india-2023-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/india-1949-rev-2023/hear/india-2023-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/india-1949-rev-2023/hear/india-2023-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "indonesia-1945-reinst-1959-rev-2002",
@@ -2275,7 +2625,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/indonesia-1945-reinst-1959-rev-2002/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/indonesia-1945-reinst-1959-rev-2002/hear/indonesia-2002-18.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/indonesia-1945-reinst-1959-rev-2002/hear/indonesia-2002-18.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/indonesia-1945-reinst-1959-rev-2002/hear/indonesia-2002-18.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "iran-islamic-republic-of-1979-rev-1989",
@@ -2296,7 +2648,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/iran-islamic-republic-of-1979-rev-1989/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/iran-islamic-republic-of-1979-rev-1989/hear/iran-1989-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/iran-islamic-republic-of-1979-rev-1989/hear/iran-1989-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/iran-islamic-republic-of-1979-rev-1989/hear/iran-1989-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "iraq-2005",
@@ -2317,7 +2671,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/iraq-2005/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/iraq-2005/hear/iraq-2005-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/iraq-2005/hear/iraq-2005-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/iraq-2005/hear/iraq-2005-p.1.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "iraq-2005:p.1",
+   "native_seconds": 37.39,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/iraq-2005/hear/iraq-2005-p.1.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/iraq-2005/hear/iraq-2005-p.1.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/iraq-2005/hear/iraq-2005-p.1.ar.vtt"
   },
   {
    "slug": "ireland-1937-rev-2019",
@@ -2338,7 +2700,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/ireland-1937-rev-2019/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/ireland-1937-rev-2019/hear/ireland-2019-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/ireland-1937-rev-2019/hear/ireland-2019-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/ireland-1937-rev-2019/hear/ireland-2019-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "israel-1958-rev-2013",
@@ -2359,7 +2723,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/israel-1958-rev-2013/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/israel-1958-rev-2013/hear/israel-2013-chapter-three-the-courts.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/israel-1958-rev-2013/hear/israel-2013-chapter-three-the-courts.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/israel-1958-rev-2013/hear/israel-2013-chapter-three-the-courts.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "italy-1947-rev-2020",
@@ -2380,7 +2746,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/italy-1947-rev-2020/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/italy-1947-rev-2020/hear/italy-2020-title-v-regions-province.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/italy-1947-rev-2020/hear/italy-2020-title-v-regions-province.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/italy-1947-rev-2020/hear/italy-2020-title-v-regions-province.r.opus",
+   "language": "it",
+   "native": true,
+   "native_voice": "serena",
+   "native_fragment_id": "italy-2020:5",
+   "native_seconds": 15.08,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/italy-1947-rev-2020/hear/italy-2020-5.it.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/italy-1947-rev-2020/hear/italy-2020-5.it.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/italy-1947-rev-2020/hear/italy-2020-5.it.vtt"
   },
   {
    "slug": "jamaica-1962-rev-2023",
@@ -2401,7 +2775,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/jamaica-1962-rev-2023/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/jamaica-1962-rev-2023/hear/jamaica-2023-part-4-constituencies-an.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/jamaica-1962-rev-2023/hear/jamaica-2023-part-4-constituencies-an.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/jamaica-1962-rev-2023/hear/jamaica-2023-part-4-constituencies-an.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "japan-1889",
@@ -2422,7 +2798,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/japan-1889/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/japan-1889/hear/japan-1889-55.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/japan-1889/hear/japan-1889-55.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/japan-1889/hear/japan-1889-55.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "japan-1946",
@@ -2443,7 +2821,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/japan-1946/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/japan-1946/hear/japan-1946-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/japan-1946/hear/japan-1946-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/japan-1946/hear/japan-1946-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "jordan-1952-rev-2016",
@@ -2464,7 +2844,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/jordan-1952-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/jordan-1952-rev-2016/hear/jordan-2016-13.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/jordan-1952-rev-2016/hear/jordan-2016-13.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/jordan-1952-rev-2016/hear/jordan-2016-13.r.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "jordan-2016:13.r",
+   "native_seconds": 66.29,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/jordan-1952-rev-2016/hear/jordan-2016-13.r.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/jordan-1952-rev-2016/hear/jordan-2016-13.r.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/jordan-1952-rev-2016/hear/jordan-2016-13.r.ar.vtt"
   },
   {
    "slug": "kazakhstan-1995-rev-2022",
@@ -2485,7 +2873,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/kazakhstan-1995-rev-2022/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/kazakhstan-1995-rev-2022/hear/kazakhstan-2022-p.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/kazakhstan-1995-rev-2022/hear/kazakhstan-2022-p.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/kazakhstan-1995-rev-2022/hear/kazakhstan-2022-p.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "kazakhstan-2026",
@@ -2506,7 +2896,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/kazakhstan-2026/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/kazakhstan-2026/hear/kazakhstan-2026-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/kazakhstan-2026/hear/kazakhstan-2026-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/kazakhstan-2026/hear/kazakhstan-2026-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "kenya-2010",
@@ -2527,7 +2919,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/kenya-2010/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/kenya-2010/hear/kenya-2010-part-1-land.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/kenya-2010/hear/kenya-2010-part-1-land.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/kenya-2010/hear/kenya-2010-part-1-land.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "kiribati-1979-rev-2018",
@@ -2548,7 +2942,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/kiribati-1979-rev-2018/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/kiribati-1979-rev-2018/hear/kiribati-2018-p.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/kiribati-1979-rev-2018/hear/kiribati-2018-p.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/kiribati-1979-rev-2018/hear/kiribati-2018-p.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "korea-democratic-peoples-republic-of-1972-rev-2016",
@@ -2569,7 +2965,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/korea-democratic-peoples-republic-of-1972-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/korea-democratic-peoples-republic-of-1972-rev-2016/hear/peoples-republic-of-korea-2016-29.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/korea-democratic-peoples-republic-of-1972-rev-2016/hear/peoples-republic-of-korea-2016-29.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/korea-democratic-peoples-republic-of-1972-rev-2016/hear/peoples-republic-of-korea-2016-29.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "korea-republic-of-1948-rev-1987",
@@ -2590,7 +2988,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/korea-republic-of-1948-rev-1987/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/korea-republic-of-1948-rev-1987/hear/republic-of-korea-1987-121.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/korea-republic-of-1948-rev-1987/hear/republic-of-korea-1987-121.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/korea-republic-of-1948-rev-1987/hear/republic-of-korea-1987-121.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "kosovo-2008-rev-2020",
@@ -2611,7 +3011,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/kosovo-2008-rev-2020/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/kosovo-2008-rev-2020/hear/kosovo-2020-62.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/kosovo-2008-rev-2020/hear/kosovo-2020-62.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/kosovo-2008-rev-2020/hear/kosovo-2020-62.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "kuwait-1962-reinst-1992",
@@ -2632,7 +3034,15 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/kuwait-1962-reinst-1992/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/kuwait-1962-reinst-1992/hear/kuwait-1992-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/kuwait-1962-reinst-1992/hear/kuwait-1992-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/kuwait-1962-reinst-1992/hear/kuwait-1992-p.1.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "kuwait-1992:4.r",
+   "native_seconds": 22.51,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/kuwait-1962-reinst-1992/hear/kuwait-1992-4.r.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/kuwait-1962-reinst-1992/hear/kuwait-1992-4.r.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/kuwait-1962-reinst-1992/hear/kuwait-1992-4.r.ar.vtt"
   },
   {
    "slug": "kyrgyzstan-2010-rev-2016",
@@ -2653,7 +3063,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/kyrgyzstan-2010-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/kyrgyzstan-2010-rev-2016/hear/kyrgyz-republic-2016-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/kyrgyzstan-2010-rev-2016/hear/kyrgyz-republic-2016-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/kyrgyzstan-2010-rev-2016/hear/kyrgyz-republic-2016-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "kyrgyzstan-2021",
@@ -2674,7 +3086,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/kyrgyzstan-2021/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/kyrgyzstan-2021/hear/kyrgyz-republic-2021-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/kyrgyzstan-2021/hear/kyrgyz-republic-2021-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/kyrgyzstan-2021/hear/kyrgyz-republic-2021-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "lao-peoples-democratic-republic-1991-rev-2025",
@@ -2695,7 +3109,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/lao-peoples-democratic-republic-1991-rev-2025/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/lao-peoples-democratic-republic-1991-rev-2025/hear/laos-2025-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/lao-peoples-democratic-republic-1991-rev-2025/hear/laos-2025-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/lao-peoples-democratic-republic-1991-rev-2025/hear/laos-2025-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "latvia-1922-reinst-1991-rev-2018",
@@ -2716,7 +3132,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/latvia-1922-reinst-1991-rev-2018/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/latvia-1922-reinst-1991-rev-2018/hear/latvia-2018-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/latvia-1922-reinst-1991-rev-2018/hear/latvia-2018-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/latvia-1922-reinst-1991-rev-2018/hear/latvia-2018-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "lebanon-1926-rev-2004",
@@ -2737,7 +3155,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/lebanon-1926-rev-2004/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/lebanon-1926-rev-2004/hear/lebanon-2004-chapter-three-general-pr.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/lebanon-1926-rev-2004/hear/lebanon-2004-chapter-three-general-pr.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/lebanon-1926-rev-2004/hear/lebanon-2004-chapter-three-general-pr.r.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "lebanon-2004:chapter-four-the-executi.1",
+   "native_seconds": 18.58,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/lebanon-1926-rev-2004/hear/lebanon-2004-chapter-four-the-executi.1.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/lebanon-1926-rev-2004/hear/lebanon-2004-chapter-four-the-executi.1.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/lebanon-1926-rev-2004/hear/lebanon-2004-chapter-four-the-executi.1.ar.vtt"
   },
   {
    "slug": "lesotho-1993-rev-2025",
@@ -2758,7 +3184,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/lesotho-1993-rev-2025/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/lesotho-1993-rev-2025/hear/lesotho-2025-27.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/lesotho-1993-rev-2025/hear/lesotho-2025-27.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/lesotho-1993-rev-2025/hear/lesotho-2025-27.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "liberia-1986",
@@ -2779,7 +3207,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/liberia-1986/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/liberia-1986/hear/liberia-1986-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/liberia-1986/hear/liberia-1986-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/liberia-1986/hear/liberia-1986-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "libya-2011-rev-2012",
@@ -2800,7 +3230,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/libya-2011-rev-2012/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/libya-2011-rev-2012/hear/libya-2012-3.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/libya-2011-rev-2012/hear/libya-2012-3.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/libya-2011-rev-2012/hear/libya-2012-3.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "libya-2012:3",
+   "native_seconds": 34.38,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/libya-2011-rev-2012/hear/libya-2012-3.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/libya-2011-rev-2012/hear/libya-2012-3.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/libya-2011-rev-2012/hear/libya-2012-3.ar.vtt"
   },
   {
    "slug": "libya-2016",
@@ -2821,7 +3259,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/libya-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/libya-2016/hear/libya-2016d-188.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/libya-2016/hear/libya-2016d-188.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/libya-2016/hear/libya-2016d-188.1.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "libya-2016d:188.1",
+   "native_seconds": 14.57,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/libya-2016/hear/libya-2016d-188.1.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/libya-2016/hear/libya-2016d-188.1.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/libya-2016/hear/libya-2016d-188.1.ar.vtt"
   },
   {
    "slug": "liechtenstein-1921-rev-2020",
@@ -2842,7 +3288,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/liechtenstein-1921-rev-2020/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/liechtenstein-1921-rev-2020/hear/liechtenstein-2020-20.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/liechtenstein-1921-rev-2020/hear/liechtenstein-2020-20.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/liechtenstein-1921-rev-2020/hear/liechtenstein-2020-20.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "lithuania-1992-rev-2022",
@@ -2863,7 +3311,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/lithuania-1992-rev-2022/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/lithuania-1992-rev-2022/hear/lithuania-2022-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/lithuania-1992-rev-2022/hear/lithuania-2022-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/lithuania-1992-rev-2022/hear/lithuania-2022-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "luxembourg-1868-rev-2009",
@@ -2884,7 +3334,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/luxembourg-1868-rev-2009/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/luxembourg-1868-rev-2009/hear/luxembourg-2009-57.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/luxembourg-1868-rev-2009/hear/luxembourg-2009-57.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/luxembourg-1868-rev-2009/hear/luxembourg-2009-57.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "madagascar-2010",
@@ -2905,7 +3357,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/madagascar-2010/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/madagascar-2010/hear/madagascar-2010-sub-title-i-of-the-execu.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/madagascar-2010/hear/madagascar-2010-sub-title-i-of-the-execu.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/madagascar-2010/hear/madagascar-2010-sub-title-i-of-the-execu.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "malawi-1994-rev-2017",
@@ -2926,7 +3380,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/malawi-1994-rev-2017/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/malawi-1994-rev-2017/hear/malawi-2017-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/malawi-1994-rev-2017/hear/malawi-2017-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/malawi-1994-rev-2017/hear/malawi-2017-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "malaysia-1957-rev-2025",
@@ -2947,7 +3403,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/malaysia-1957-rev-2025/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/malaysia-1957-rev-2025/hear/malaysia-2025-chapter-1-distribution-o.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/malaysia-1957-rev-2025/hear/malaysia-2025-chapter-1-distribution-o.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/malaysia-1957-rev-2025/hear/malaysia-2025-chapter-1-distribution-o.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "maldives-2008",
@@ -2968,7 +3426,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/maldives-2008/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/maldives-2008/hear/maldives-2008-249.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/maldives-2008/hear/maldives-2008-249.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/maldives-2008/hear/maldives-2008-249.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "mali-1992",
@@ -2989,7 +3449,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/mali-1992/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/mali-1992/hear/mali-1992-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/mali-1992/hear/mali-1992-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/mali-1992/hear/mali-1992-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "mali-2023",
@@ -3010,7 +3472,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/mali-2023/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/mali-2023/hear/mali-2023-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/mali-2023/hear/mali-2023-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/mali-2023/hear/mali-2023-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "malta-1964-rev-2016",
@@ -3031,7 +3495,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/malta-1964-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/malta-1964-rev-2016/hear/malta-2016-part-1-composition-of-pa.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/malta-1964-rev-2016/hear/malta-2016-part-1-composition-of-pa.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/malta-1964-rev-2016/hear/malta-2016-part-1-composition-of-pa.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "marshall-islands-1979-rev-1995",
@@ -3052,7 +3518,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/marshall-islands-1979-rev-1995/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/marshall-islands-1979-rev-1995/hear/marshall-islands-1995-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/marshall-islands-1979-rev-1995/hear/marshall-islands-1995-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/marshall-islands-1979-rev-1995/hear/marshall-islands-1995-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "mauritania-1991-rev-2012",
@@ -3073,7 +3541,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/mauritania-1991-rev-2012/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/mauritania-1991-rev-2012/hear/mauritania-2012-2.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/mauritania-1991-rev-2012/hear/mauritania-2012-2.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/mauritania-1991-rev-2012/hear/mauritania-2012-2.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "mauritius-1968-rev-2016",
@@ -3094,7 +3564,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/mauritius-1968-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/mauritius-1968-rev-2016/hear/mauritius-2016-97.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/mauritius-1968-rev-2016/hear/mauritius-2016-97.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/mauritius-1968-rev-2016/hear/mauritius-2016-97.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "mexico-1917-rev-2015",
@@ -3115,7 +3587,15 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/mexico-1917-rev-2015/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/mexico-1917-rev-2015/hear/mexico-2015-chapter-i-human-rights-a.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/mexico-1917-rev-2015/hear/mexico-2015-chapter-i-human-rights-a.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/mexico-1917-rev-2015/hear/mexico-2015-chapter-i-human-rights-a.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "mexico-2015:chapter-i-human-rights-a.r",
+   "native_seconds": 15.05,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/mexico-1917-rev-2015/hear/mexico-2015-chapter-i-human-rights-a.r.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/mexico-1917-rev-2015/hear/mexico-2015-chapter-i-human-rights-a.r.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/mexico-1917-rev-2015/hear/mexico-2015-chapter-i-human-rights-a.r.es.vtt"
   },
   {
    "slug": "micronesia-federated-states-of-1978-rev-1990",
@@ -3136,7 +3616,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/micronesia-federated-states-of-1978-rev-1990/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/micronesia-federated-states-of-1978-rev-1990/hear/micronesia-1990-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/micronesia-federated-states-of-1978-rev-1990/hear/micronesia-1990-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/micronesia-federated-states-of-1978-rev-1990/hear/micronesia-1990-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "moldova-republic-of-1994-rev-2024",
@@ -3157,7 +3639,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/moldova-republic-of-1994-rev-2024/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/moldova-republic-of-1994-rev-2024/hear/moldova-2024-chapter-ii-fundamental-r.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/moldova-republic-of-1994-rev-2024/hear/moldova-2024-chapter-ii-fundamental-r.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/moldova-republic-of-1994-rev-2024/hear/moldova-2024-chapter-ii-fundamental-r.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "monaco-1962-rev-2002",
@@ -3178,7 +3662,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/monaco-1962-rev-2002/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/monaco-1962-rev-2002/hear/monaco-2002-10.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/monaco-1962-rev-2002/hear/monaco-2002-10.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/monaco-1962-rev-2002/hear/monaco-2002-10.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "mongolia-1992-rev-2001",
@@ -3199,7 +3685,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/mongolia-1992-rev-2001/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/mongolia-1992-rev-2001/hear/mongolia-2001-p.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/mongolia-1992-rev-2001/hear/mongolia-2001-p.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/mongolia-1992-rev-2001/hear/mongolia-2001-p.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "montenegro-2007-rev-2013",
@@ -3220,7 +3708,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/montenegro-2007-rev-2013/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/montenegro-2007-rev-2013/hear/montenegro-2013-1.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/montenegro-2007-rev-2013/hear/montenegro-2013-1.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/montenegro-2007-rev-2013/hear/montenegro-2013-1.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "morocco-2011",
@@ -3241,7 +3731,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/morocco-2011/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/morocco-2011/hear/morocco-2011-44.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/morocco-2011/hear/morocco-2011-44.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/morocco-2011/hear/morocco-2011-44.1.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "morocco-2011:the-institutions-and-ins.1",
+   "native_seconds": 20.7,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/morocco-2011/hear/morocco-2011-the-institutions-and-ins.1.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/morocco-2011/hear/morocco-2011-the-institutions-and-ins.1.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/morocco-2011/hear/morocco-2011-the-institutions-and-ins.1.ar.vtt"
   },
   {
    "slug": "mozambique-2004-rev-2007",
@@ -3262,7 +3760,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/mozambique-2004-rev-2007/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/mozambique-2004-rev-2007/hear/mozambique-2007-chapter-i-the-republic.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/mozambique-2004-rev-2007/hear/mozambique-2007-chapter-i-the-republic.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/mozambique-2004-rev-2007/hear/mozambique-2007-chapter-i-the-republic.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "myanmar-2008-rev-2015",
@@ -3283,7 +3783,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/myanmar-2008-rev-2015/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/myanmar-2008-rev-2015/hear/myanmar-2015-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/myanmar-2008-rev-2015/hear/myanmar-2015-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/myanmar-2008-rev-2015/hear/myanmar-2015-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "namibia-1990-rev-2014",
@@ -3304,7 +3806,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/namibia-1990-rev-2014/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/namibia-1990-rev-2014/hear/namibia-2014-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/namibia-1990-rev-2014/hear/namibia-2014-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/namibia-1990-rev-2014/hear/namibia-2014-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "nauru-1968-rev-2025",
@@ -3325,7 +3829,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/nauru-1968-rev-2025/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/nauru-1968-rev-2025/hear/nauru-2025-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/nauru-1968-rev-2025/hear/nauru-2025-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/nauru-1968-rev-2025/hear/nauru-2025-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "nepal-2006-rev-2012",
@@ -3346,7 +3852,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/nepal-2006-rev-2012/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/nepal-2006-rev-2012/hear/nepal-2012-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/nepal-2006-rev-2012/hear/nepal-2012-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/nepal-2006-rev-2012/hear/nepal-2012-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "nepal-2015-rev-2016",
@@ -3367,7 +3875,9 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/nepal-2015-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/nepal-2015-rev-2016/hear/nepal-2016-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/nepal-2015-rev-2016/hear/nepal-2016-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/nepal-2015-rev-2016/hear/nepal-2016-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "netherlands-1814-rev-2008",
@@ -3388,7 +3898,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/netherlands-1814-rev-2008/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/netherlands-1814-rev-2008/hear/netherlands-2008-2.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/netherlands-1814-rev-2008/hear/netherlands-2008-2.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/netherlands-1814-rev-2008/hear/netherlands-2008-2.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "new-zealand-1852-rev-2014",
@@ -3409,7 +3921,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/new-zealand-1852-rev-2014/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/new-zealand-1852-rev-2014/hear/new-zealand-2014-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/new-zealand-1852-rev-2014/hear/new-zealand-2014-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/new-zealand-1852-rev-2014/hear/new-zealand-2014-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "nicaragua-1987-rev-2014",
@@ -3430,7 +3944,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/nicaragua-1987-rev-2014/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/nicaragua-1987-rev-2014/hear/nicaragua-2014-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/nicaragua-1987-rev-2014/hear/nicaragua-2014-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/nicaragua-1987-rev-2014/hear/nicaragua-2014-p.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "nicaragua-2014:chapter-iii-social-right.1",
+   "native_seconds": 10.27,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/nicaragua-1987-rev-2014/hear/nicaragua-2014-chapter-iii-social-right.1.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/nicaragua-1987-rev-2014/hear/nicaragua-2014-chapter-iii-social-right.1.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/nicaragua-1987-rev-2014/hear/nicaragua-2014-chapter-iii-social-right.1.es.vtt"
   },
   {
    "slug": "niger-2010-rev-2017",
@@ -3451,7 +3973,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/niger-2010-rev-2017/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/niger-2010-rev-2017/hear/niger-2017-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/niger-2010-rev-2017/hear/niger-2017-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/niger-2010-rev-2017/hear/niger-2017-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "nigeria-1999-rev-2023",
@@ -3472,7 +3996,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/nigeria-1999-rev-2023/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/nigeria-1999-rev-2023/hear/nigeria-2023-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/nigeria-1999-rev-2023/hear/nigeria-2023-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/nigeria-1999-rev-2023/hear/nigeria-2023-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "north-macedonia-republic-of-1991-rev-2019",
@@ -3493,7 +4019,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/north-macedonia-republic-of-1991-rev-2019/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/north-macedonia-republic-of-1991-rev-2019/hear/macedonia-2019-amendment-xix.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/north-macedonia-republic-of-1991-rev-2019/hear/macedonia-2019-amendment-xix.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/north-macedonia-republic-of-1991-rev-2019/hear/macedonia-2019-amendment-xix.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "norway-1814-rev-2016",
@@ -3514,7 +4042,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/norway-1814-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/norway-1814-rev-2016/hear/norway-2016-22.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/norway-1814-rev-2016/hear/norway-2016-22.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/norway-1814-rev-2016/hear/norway-2016-22.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "oman-1996-rev-2011",
@@ -3535,7 +4065,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/oman-1996-rev-2011/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/oman-1996-rev-2011/hear/oman-2011-13.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/oman-1996-rev-2011/hear/oman-2011-13.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/oman-1996-rev-2011/hear/oman-2011-13.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "pakistan-1973-reinst-2002-rev-2018",
@@ -3556,7 +4088,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/pakistan-1973-reinst-2002-rev-2018/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/pakistan-1973-reinst-2002-rev-2018/hear/pakistan-2018-chapter-1-finance.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/pakistan-1973-reinst-2002-rev-2018/hear/pakistan-2018-chapter-1-finance.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/pakistan-1973-reinst-2002-rev-2018/hear/pakistan-2018-chapter-1-finance.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "palau-1981-rev-1992",
@@ -3577,7 +4111,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/palau-1981-rev-1992/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/palau-1981-rev-1992/hear/palau-1992-p.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/palau-1981-rev-1992/hear/palau-1992-p.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/palau-1981-rev-1992/hear/palau-1992-p.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "palestine-2003-rev-2005",
@@ -3598,7 +4134,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/palestine-2003-rev-2005/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/palestine-2003-rev-2005/hear/palestine-2005-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/palestine-2003-rev-2005/hear/palestine-2005-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/palestine-2003-rev-2005/hear/palestine-2005-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "panama-1972-rev-2004",
@@ -3619,7 +4157,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/panama-1972-rev-2004/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/panama-1972-rev-2004/hear/panama-2004-chapter-2-the-municipal-.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/panama-1972-rev-2004/hear/panama-2004-chapter-2-the-municipal-.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/panama-1972-rev-2004/hear/panama-2004-chapter-2-the-municipal-.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "panama-2004:chapter-2-the-municipal-.r",
+   "native_seconds": 9.31,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/panama-1972-rev-2004/hear/panama-2004-chapter-2-the-municipal-.r.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/panama-1972-rev-2004/hear/panama-2004-chapter-2-the-municipal-.r.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/panama-1972-rev-2004/hear/panama-2004-chapter-2-the-municipal-.r.es.vtt"
   },
   {
    "slug": "papua-new-guinea-1975-rev-2016",
@@ -3640,7 +4186,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/papua-new-guinea-1975-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/papua-new-guinea-1975-rev-2016/hear/papua-new-guinea-2016-4.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/papua-new-guinea-1975-rev-2016/hear/papua-new-guinea-2016-4.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/papua-new-guinea-1975-rev-2016/hear/papua-new-guinea-2016-4.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "paraguay-1992-rev-2011",
@@ -3661,7 +4209,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/paraguay-1992-rev-2011/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/paraguay-1992-rev-2011/hear/paraguay-2011-title-ii-of-the-rights-o.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/paraguay-1992-rev-2011/hear/paraguay-2011-title-ii-of-the-rights-o.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/paraguay-1992-rev-2011/hear/paraguay-2011-title-ii-of-the-rights-o.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "paraguay-2011:title-ii-of-the-rights-o.r",
+   "native_seconds": 35.03,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/paraguay-1992-rev-2011/hear/paraguay-2011-title-ii-of-the-rights-o.r.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/paraguay-1992-rev-2011/hear/paraguay-2011-title-ii-of-the-rights-o.r.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/paraguay-1992-rev-2011/hear/paraguay-2011-title-ii-of-the-rights-o.r.es.vtt"
   },
   {
    "slug": "peru-1993-rev-2023",
@@ -3682,7 +4238,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/peru-1993-rev-2023/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/peru-1993-rev-2023/hear/peru-2023-chapter-ii-social-and-ec.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/peru-1993-rev-2023/hear/peru-2023-chapter-ii-social-and-ec.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/peru-1993-rev-2023/hear/peru-2023-chapter-ii-social-and-ec.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "peru-2023:chapter-ii-social-and-ec.r",
+   "native_seconds": 7.88,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/peru-1993-rev-2023/hear/peru-2023-chapter-ii-social-and-ec.r.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/peru-1993-rev-2023/hear/peru-2023-chapter-ii-social-and-ec.r.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/peru-1993-rev-2023/hear/peru-2023-chapter-ii-social-and-ec.r.es.vtt"
   },
   {
    "slug": "philippines-1987",
@@ -3703,7 +4267,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/philippines-1987/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/philippines-1987/hear/philippines-1987-2.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/philippines-1987/hear/philippines-1987-2.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/philippines-1987/hear/philippines-1987-2.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "poland-1791",
@@ -3724,7 +4290,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/poland-1791/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/poland-1791/hear/poland-1791-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/poland-1791/hear/poland-1791-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/poland-1791/hear/poland-1791-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "poland-1997-rev-2009",
@@ -3745,7 +4313,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/poland-1997-rev-2009/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/poland-1997-rev-2009/hear/poland-2009-economic-social-and-cult.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/poland-1997-rev-2009/hear/poland-2009-economic-social-and-cult.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/poland-1997-rev-2009/hear/poland-2009-economic-social-and-cult.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "portugal-1976-rev-2005",
@@ -3766,7 +4336,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/portugal-1976-rev-2005/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/portugal-1976-rev-2005/hear/portugal-2005-title-iii-agricultural-c.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/portugal-1976-rev-2005/hear/portugal-2005-title-iii-agricultural-c.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/portugal-1976-rev-2005/hear/portugal-2005-title-iii-agricultural-c.r.opus",
+   "language": "pt-PT",
+   "native": true,
+   "native_voice": "tugao",
+   "native_fragment_id": "portugal-2005:1",
+   "native_seconds": 8.01,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/portugal-1976-rev-2005/hear/portugal-2005-1.pt-PT.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/portugal-1976-rev-2005/hear/portugal-2005-1.pt-PT.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/portugal-1976-rev-2005/hear/portugal-2005-1.pt-PT.vtt"
   },
   {
    "slug": "qatar-2003",
@@ -3787,7 +4365,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/qatar-2003/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/qatar-2003/hear/qatar-2003-section-iv-the-executive.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/qatar-2003/hear/qatar-2003-section-iv-the-executive.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/qatar-2003/hear/qatar-2003-section-iv-the-executive.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "romania-1991-rev-2003",
@@ -3808,7 +4388,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/romania-1991-rev-2003/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/romania-1991-rev-2003/hear/romania-2003-chapter-ii-fundamental-r.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/romania-1991-rev-2003/hear/romania-2003-chapter-ii-fundamental-r.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/romania-1991-rev-2003/hear/romania-2003-chapter-ii-fundamental-r.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "russian-federation-1918",
@@ -3829,7 +4411,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/russian-federation-1918/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/russian-federation-1918/hear/russia-1918-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/russian-federation-1918/hear/russia-1918-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/russian-federation-1918/hear/russia-1918-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "russian-federation-1993-rev-2014",
@@ -3850,7 +4434,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/russian-federation-1993-rev-2014/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/russian-federation-1993-rev-2014/hear/russia-2014-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/russian-federation-1993-rev-2014/hear/russia-2014-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/russian-federation-1993-rev-2014/hear/russia-2014-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "rwanda-2003-rev-2015",
@@ -3871,7 +4457,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/rwanda-2003-rev-2015/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/rwanda-2003-rev-2015/hear/rwanda-2015-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/rwanda-2003-rev-2015/hear/rwanda-2015-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/rwanda-2003-rev-2015/hear/rwanda-2015-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "saint-kitts-and-nevis-1983",
@@ -3892,7 +4480,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/saint-kitts-and-nevis-1983/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/saint-kitts-and-nevis-1983/hear/st-kitts-and-nevis-1983-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/saint-kitts-and-nevis-1983/hear/st-kitts-and-nevis-1983-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/saint-kitts-and-nevis-1983/hear/st-kitts-and-nevis-1983-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "saint-lucia-1978",
@@ -3913,7 +4503,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/saint-lucia-1978/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/saint-lucia-1978/hear/st-lucia-1978-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/saint-lucia-1978/hear/st-lucia-1978-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/saint-lucia-1978/hear/st-lucia-1978-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "saint-vincent-and-the-grenadines-1979",
@@ -3934,7 +4526,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/saint-vincent-and-the-grenadines-1979/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/saint-vincent-and-the-grenadines-1979/hear/st-vincent-and-the-grenadines-1979-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/saint-vincent-and-the-grenadines-1979/hear/st-vincent-and-the-grenadines-1979-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/saint-vincent-and-the-grenadines-1979/hear/st-vincent-and-the-grenadines-1979-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "samoa-1962-rev-2025",
@@ -3955,7 +4549,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/samoa-1962-rev-2025/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/samoa-1962-rev-2025/hear/samoa-2025-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/samoa-1962-rev-2025/hear/samoa-2025-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/samoa-1962-rev-2025/hear/samoa-2025-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "sao-tome-and-principe-1975-rev-2003",
@@ -3976,7 +4572,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/sao-tome-and-principe-1975-rev-2003/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/sao-tome-and-principe-1975-rev-2003/hear/sao-tome-and-principe-2003-title-i-control-of-const.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/sao-tome-and-principe-1975-rev-2003/hear/sao-tome-and-principe-2003-title-i-control-of-const.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/sao-tome-and-principe-1975-rev-2003/hear/sao-tome-and-principe-2003-title-i-control-of-const.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "saudi-arabia-1992-rev-2013",
@@ -3997,7 +4595,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/saudi-arabia-1992-rev-2013/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/saudi-arabia-1992-rev-2013/hear/saudi-arabia-2013-part-2-system-of-governm.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/saudi-arabia-1992-rev-2013/hear/saudi-arabia-2013-part-2-system-of-governm.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/saudi-arabia-1992-rev-2013/hear/saudi-arabia-2013-part-2-system-of-governm.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "senegal-2001-rev-2016",
@@ -4018,7 +4618,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/senegal-2001-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/senegal-2001-rev-2016/hear/senegal-2016-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/senegal-2001-rev-2016/hear/senegal-2016-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/senegal-2001-rev-2016/hear/senegal-2016-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "serbia-2006",
@@ -4039,7 +4641,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/serbia-2006/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/serbia-2006/hear/serbia-2006-3.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/serbia-2006/hear/serbia-2006-3.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/serbia-2006/hear/serbia-2006-3.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "seychelles-1993-rev-2025",
@@ -4060,7 +4664,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/seychelles-1993-rev-2025/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/seychelles-1993-rev-2025/hear/seychelles-2025-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/seychelles-1993-rev-2025/hear/seychelles-2025-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/seychelles-1993-rev-2025/hear/seychelles-2025-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "sierra-leone-1991-reinst-1996-rev-2022",
@@ -4081,7 +4687,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/sierra-leone-1991-reinst-1996-rev-2022/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/sierra-leone-1991-reinst-1996-rev-2022/hear/sierra-leone-2022-13.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/sierra-leone-1991-reinst-1996-rev-2022/hear/sierra-leone-2022-13.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/sierra-leone-1991-reinst-1996-rev-2022/hear/sierra-leone-2022-13.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "singapore-1963-rev-2016",
@@ -4102,7 +4710,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/singapore-1963-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/singapore-1963-rev-2016/hear/singapore-2016-155.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/singapore-1963-rev-2016/hear/singapore-2016-155.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/singapore-1963-rev-2016/hear/singapore-2016-155.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "slovakia-1992-rev-2017",
@@ -4123,7 +4733,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/slovakia-1992-rev-2017/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/slovakia-1992-rev-2017/hear/slovakia-2017-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/slovakia-1992-rev-2017/hear/slovakia-2017-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/slovakia-1992-rev-2017/hear/slovakia-2017-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "slovenia-1991-rev-2021",
@@ -4144,7 +4756,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/slovenia-1991-rev-2021/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/slovenia-1991-rev-2021/hear/slovenia-2021-6.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/slovenia-1991-rev-2021/hear/slovenia-2021-6.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/slovenia-1991-rev-2021/hear/slovenia-2021-6.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "solomon-islands-1978-rev-2018",
@@ -4165,7 +4779,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/solomon-islands-1978-rev-2018/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/solomon-islands-1978-rev-2018/hear/solomon-islands-2018-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/solomon-islands-1978-rev-2018/hear/solomon-islands-2018-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/solomon-islands-1978-rev-2018/hear/solomon-islands-2018-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "somalia-2012",
@@ -4186,7 +4802,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/somalia-2012/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/somalia-2012/hear/somalia-2012-111J.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/somalia-2012/hear/somalia-2012-111J.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/somalia-2012/hear/somalia-2012-111J.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "south-africa-1996-rev-2012",
@@ -4207,7 +4825,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/south-africa-1996-rev-2012/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/south-africa-1996-rev-2012/hear/south-africa-2012-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/south-africa-1996-rev-2012/hear/south-africa-2012-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/south-africa-1996-rev-2012/hear/south-africa-2012-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "south-sudan-2011-rev-2013",
@@ -4228,7 +4848,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/south-sudan-2011-rev-2013/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/south-sudan-2011-rev-2013/hear/south-sudan-2013-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/south-sudan-2011-rev-2013/hear/south-sudan-2013-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/south-sudan-2011-rev-2013/hear/south-sudan-2013-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "spain-1837",
@@ -4249,7 +4871,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/spain-1837/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/spain-1837/hear/spain-1837-51.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/spain-1837/hear/spain-1837-51.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/spain-1837/hear/spain-1837-51.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "spain-1978-rev-2011",
@@ -4270,7 +4894,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/spain-1978-rev-2011/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/spain-1978-rev-2011/hear/spain-2011-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/spain-1978-rev-2011/hear/spain-2011-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/spain-1978-rev-2011/hear/spain-2011-p.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "spain-2011:135.r",
+   "native_seconds": 13.25,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/spain-1978-rev-2011/hear/spain-2011-135.r.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/spain-1978-rev-2011/hear/spain-2011-135.r.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/spain-1978-rev-2011/hear/spain-2011-135.r.es.vtt"
   },
   {
    "slug": "sri-lanka-1978-rev-2015",
@@ -4291,7 +4923,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/sri-lanka-1978-rev-2015/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/sri-lanka-1978-rev-2015/hear/sri-lanka-2015-104B.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/sri-lanka-1978-rev-2015/hear/sri-lanka-2015-104B.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/sri-lanka-1978-rev-2015/hear/sri-lanka-2015-104B.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "sudan-2005",
@@ -4312,7 +4946,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/sudan-2005/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/sudan-2005/hear/sudan-2005-chapter-v-fiscal-and-fin.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/sudan-2005/hear/sudan-2005-chapter-v-fiscal-and-fin.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/sudan-2005/hear/sudan-2005-chapter-v-fiscal-and-fin.r.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "sudan-2005:chapter-v-fiscal-and-fin.r",
+   "native_seconds": 96.59,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/sudan-2005/hear/sudan-2005-chapter-v-fiscal-and-fin.r.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/sudan-2005/hear/sudan-2005-chapter-v-fiscal-and-fin.r.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/sudan-2005/hear/sudan-2005-chapter-v-fiscal-and-fin.r.ar.vtt"
   },
   {
    "slug": "sudan-2019-rev-2020",
@@ -4333,7 +4975,9 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/sudan-2019-rev-2020/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/sudan-2019-rev-2020/hear/sudan-2020-54.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/sudan-2019-rev-2020/hear/sudan-2020-54.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/sudan-2019-rev-2020/hear/sudan-2020-54.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "suriname-1987-rev-1992",
@@ -4354,7 +4998,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/suriname-1987-rev-1992/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/suriname-1987-rev-1992/hear/surinam-1992-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/suriname-1987-rev-1992/hear/surinam-1992-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/suriname-1987-rev-1992/hear/surinam-1992-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "sweden-1974-rev-2012",
@@ -4375,7 +5021,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/sweden-1974-rev-2012/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/sweden-1974-rev-2012/hear/sweden-2012-the-act-of-succession.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/sweden-1974-rev-2012/hear/sweden-2012-the-act-of-succession.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/sweden-1974-rev-2012/hear/sweden-2012-the-act-of-succession.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "switzerland-1999-rev-2014",
@@ -4396,7 +5044,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/switzerland-1999-rev-2014/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/switzerland-1999-rev-2014/hear/switzerland-2014-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/switzerland-1999-rev-2014/hear/switzerland-2014-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/switzerland-1999-rev-2014/hear/switzerland-2014-p.r.opus",
+   "language": "de-CH",
+   "native": true,
+   "native_voice": "thorsten",
+   "native_fragment_id": "switzerland-2014:1",
+   "native_seconds": 24.22,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/switzerland-1999-rev-2014/hear/switzerland-2014-1.de-CH.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/switzerland-1999-rev-2014/hear/switzerland-2014-1.de-CH.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/switzerland-1999-rev-2014/hear/switzerland-2014-1.de-CH.vtt"
   },
   {
    "slug": "syrian-arab-republic-2012",
@@ -4417,7 +5073,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/syrian-arab-republic-2012/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/syrian-arab-republic-2012/hear/syria-2012-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/syrian-arab-republic-2012/hear/syria-2012-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/syrian-arab-republic-2012/hear/syria-2012-p.1.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "syria-2012:p.1",
+   "native_seconds": 77.0,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/syrian-arab-republic-2012/hear/syria-2012-p.1.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/syrian-arab-republic-2012/hear/syria-2012-p.1.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/syrian-arab-republic-2012/hear/syria-2012-p.1.ar.vtt"
   },
   {
    "slug": "syrian-arab-republic-2017",
@@ -4438,7 +5102,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/syrian-arab-republic-2017/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/syrian-arab-republic-2017/hear/syria-2017d-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/syrian-arab-republic-2017/hear/syria-2017d-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/syrian-arab-republic-2017/hear/syria-2017d-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "taiwan-republic-of-china-1947-rev-2005",
@@ -4459,7 +5125,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/taiwan-republic-of-china-1947-rev-2005/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/taiwan-republic-of-china-1947-rev-2005/hear/taiwan-2005-108.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/taiwan-republic-of-china-1947-rev-2005/hear/taiwan-2005-108.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/taiwan-republic-of-china-1947-rev-2005/hear/taiwan-2005-108.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "tajikistan-1994-rev-2016",
@@ -4480,7 +5148,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/tajikistan-1994-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/tajikistan-1994-rev-2016/hear/tajikistan-2016-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/tajikistan-1994-rev-2016/hear/tajikistan-2016-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/tajikistan-1994-rev-2016/hear/tajikistan-2016-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "tanzania-united-republic-of-1977-rev-2005",
@@ -4501,7 +5171,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/tanzania-united-republic-of-1977-rev-2005/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/tanzania-united-republic-of-1977-rev-2005/hear/tanzania-2005-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/tanzania-united-republic-of-1977-rev-2005/hear/tanzania-2005-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/tanzania-united-republic-of-1977-rev-2005/hear/tanzania-2005-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "thailand-2007",
@@ -4522,7 +5194,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/thailand-2007/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/thailand-2007/hear/thailand-2007-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/thailand-2007/hear/thailand-2007-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/thailand-2007/hear/thailand-2007-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "thailand-2014",
@@ -4543,7 +5217,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/thailand-2014/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/thailand-2014/hear/thailand-2014-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/thailand-2014/hear/thailand-2014-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/thailand-2014/hear/thailand-2014-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "thailand-2017",
@@ -4564,7 +5240,9 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/thailand-2017/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/thailand-2017/hear/thailand-2017-258.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/thailand-2017/hear/thailand-2017-258.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/thailand-2017/hear/thailand-2017-258.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "timor-leste-2002",
@@ -4585,7 +5263,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/timor-leste-2002/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/timor-leste-2002/hear/east-timor-2002-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/timor-leste-2002/hear/east-timor-2002-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/timor-leste-2002/hear/east-timor-2002-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "togo-1992-rev-2007",
@@ -4606,7 +5286,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/togo-1992-rev-2007/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/togo-1992-rev-2007/hear/togo-2007-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/togo-1992-rev-2007/hear/togo-2007-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/togo-1992-rev-2007/hear/togo-2007-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "togo-2024",
@@ -4627,7 +5309,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/togo-2024/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/togo-2024/hear/togo-2024-chapter-vii-independent-.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/togo-2024/hear/togo-2024-chapter-vii-independent-.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/togo-2024/hear/togo-2024-chapter-vii-independent-.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "tonga-1875-rev-2025",
@@ -4648,7 +5332,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/tonga-1875-rev-2025/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/tonga-1875-rev-2025/hear/tonga-2025-109.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/tonga-1875-rev-2025/hear/tonga-2025-109.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/tonga-1875-rev-2025/hear/tonga-2025-109.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "trinidad-and-tobago-1976-rev-2007",
@@ -4669,7 +5355,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/trinidad-and-tobago-1976-rev-2007/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/trinidad-and-tobago-1976-rev-2007/hear/trinidad-and-tobago-2007-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/trinidad-and-tobago-1976-rev-2007/hear/trinidad-and-tobago-2007-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/trinidad-and-tobago-1976-rev-2007/hear/trinidad-and-tobago-2007-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "tunisia-1959-rev-2008",
@@ -4690,7 +5378,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/tunisia-1959-rev-2008/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/tunisia-1959-rev-2008/hear/tunisia-2008-section-i-the-president-.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/tunisia-1959-rev-2008/hear/tunisia-2008-section-i-the-president-.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/tunisia-1959-rev-2008/hear/tunisia-2008-section-i-the-president-.r.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "tunisia-2008:section-i-the-president-.r",
+   "native_seconds": 15.49,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/tunisia-1959-rev-2008/hear/tunisia-2008-section-i-the-president-.r.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/tunisia-1959-rev-2008/hear/tunisia-2008-section-i-the-president-.r.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/tunisia-1959-rev-2008/hear/tunisia-2008-section-i-the-president-.r.ar.vtt"
   },
   {
    "slug": "tunisia-2014",
@@ -4711,7 +5407,15 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/tunisia-2014/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/tunisia-2014/hear/tunisia-2014-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/tunisia-2014/hear/tunisia-2014-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/tunisia-2014/hear/tunisia-2014-p.r.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "tunisia-2014:39",
+   "native_seconds": 40.05,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/tunisia-2014/hear/tunisia-2014-39.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/tunisia-2014/hear/tunisia-2014-39.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/tunisia-2014/hear/tunisia-2014-39.ar.vtt"
   },
   {
    "slug": "tunisia-2022",
@@ -4732,7 +5436,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/tunisia-2022/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/tunisia-2022/hear/tunisia-2022-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/tunisia-2022/hear/tunisia-2022-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/tunisia-2022/hear/tunisia-2022-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "turkey-1982-rev-2017",
@@ -4753,7 +5459,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/turkey-1982-rev-2017/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/turkey-1982-rev-2017/hear/turkey-2017-chapter-two-economic-pro.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/turkey-1982-rev-2017/hear/turkey-2017-chapter-two-economic-pro.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/turkey-1982-rev-2017/hear/turkey-2017-chapter-two-economic-pro.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "turkmenistan-2008-rev-2016",
@@ -4774,7 +5482,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/turkmenistan-2008-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/turkmenistan-2008-rev-2016/hear/turkmenistan-2016-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/turkmenistan-2008-rev-2016/hear/turkmenistan-2016-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/turkmenistan-2008-rev-2016/hear/turkmenistan-2016-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "tuvalu-1986-rev-2010",
@@ -4795,7 +5505,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/tuvalu-1986-rev-2010/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/tuvalu-1986-rev-2010/hear/tuvalu-2010-division-4-the-speaker.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/tuvalu-1986-rev-2010/hear/tuvalu-2010-division-4-the-speaker.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/tuvalu-1986-rev-2010/hear/tuvalu-2010-division-4-the-speaker.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "tuvalu-2023",
@@ -4816,7 +5528,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/tuvalu-2023/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/tuvalu-2023/hear/tuvalu-2023-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/tuvalu-2023/hear/tuvalu-2023-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/tuvalu-2023/hear/tuvalu-2023-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "uganda-1995-rev-2017",
@@ -4837,7 +5551,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/uganda-1995-rev-2017/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/uganda-1995-rev-2017/hear/uganda-2017-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/uganda-1995-rev-2017/hear/uganda-2017-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/uganda-1995-rev-2017/hear/uganda-2017-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "ukraine-1996-rev-2019",
@@ -4858,7 +5574,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/ukraine-1996-rev-2019/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/ukraine-1996-rev-2019/hear/ukraine-2019-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/ukraine-1996-rev-2019/hear/ukraine-2019-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/ukraine-1996-rev-2019/hear/ukraine-2019-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "united-arab-emirates-1971-rev-2009",
@@ -4879,7 +5597,15 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/united-arab-emirates-1971-rev-2009/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/united-arab-emirates-1971-rev-2009/hear/united-arab-emirates-2009-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/united-arab-emirates-1971-rev-2009/hear/united-arab-emirates-2009-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/united-arab-emirates-1971-rev-2009/hear/united-arab-emirates-2009-p.r.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "united-arab-emirates-2009:chapter-4-the-federal-na.1",
+   "native_seconds": 41.44,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/united-arab-emirates-1971-rev-2009/hear/united-arab-emirates-2009-chapter-4-the-federal-na.1.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/united-arab-emirates-1971-rev-2009/hear/united-arab-emirates-2009-chapter-4-the-federal-na.1.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/united-arab-emirates-1971-rev-2009/hear/united-arab-emirates-2009-chapter-4-the-federal-na.1.ar.vtt"
   },
   {
    "slug": "united-kingdom-1215-rev-2013",
@@ -4900,7 +5626,9 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/united-kingdom-1215-rev-2013/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/united-kingdom-1215-rev-2013/hear/united-kingdom-2013-closing-text-general-sav.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/united-kingdom-1215-rev-2013/hear/united-kingdom-2013-closing-text-general-sav.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/united-kingdom-1215-rev-2013/hear/united-kingdom-2013-closing-text-general-sav.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "uruguay-1966-reinst-1985-rev-2004",
@@ -4921,7 +5649,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/uruguay-1966-reinst-1985-rev-2004/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/uruguay-1966-reinst-1985-rev-2004/hear/uruguay-2004-chapter-ii.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/uruguay-1966-reinst-1985-rev-2004/hear/uruguay-2004-chapter-ii.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/uruguay-1966-reinst-1985-rev-2004/hear/uruguay-2004-chapter-ii.r.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "uruguay-2004:chapter-ii.r",
+   "native_seconds": 10.18,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/uruguay-1966-reinst-1985-rev-2004/hear/uruguay-2004-chapter-ii.r.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/uruguay-1966-reinst-1985-rev-2004/hear/uruguay-2004-chapter-ii.r.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/uruguay-1966-reinst-1985-rev-2004/hear/uruguay-2004-chapter-ii.r.es.vtt"
   },
   {
    "slug": "uzbekistan-1992-rev-2011",
@@ -4942,7 +5678,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/uzbekistan-1992-rev-2011/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/uzbekistan-1992-rev-2011/hear/uzbekistan-2011-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/uzbekistan-1992-rev-2011/hear/uzbekistan-2011-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/uzbekistan-1992-rev-2011/hear/uzbekistan-2011-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "uzbekistan-2023",
@@ -4963,7 +5701,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/uzbekistan-2023/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/uzbekistan-2023/hear/uzbekistan-2023-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/uzbekistan-2023/hear/uzbekistan-2023-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/uzbekistan-2023/hear/uzbekistan-2023-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "vanuatu-1980-rev-2023",
@@ -4984,7 +5724,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/vanuatu-1980-rev-2023/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/vanuatu-1980-rev-2023/hear/vanuatu-2023-9.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/vanuatu-1980-rev-2023/hear/vanuatu-2023-9.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/vanuatu-1980-rev-2023/hear/vanuatu-2023-9.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "venezuela-bolivarian-republic-of-1999-rev-2009",
@@ -5005,7 +5747,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/venezuela-bolivarian-republic-of-1999-rev-2009/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/venezuela-bolivarian-republic-of-1999-rev-2009/hear/venezuela-2009-chapter-i-socioeconomic-.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/venezuela-bolivarian-republic-of-1999-rev-2009/hear/venezuela-2009-chapter-i-socioeconomic-.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/venezuela-bolivarian-republic-of-1999-rev-2009/hear/venezuela-2009-chapter-i-socioeconomic-.1.opus",
+   "language": "es",
+   "native": true,
+   "native_voice": "santa-es",
+   "native_fragment_id": "venezuela-2009:chapter-i-socioeconomic-.1",
+   "native_seconds": 20.76,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/venezuela-bolivarian-republic-of-1999-rev-2009/hear/venezuela-2009-chapter-i-socioeconomic-.1.es.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/venezuela-bolivarian-republic-of-1999-rev-2009/hear/venezuela-2009-chapter-i-socioeconomic-.1.es.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/venezuela-bolivarian-republic-of-1999-rev-2009/hear/venezuela-2009-chapter-i-socioeconomic-.1.es.vtt"
   },
   {
    "slug": "viet-nam-1992-rev-2013",
@@ -5026,7 +5776,9 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/viet-nam-1992-rev-2013/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/viet-nam-1992-rev-2013/hear/socialist-republic-of-vietnam-2013-p.1.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/viet-nam-1992-rev-2013/hear/socialist-republic-of-vietnam-2013-p.1.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/viet-nam-1992-rev-2013/hear/socialist-republic-of-vietnam-2013-p.1.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "yemen-1991-rev-2015",
@@ -5047,7 +5799,15 @@
    "rights": "credited",
    "manifest": "https://constitution.legalcommons.org/assets/pages/yemen-1991-rev-2015/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/yemen-1991-rev-2015/hear/yemen-2015-chapter-ii-the-executive.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/yemen-1991-rev-2015/hear/yemen-2015-chapter-ii-the-executive.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/yemen-1991-rev-2015/hear/yemen-2015-chapter-ii-the-executive.r.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "yemen-2015:chapter-ii-the-executive.r",
+   "native_seconds": 13.71,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/yemen-1991-rev-2015/hear/yemen-2015-chapter-ii-the-executive.r.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/yemen-1991-rev-2015/hear/yemen-2015-chapter-ii-the-executive.r.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/yemen-1991-rev-2015/hear/yemen-2015-chapter-ii-the-executive.r.ar.vtt"
   },
   {
    "slug": "yemen-2015",
@@ -5068,7 +5828,15 @@
    "rights": "restricted",
    "manifest": "https://constitution.legalcommons.org/assets/pages/yemen-2015/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/yemen-2015/hear/yemen-2015d-water.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/yemen-2015/hear/yemen-2015d-water.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/yemen-2015/hear/yemen-2015d-water.r.opus",
+   "language": "ar",
+   "native": true,
+   "native_voice": "kareem",
+   "native_fragment_id": "yemen-2015d:water.r",
+   "native_seconds": 71.58,
+   "native_audio": "https://constitution.legalcommons.org/assets/pages/yemen-2015/hear/yemen-2015d-water.r.ar.m4a",
+   "native_opus": "https://constitution.legalcommons.org/assets/pages/yemen-2015/hear/yemen-2015d-water.r.ar.opus",
+   "native_vtt": "https://constitution.legalcommons.org/assets/pages/yemen-2015/hear/yemen-2015d-water.r.ar.vtt"
   },
   {
    "slug": "zambia-1991-rev-2016",
@@ -5089,7 +5857,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/zambia-1991-rev-2016/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/zambia-1991-rev-2016/hear/zambia-2016-p.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/zambia-1991-rev-2016/hear/zambia-2016-p.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/zambia-1991-rev-2016/hear/zambia-2016-p.r.opus",
+   "language": "en",
+   "native": false
   },
   {
    "slug": "zimbabwe-2013-rev-2021",
@@ -5110,7 +5880,9 @@
    "rights": "open",
    "manifest": "https://constitution.legalcommons.org/assets/pages/zimbabwe-2013-rev-2021/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/zimbabwe-2013-rev-2021/hear/zimbabwe-2021-289.r.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/zimbabwe-2013-rev-2021/hear/zimbabwe-2021-289.r.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/zimbabwe-2013-rev-2021/hear/zimbabwe-2021-289.r.opus",
+   "language": "en",
+   "native": false
   }
  ],
  "extras": [
@@ -5133,7 +5905,9 @@
    "rights": "public_domain",
    "manifest": "https://constitution.legalcommons.org/assets/pages/united-states-of-america-1789-rev-1992/hear/wiki-city-media.json",
    "audio": "https://constitution.legalcommons.org/assets/pages/united-states-of-america-1789-rev-1992/hear/united-states-of-america-1992-p-human.m4a",
-   "opus": "https://constitution.legalcommons.org/assets/pages/united-states-of-america-1789-rev-1992/hear/united-states-of-america-1992-p-human.opus"
+   "opus": "https://constitution.legalcommons.org/assets/pages/united-states-of-america-1789-rev-1992/hear/united-states-of-america-1992-p-human.opus",
+   "language": "en",
+   "native": false
   }
  ]
 }

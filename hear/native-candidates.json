@@ -1,0 +1,544 @@
+[
+ {
+  "slug": "argentina-1853-reinst-1983-rev-1994",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "argentina-1994:title-i-federal-governme.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "bolivia-plurinational-state-of-2009",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "bolivia-2009:p.1",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "brazil-1988-rev-2017",
+  "language": "pt-BR",
+  "native": "-",
+  "langs": [
+   "pt-BR"
+  ],
+  "fid": "brazil-2017:chapter-ii-urban-policy.r",
+  "exact": false,
+  "article": false
+ },
+ {
+  "slug": "chile-1925",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "chile-1925:sub-delegates",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "chile-1980-rev-2021",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "chile-2021:87.1",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "chile-2018",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "chile-2018d:19.1",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "chile-2022",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "chile-2022d:natural-common-goods.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "chile-2023-chile-2023d",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "chile-2023d:guarantees-of-rights-and.1",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "chile-2023-chile-2023dd",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "chile-2023dd:constitutional-duties.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "colombia-1991-rev-2015",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "colombia-2015:p.1",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "costa-rica-1949-rev-2020",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "costa-rica-2020:sole-chapter.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "cuba-1976-rev-2002",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "cuba-2002:p.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "cuba-2018",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "cuba-2018d:p.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "cuba-2019",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "cuba-2019:chapter-ii-international.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "dominican-republic-2015",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "dominican-republic-2015:chapter-i-fundamental-ri.1",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "ecuador-2008-rev-2021",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "ecuador-2021:p.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "egypt-2012",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "egypt-2012:p.1",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "egypt-2014-rev-2019",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "egypt-2019:p.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "el-salvador-1983-rev-2014",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "el-salvador-2014:105.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "equatorial-guinea-1991-rev-2012",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "equatorial-guinea-2012:chapter-ix-of-the-tribun.1",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "france-1958-rev-2024",
+  "language": "fr",
+  "native": "-",
+  "langs": [
+   "fr"
+  ],
+  "fid": "france-2024:charter-for-the-environm.r",
+  "exact": false,
+  "article": false
+ },
+ {
+  "slug": "germany-1949-rev-2014",
+  "language": "de",
+  "native": "-",
+  "langs": [
+   "de"
+  ],
+  "fid": "german-federal-republic-2014:90",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "guatemala-1985-rev-1993",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "guatemala-1993:chapter-ii-social-rights.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "honduras-1982-rev-2013",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "honduras-2013:chapter-ii-individual-ri.1",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "iraq-2005",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "iraq-2005:p.1",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "italy-1947-rev-2020",
+  "language": "it",
+  "native": "-",
+  "langs": [
+   "it"
+  ],
+  "fid": "italy-2020:title-v-regions-province.r",
+  "exact": false,
+  "article": false
+ },
+ {
+  "slug": "jordan-1952-rev-2016",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "jordan-2016:13.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "kuwait-1962-reinst-1992",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "kuwait-1992:p.1",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "lebanon-1926-rev-2004",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "lebanon-2004:chapter-three-general-pr.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "libya-2011-rev-2012",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "libya-2012:3",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "libya-2016",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "libya-2016d:188.1",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "mexico-1917-rev-2015",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "mexico-2015:chapter-i-human-rights-a.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "morocco-2011",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "morocco-2011:44.1",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "nicaragua-1987-rev-2014",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "nicaragua-2014:p.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "panama-1972-rev-2004",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "panama-2004:chapter-2-the-municipal-.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "paraguay-1992-rev-2011",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "paraguay-2011:title-ii-of-the-rights-o.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "peru-1993-rev-2023",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "peru-2023:chapter-ii-social-and-ec.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "portugal-1976-rev-2005",
+  "language": "pt-PT",
+  "native": "-",
+  "langs": [
+   "pt-PT"
+  ],
+  "fid": "portugal-2005:title-iii-agricultural-c.r",
+  "exact": false,
+  "article": false
+ },
+ {
+  "slug": "spain-1978-rev-2011",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "spain-2011:p.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "sudan-2005",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "sudan-2005:chapter-v-fiscal-and-fin.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "switzerland-1999-rev-2014",
+  "language": "de",
+  "native": "-",
+  "langs": [
+   "rm",
+   "it-CH",
+   "fr-CH",
+   "de-CH"
+  ],
+  "fid": "switzerland-2014:p.r",
+  "exact": false,
+  "article": false
+ },
+ {
+  "slug": "syrian-arab-republic-2012",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "syria-2012:p.1",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "tunisia-1959-rev-2008",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "tunisia-2008:section-i-the-president-.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "tunisia-2014",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "tunisia-2014:p.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "united-arab-emirates-1971-rev-2009",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "united-arab-emirates-2009:p.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "uruguay-1966-reinst-1985-rev-2004",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "uruguay-2004:chapter-ii.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "venezuela-bolivarian-republic-of-1999-rev-2009",
+  "language": "es",
+  "native": "es",
+  "langs": [
+   "es"
+  ],
+  "fid": "venezuela-2009:chapter-i-socioeconomic-.1",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "yemen-1991-rev-2015",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "yemen-2015:chapter-ii-the-executive.r",
+  "exact": true,
+  "article": true
+ },
+ {
+  "slug": "yemen-2015",
+  "language": "ar",
+  "native": "ar",
+  "langs": [
+   "ar"
+  ],
+  "fid": "yemen-2015d:water.r",
+  "exact": true,
+  "article": true
+ }
+]

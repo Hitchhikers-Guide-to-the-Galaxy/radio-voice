@@ -1,0 +1,839 @@
+{
+ "built": "2026-09-06T17:55:30Z",
+ "houses": [
+  {
+   "slug": "argentina-1853-reinst-1983-rev-1994",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "argentina-1994:p",
+   "how": "other fragment",
+   "words": 100,
+   "seconds": 36.6,
+   "loudness": {
+    "integrated_lufs": -16.2,
+    "true_peak_dbtp": -2.35,
+    "lra": 1.3,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/argentina-1853-reinst-1983-rev-1994/hear/argentina-1994-p.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/argentina-1853-reinst-1983-rev-1994/hear/argentina-1994-p.es.opus"
+  },
+  {
+   "slug": "bolivia-plurinational-state-of-2009",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "bolivia-2009:p.1",
+   "how": "exact",
+   "words": 19,
+   "seconds": 6.2,
+   "loudness": {
+    "integrated_lufs": -16.23,
+    "true_peak_dbtp": -3.33,
+    "lra": 0.6,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-2009/hear/bolivia-2009-p.1.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/bolivia-plurinational-state-of-2009/hear/bolivia-2009-p.1.es.opus"
+  },
+  {
+   "slug": "brazil-1988-rev-2017",
+   "language": "pt-BR",
+   "voice": "alex-pt",
+   "fragment_id": "brazil-2017:1",
+   "how": "article 1",
+   "words": 86,
+   "seconds": 32.4,
+   "loudness": {
+    "integrated_lufs": -16.27,
+    "true_peak_dbtp": -2.74,
+    "lra": 1.6,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/brazil-1988-rev-2017/hear/brazil-2017-1.pt-BR.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/brazil-1988-rev-2017/hear/brazil-2017-1.pt-BR.opus"
+  },
+  {
+   "slug": "chile-1925",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "chile-1925:sub-delegates",
+   "how": "exact",
+   "words": 37,
+   "seconds": 14.2,
+   "loudness": {
+    "integrated_lufs": -16.27,
+    "true_peak_dbtp": -2.15,
+    "lra": 2.6,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/chile-1925/hear/chile-1925-sub-delegates.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/chile-1925/hear/chile-1925-sub-delegates.es.opus"
+  },
+  {
+   "slug": "chile-1980-rev-2021",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "chile-2021:87.1",
+   "how": "exact",
+   "words": 51,
+   "seconds": 18.1,
+   "loudness": {
+    "integrated_lufs": -16.21,
+    "true_peak_dbtp": -2.97,
+    "lra": 2.4,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/chile-1980-rev-2021/hear/chile-2021-87.1.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/chile-1980-rev-2021/hear/chile-2021-87.1.es.opus"
+  },
+  {
+   "slug": "chile-2018",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "chile-2018d:19.1",
+   "how": "exact",
+   "words": 29,
+   "seconds": 10.5,
+   "loudness": {
+    "integrated_lufs": -16.18,
+    "true_peak_dbtp": -2.61,
+    "lra": 2.0,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/chile-2018/hear/chile-2018d-19.1.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/chile-2018/hear/chile-2018d-19.1.es.opus"
+  },
+  {
+   "slug": "chile-2022",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "chile-2022d:natural-common-goods.r",
+   "how": "exact",
+   "words": 126,
+   "seconds": 52.5,
+   "loudness": {
+    "integrated_lufs": -16.23,
+    "true_peak_dbtp": -2.15,
+    "lra": 2.2,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/chile-2022/hear/chile-2022d-natural-common-goods.r.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/chile-2022/hear/chile-2022d-natural-common-goods.r.es.opus"
+  },
+  {
+   "slug": "chile-2023-chile-2023d",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "chile-2023d:guarantees-of-rights-and.1",
+   "how": "exact",
+   "words": 75,
+   "seconds": 28.8,
+   "loudness": {
+    "integrated_lufs": -16.22,
+    "true_peak_dbtp": -2.81,
+    "lra": 1.4,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023d/hear/chile-2023d-guarantees-of-rights-and.1.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023d/hear/chile-2023d-guarantees-of-rights-and.1.es.opus"
+  },
+  {
+   "slug": "chile-2023-chile-2023dd",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "chile-2023dd:fundamental-rights-and-l.1",
+   "how": "other fragment",
+   "words": 25,
+   "seconds": 9.4,
+   "loudness": {
+    "integrated_lufs": -16.29,
+    "true_peak_dbtp": -2.7,
+    "lra": 0.6,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023dd/hear/chile-2023dd-fundamental-rights-and-l.1.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/chile-2023-chile-2023dd/hear/chile-2023dd-fundamental-rights-and-l.1.es.opus"
+  },
+  {
+   "slug": "colombia-1991-rev-2015",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "colombia-2015:p.1",
+   "how": "exact",
+   "words": 86,
+   "seconds": 31.4,
+   "loudness": {
+    "integrated_lufs": -16.22,
+    "true_peak_dbtp": -2.18,
+    "lra": 2.1,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/colombia-1991-rev-2015/hear/colombia-2015-p.1.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/colombia-1991-rev-2015/hear/colombia-2015-p.1.es.opus"
+  },
+  {
+   "slug": "costa-rica-1949-rev-2020",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "costa-rica-2020:sole-chapter.r",
+   "how": "exact",
+   "words": 48,
+   "seconds": 19.1,
+   "loudness": {
+    "integrated_lufs": -16.18,
+    "true_peak_dbtp": -2.06,
+    "lra": 1.9,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/costa-rica-1949-rev-2020/hear/costa-rica-2020-sole-chapter.r.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/costa-rica-1949-rev-2020/hear/costa-rica-2020-sole-chapter.r.es.opus"
+  },
+  {
+   "slug": "cuba-1976-rev-2002",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "cuba-2002:45.r",
+   "how": "other fragment",
+   "words": 17,
+   "seconds": 5.7,
+   "loudness": {
+    "integrated_lufs": -16.22,
+    "true_peak_dbtp": -3.1,
+    "lra": 0.4,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/cuba-1976-rev-2002/hear/cuba-2002-45.r.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/cuba-1976-rev-2002/hear/cuba-2002-45.r.es.opus"
+  },
+  {
+   "slug": "cuba-2018",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "cuba-2018d:chapter-ii-international.r",
+   "how": "other fragment",
+   "words": 72,
+   "seconds": 29.8,
+   "loudness": {
+    "integrated_lufs": -16.21,
+    "true_peak_dbtp": -2.63,
+    "lra": 1.7,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/cuba-2018/hear/cuba-2018d-chapter-ii-international.r.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/cuba-2018/hear/cuba-2018d-chapter-ii-international.r.es.opus"
+  },
+  {
+   "slug": "cuba-2019",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "cuba-2019:chapter-ii-international.r",
+   "how": "exact",
+   "words": 66,
+   "seconds": 21.9,
+   "loudness": {
+    "integrated_lufs": -16.2,
+    "true_peak_dbtp": -2.98,
+    "lra": 1.2,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/cuba-2019/hear/cuba-2019-chapter-ii-international.r.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/cuba-2019/hear/cuba-2019-chapter-ii-international.r.es.opus"
+  },
+  {
+   "slug": "dominican-republic-2015",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "dominican-republic-2015:chapter-i-fundamental-ri.1",
+   "how": "exact",
+   "words": 23,
+   "seconds": 9.9,
+   "loudness": {
+    "integrated_lufs": -16.26,
+    "true_peak_dbtp": -2.85,
+    "lra": 1.8,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2015/hear/dominican-republic-2015-chapter-i-fundamental-ri.1.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/dominican-republic-2015/hear/dominican-republic-2015-chapter-i-fundamental-ri.1.es.opus"
+  },
+  {
+   "slug": "ecuador-2008-rev-2021",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "ecuador-2021:chapter-1-basic-principl.r",
+   "how": "other fragment",
+   "words": 36,
+   "seconds": 15.2,
+   "loudness": {
+    "integrated_lufs": -16.27,
+    "true_peak_dbtp": -1.97,
+    "lra": 1.5,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/ecuador-2008-rev-2021/hear/ecuador-2021-chapter-1-basic-principl.r.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/ecuador-2008-rev-2021/hear/ecuador-2021-chapter-1-basic-principl.r.es.opus"
+  },
+  {
+   "slug": "egypt-2012",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "egypt-2012:p.1",
+   "how": "exact",
+   "words": 27,
+   "seconds": 21.6,
+   "loudness": {
+    "integrated_lufs": -16.19,
+    "true_peak_dbtp": -3.93,
+    "lra": 1.8,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/egypt-2012/hear/egypt-2012-p.1.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/egypt-2012/hear/egypt-2012-p.1.ar.opus"
+  },
+  {
+   "slug": "egypt-2014-rev-2019",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "egypt-2019:section-two-economic-com.1",
+   "how": "other fragment",
+   "words": 34,
+   "seconds": 28.8,
+   "loudness": {
+    "integrated_lufs": -16.27,
+    "true_peak_dbtp": -3.57,
+    "lra": 1.5,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/egypt-2014-rev-2019/hear/egypt-2019-section-two-economic-com.1.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/egypt-2014-rev-2019/hear/egypt-2019-section-two-economic-com.1.ar.opus"
+  },
+  {
+   "slug": "el-salvador-1983-rev-2014",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "el-salvador-2014:105.r",
+   "how": "exact",
+   "words": 40,
+   "seconds": 15.4,
+   "loudness": {
+    "integrated_lufs": -16.22,
+    "true_peak_dbtp": -2.74,
+    "lra": 1.5,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/el-salvador-1983-rev-2014/hear/el-salvador-2014-105.r.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/el-salvador-1983-rev-2014/hear/el-salvador-2014-105.r.es.opus"
+  },
+  {
+   "slug": "equatorial-guinea-1991-rev-2012",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "equatorial-guinea-2012:chapter-ix-of-the-tribun.1",
+   "how": "exact",
+   "words": 18,
+   "seconds": 6.0,
+   "loudness": {
+    "integrated_lufs": -16.27,
+    "true_peak_dbtp": -2.53,
+    "lra": 0.8,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/equatorial-guinea-1991-rev-2012/hear/equatorial-guinea-2012-chapter-ix-of-the-tribun.1.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/equatorial-guinea-1991-rev-2012/hear/equatorial-guinea-2012-chapter-ix-of-the-tribun.1.es.opus"
+  },
+  {
+   "slug": "france-1958-rev-2024",
+   "language": "fr",
+   "voice": "siwis-piper",
+   "fragment_id": "france-2024:14",
+   "how": "other fragment",
+   "words": 29,
+   "seconds": 12.1,
+   "loudness": {
+    "integrated_lufs": -16.2,
+    "true_peak_dbtp": -3.73,
+    "lra": 1.2,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/france-1958-rev-2024/hear/france-2024-14.fr.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/france-1958-rev-2024/hear/france-2024-14.fr.opus"
+  },
+  {
+   "slug": "germany-1949-rev-2014",
+   "language": "de",
+   "voice": "thorsten",
+   "fragment_id": "german-federal-republic-2014:90",
+   "how": "exact",
+   "words": 137,
+   "seconds": 56.5,
+   "loudness": {
+    "integrated_lufs": -16.17,
+    "true_peak_dbtp": -3.87,
+    "lra": 1.4,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/germany-1949-rev-2014/hear/german-federal-republic-2014-90.de.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/germany-1949-rev-2014/hear/german-federal-republic-2014-90.de.opus"
+  },
+  {
+   "slug": "guatemala-1985-rev-1993",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "guatemala-1993:chapter-ii-social-rights.r",
+   "how": "exact",
+   "words": 25,
+   "seconds": 10.1,
+   "loudness": {
+    "integrated_lufs": -16.24,
+    "true_peak_dbtp": -2.05,
+    "lra": 1.7,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/guatemala-1985-rev-1993/hear/guatemala-1993-chapter-ii-social-rights.r.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/guatemala-1985-rev-1993/hear/guatemala-1993-chapter-ii-social-rights.r.es.opus"
+  },
+  {
+   "slug": "honduras-1982-rev-2013",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "honduras-2013:chapter-ii-individual-ri.1",
+   "how": "exact",
+   "words": 25,
+   "seconds": 9.8,
+   "loudness": {
+    "integrated_lufs": -16.17,
+    "true_peak_dbtp": -2.64,
+    "lra": 1.5,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/honduras-1982-rev-2013/hear/honduras-2013-chapter-ii-individual-ri.1.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/honduras-1982-rev-2013/hear/honduras-2013-chapter-ii-individual-ri.1.es.opus"
+  },
+  {
+   "slug": "iraq-2005",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "iraq-2005:p.1",
+   "how": "exact",
+   "words": 49,
+   "seconds": 37.4,
+   "loudness": {
+    "integrated_lufs": -16.29,
+    "true_peak_dbtp": -1.82,
+    "lra": 1.7,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/iraq-2005/hear/iraq-2005-p.1.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/iraq-2005/hear/iraq-2005-p.1.ar.opus"
+  },
+  {
+   "slug": "italy-1947-rev-2020",
+   "language": "it",
+   "voice": "serena",
+   "fragment_id": "italy-2020:5",
+   "how": "other fragment",
+   "words": 38,
+   "seconds": 15.1,
+   "loudness": {
+    "integrated_lufs": -16.22,
+    "true_peak_dbtp": -2.45,
+    "lra": 0.9,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/italy-1947-rev-2020/hear/italy-2020-5.it.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/italy-1947-rev-2020/hear/italy-2020-5.it.opus"
+  },
+  {
+   "slug": "jordan-1952-rev-2016",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "jordan-2016:13.r",
+   "how": "exact",
+   "words": 105,
+   "seconds": 66.3,
+   "loudness": {
+    "integrated_lufs": -16.16,
+    "true_peak_dbtp": -3.85,
+    "lra": 2.2,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/jordan-1952-rev-2016/hear/jordan-2016-13.r.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/jordan-1952-rev-2016/hear/jordan-2016-13.r.ar.opus"
+  },
+  {
+   "slug": "kuwait-1962-reinst-1992",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "kuwait-1992:4.r",
+   "how": "other fragment",
+   "words": 29,
+   "seconds": 22.5,
+   "loudness": {
+    "integrated_lufs": -16.22,
+    "true_peak_dbtp": -2.73,
+    "lra": 1.7,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/kuwait-1962-reinst-1992/hear/kuwait-1992-4.r.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/kuwait-1962-reinst-1992/hear/kuwait-1992-4.r.ar.opus"
+  },
+  {
+   "slug": "lebanon-1926-rev-2004",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "lebanon-2004:chapter-four-the-executi.1",
+   "how": "other fragment",
+   "words": 27,
+   "seconds": 18.6,
+   "loudness": {
+    "integrated_lufs": -16.21,
+    "true_peak_dbtp": -3.91,
+    "lra": 2.1,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/lebanon-1926-rev-2004/hear/lebanon-2004-chapter-four-the-executi.1.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/lebanon-1926-rev-2004/hear/lebanon-2004-chapter-four-the-executi.1.ar.opus"
+  },
+  {
+   "slug": "libya-2011-rev-2012",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "libya-2012:3",
+   "how": "exact",
+   "words": 45,
+   "seconds": 34.4,
+   "loudness": {
+    "integrated_lufs": -16.21,
+    "true_peak_dbtp": -3.73,
+    "lra": 2.5,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/libya-2011-rev-2012/hear/libya-2012-3.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/libya-2011-rev-2012/hear/libya-2012-3.ar.opus"
+  },
+  {
+   "slug": "libya-2016",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "libya-2016d:188.1",
+   "how": "exact",
+   "words": 16,
+   "seconds": 14.6,
+   "loudness": {
+    "integrated_lufs": -16.28,
+    "true_peak_dbtp": -3.89,
+    "lra": 1.9,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/libya-2016/hear/libya-2016d-188.1.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/libya-2016/hear/libya-2016d-188.1.ar.opus"
+  },
+  {
+   "slug": "mexico-1917-rev-2015",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "mexico-2015:chapter-i-human-rights-a.r",
+   "how": "exact",
+   "words": 39,
+   "seconds": 15.0,
+   "loudness": {
+    "integrated_lufs": -16.17,
+    "true_peak_dbtp": -3.08,
+    "lra": 1.8,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/mexico-1917-rev-2015/hear/mexico-2015-chapter-i-human-rights-a.r.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/mexico-1917-rev-2015/hear/mexico-2015-chapter-i-human-rights-a.r.es.opus"
+  },
+  {
+   "slug": "morocco-2011",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "morocco-2011:the-institutions-and-ins.1",
+   "how": "other fragment",
+   "words": 24,
+   "seconds": 20.7,
+   "loudness": {
+    "integrated_lufs": -16.25,
+    "true_peak_dbtp": -3.96,
+    "lra": 1.5,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/morocco-2011/hear/morocco-2011-the-institutions-and-ins.1.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/morocco-2011/hear/morocco-2011-the-institutions-and-ins.1.ar.opus"
+  },
+  {
+   "slug": "nicaragua-1987-rev-2014",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "nicaragua-2014:chapter-iii-social-right.1",
+   "how": "other fragment",
+   "words": 28,
+   "seconds": 10.3,
+   "loudness": {
+    "integrated_lufs": -16.24,
+    "true_peak_dbtp": -2.8,
+    "lra": 1.2,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/nicaragua-1987-rev-2014/hear/nicaragua-2014-chapter-iii-social-right.1.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/nicaragua-1987-rev-2014/hear/nicaragua-2014-chapter-iii-social-right.1.es.opus"
+  },
+  {
+   "slug": "panama-1972-rev-2004",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "panama-2004:chapter-2-the-municipal-.r",
+   "how": "exact",
+   "words": 20,
+   "seconds": 9.3,
+   "loudness": {
+    "integrated_lufs": -16.25,
+    "true_peak_dbtp": -3.38,
+    "lra": 1.0,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/panama-1972-rev-2004/hear/panama-2004-chapter-2-the-municipal-.r.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/panama-1972-rev-2004/hear/panama-2004-chapter-2-the-municipal-.r.es.opus"
+  },
+  {
+   "slug": "paraguay-1992-rev-2011",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "paraguay-2011:title-ii-of-the-rights-o.r",
+   "how": "exact",
+   "words": 87,
+   "seconds": 35.0,
+   "loudness": {
+    "integrated_lufs": -16.26,
+    "true_peak_dbtp": -2.88,
+    "lra": 2.3,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/paraguay-1992-rev-2011/hear/paraguay-2011-title-ii-of-the-rights-o.r.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/paraguay-1992-rev-2011/hear/paraguay-2011-title-ii-of-the-rights-o.r.es.opus"
+  },
+  {
+   "slug": "peru-1993-rev-2023",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "peru-2023:chapter-ii-social-and-ec.r",
+   "how": "exact",
+   "words": 22,
+   "seconds": 7.9,
+   "loudness": {
+    "integrated_lufs": -16.27,
+    "true_peak_dbtp": -3.31,
+    "lra": 1.0,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/peru-1993-rev-2023/hear/peru-2023-chapter-ii-social-and-ec.r.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/peru-1993-rev-2023/hear/peru-2023-chapter-ii-social-and-ec.r.es.opus"
+  },
+  {
+   "slug": "portugal-1976-rev-2005",
+   "language": "pt-PT",
+   "voice": "tugao",
+   "fragment_id": "portugal-2005:1",
+   "how": "article 1",
+   "words": 26,
+   "seconds": 8.0,
+   "loudness": {
+    "integrated_lufs": -16.04,
+    "true_peak_dbtp": -4.19,
+    "lra": 1.2,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/portugal-1976-rev-2005/hear/portugal-2005-1.pt-PT.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/portugal-1976-rev-2005/hear/portugal-2005-1.pt-PT.opus"
+  },
+  {
+   "slug": "spain-1978-rev-2011",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "spain-2011:135.r",
+   "how": "other fragment",
+   "words": 37,
+   "seconds": 13.3,
+   "loudness": {
+    "integrated_lufs": -16.22,
+    "true_peak_dbtp": -1.93,
+    "lra": 1.4,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/spain-1978-rev-2011/hear/spain-2011-135.r.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/spain-1978-rev-2011/hear/spain-2011-135.r.es.opus"
+  },
+  {
+   "slug": "sudan-2005",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "sudan-2005:chapter-v-fiscal-and-fin.r",
+   "how": "exact",
+   "words": 115,
+   "seconds": 96.6,
+   "loudness": {
+    "integrated_lufs": -16.16,
+    "true_peak_dbtp": -3.84,
+    "lra": 1.5,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/sudan-2005/hear/sudan-2005-chapter-v-fiscal-and-fin.r.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/sudan-2005/hear/sudan-2005-chapter-v-fiscal-and-fin.r.ar.opus"
+  },
+  {
+   "slug": "switzerland-1999-rev-2014",
+   "language": "de-CH",
+   "voice": "thorsten",
+   "fragment_id": "switzerland-2014:1",
+   "how": "other fragment",
+   "words": 42,
+   "seconds": 24.2,
+   "loudness": {
+    "integrated_lufs": -16.23,
+    "true_peak_dbtp": -3.72,
+    "lra": 1.6,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/switzerland-1999-rev-2014/hear/switzerland-2014-1.de-CH.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/switzerland-1999-rev-2014/hear/switzerland-2014-1.de-CH.opus"
+  },
+  {
+   "slug": "syrian-arab-republic-2012",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "syria-2012:p.1",
+   "how": "exact",
+   "words": 84,
+   "seconds": 77.0,
+   "loudness": {
+    "integrated_lufs": -16.29,
+    "true_peak_dbtp": -3.84,
+    "lra": 1.6,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/syrian-arab-republic-2012/hear/syria-2012-p.1.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/syrian-arab-republic-2012/hear/syria-2012-p.1.ar.opus"
+  },
+  {
+   "slug": "tunisia-1959-rev-2008",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "tunisia-2008:section-i-the-president-.r",
+   "how": "exact",
+   "words": 18,
+   "seconds": 15.5,
+   "loudness": {
+    "integrated_lufs": -16.2,
+    "true_peak_dbtp": -4.02,
+    "lra": 2.1,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/tunisia-1959-rev-2008/hear/tunisia-2008-section-i-the-president-.r.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/tunisia-1959-rev-2008/hear/tunisia-2008-section-i-the-president-.r.ar.opus"
+  },
+  {
+   "slug": "tunisia-2014",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "tunisia-2014:39",
+   "how": "other fragment",
+   "words": 47,
+   "seconds": 40.0,
+   "loudness": {
+    "integrated_lufs": -16.24,
+    "true_peak_dbtp": -3.96,
+    "lra": 1.9,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/tunisia-2014/hear/tunisia-2014-39.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/tunisia-2014/hear/tunisia-2014-39.ar.opus"
+  },
+  {
+   "slug": "united-arab-emirates-1971-rev-2009",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "united-arab-emirates-2009:chapter-4-the-federal-na.1",
+   "how": "other fragment",
+   "words": 56,
+   "seconds": 41.4,
+   "loudness": {
+    "integrated_lufs": -16.27,
+    "true_peak_dbtp": -3.78,
+    "lra": 1.3,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/united-arab-emirates-1971-rev-2009/hear/united-arab-emirates-2009-chapter-4-the-federal-na.1.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/united-arab-emirates-1971-rev-2009/hear/united-arab-emirates-2009-chapter-4-the-federal-na.1.ar.opus"
+  },
+  {
+   "slug": "uruguay-1966-reinst-1985-rev-2004",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "uruguay-2004:chapter-ii.r",
+   "how": "exact",
+   "words": 27,
+   "seconds": 10.2,
+   "loudness": {
+    "integrated_lufs": -16.24,
+    "true_peak_dbtp": -1.88,
+    "lra": 1.2,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/uruguay-1966-reinst-1985-rev-2004/hear/uruguay-2004-chapter-ii.r.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/uruguay-1966-reinst-1985-rev-2004/hear/uruguay-2004-chapter-ii.r.es.opus"
+  },
+  {
+   "slug": "venezuela-bolivarian-republic-of-1999-rev-2009",
+   "language": "es",
+   "voice": "santa-es",
+   "fragment_id": "venezuela-2009:chapter-i-socioeconomic-.1",
+   "how": "exact",
+   "words": 53,
+   "seconds": 20.8,
+   "loudness": {
+    "integrated_lufs": -16.25,
+    "true_peak_dbtp": -2.44,
+    "lra": 1.4,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/venezuela-bolivarian-republic-of-1999-rev-2009/hear/venezuela-2009-chapter-i-socioeconomic-.1.es.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/venezuela-bolivarian-republic-of-1999-rev-2009/hear/venezuela-2009-chapter-i-socioeconomic-.1.es.opus"
+  },
+  {
+   "slug": "yemen-1991-rev-2015",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "yemen-2015:chapter-ii-the-executive.r",
+   "how": "exact",
+   "words": 17,
+   "seconds": 13.7,
+   "loudness": {
+    "integrated_lufs": -16.18,
+    "true_peak_dbtp": -3.02,
+    "lra": 0.8,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/yemen-1991-rev-2015/hear/yemen-2015-chapter-ii-the-executive.r.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/yemen-1991-rev-2015/hear/yemen-2015-chapter-ii-the-executive.r.ar.opus"
+  },
+  {
+   "slug": "yemen-2015",
+   "language": "ar",
+   "voice": "kareem",
+   "fragment_id": "yemen-2015d:water.r",
+   "how": "exact",
+   "words": 83,
+   "seconds": 71.6,
+   "loudness": {
+    "integrated_lufs": -16.16,
+    "true_peak_dbtp": -3.94,
+    "lra": 1.8,
+    "target": "I=-16:TP=-1.5:LRA=11"
+   },
+   "audio": "https://constitution.legalcommons.org/assets/pages/yemen-2015/hear/yemen-2015d-water.r.ar.m4a",
+   "opus": "https://constitution.legalcommons.org/assets/pages/yemen-2015/hear/yemen-2015d-water.r.ar.opus"
+  }
+ ],
+ "skipped": []
+}
