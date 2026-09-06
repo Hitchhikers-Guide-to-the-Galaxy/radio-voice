@@ -62,7 +62,8 @@ def house(slug):
     path = os.path.join(FARM, "pages", slug)
     page = fw.load_page(path)
     st = page["story"]
-    rec = dict(re.findall(r"^([a-z_]+):\s*(.+)$", next(it["text"] for it in st if it["type"] == "code"), re.M))
+    code = next((it["text"] for it in st if it["type"] == "code"), "")
+    rec = dict(re.findall(r"^([a-z_]+):\s*(.+)$", code, re.M)) if code else {}
     i = next((k for k, it in enumerate(st) if it.get("text", "").strip() == "# For Speaking"), None)
     frags = []
     if i is not None:
@@ -134,7 +135,7 @@ def deliver(master, stem):
     limit = 0.596                                   # -4.5 dBFS sample ceiling before the codecs
     norm = stem + ".norm.wav"
     got = None
-    for it in range(6):
+    for it in range(10):
         sh(["ffmpeg", "-y", "-loglevel", "error", "-i", pre, "-af",
             f"volume={gain:.2f}dB,alimiter=limit={limit:.3f}:attack=3:release=80:level=false", norm])
         sh(["ffmpeg", "-y", "-loglevel", "error", "-i", norm, "-c:a", "libopus", "-b:a", "64k", "-ac", "1", stem + ".opus"])
@@ -148,7 +149,7 @@ def deliver(master, stem):
         if TP > -1.5:
             limit *= 10 ** ((-1.5 - TP - 0.4) / 20)     # lower the ceiling by the overshoot plus margin
         if abs(I + 16.0) >= 0.3:
-            gain += -16.0 - I
+            gain += (-16.0 - I) * (1.0 if it < 3 else 1.6)   # the limiter eats part of every step; push harder when it stalls
     os.remove(pre); os.remove(norm)
     dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", stem + ".opus"],
                                capture_output=True, text=True).stdout.strip())
@@ -191,24 +192,42 @@ def main():
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--no-write-page", action="store_true")
     ap.add_argument("--edition", default=None)
+    ap.add_argument("--all", action="store_true", help="every constitution page with a For Speaking section not yet voiced (Phase 5)")
+    ap.add_argument("--districts", default=None, help="districts.json: voices are assigned per district")
+    ap.add_argument("--index", default=None, help="write the media index here (default hear/street-media.json)")
     a = ap.parse_args()
     m = json.load(open(a.map))
     edition = a.edition or f"{m['name']}-pages-epoch-{m['epoch']}"
     slugs = [h.split("/", 1)[1] for h in m["street"]["houses"] if h.startswith(SITE + "/")] + list(a.also)
+    if a.all:
+        slugs = [s for s in os.listdir(os.path.join(FARM, "pages")) if not s.startswith(".") and ".bak" not in s
+                 and not os.path.exists(os.path.join(FARM, "assets", "pages", s, "hear", "wiki-city-media.json"))]
+        slugs = [s for s in slugs if house(s)["fs_index"] is not None]
+        print(f"all         {len(slugs)} pages with For Speaking and no voice yet")
     if a.only:
         slugs = [a.only]
+    district_of, palettes = {}, {}
+    if a.districts:
+        dj = json.load(open(a.districts))
+        for site, d in dj["sites"].items():
+            if site != SITE: continue
+            for i, dist in enumerate(d["districts"]):
+                # each district gets a four-voice palette, so a district sounds like a district
+                palettes[dist["id"]] = PALETTE[(i * 4) % len(PALETTE):(i * 4) % len(PALETTE) + 4] or PALETTE[:4]
+                for sl in dist["slugs"]: district_of[sl] = dist["id"]
     print(f"street      {m['street']['square']} — {len(slugs)} houses to voice; edition {edition}")
     from kokoro_onnx import Kokoro
     k = Kokoro(MODEL, os.path.join(RV, "models", "voices-v1.0.bin"))
     mh = model_hash()
-    index = []
+    index, invalid = [], []
     t0 = time.time()
     for n, slug in enumerate(sorted(slugs)):
         h = house(slug)
         frag = choose(h["frags"])
         if not frag:
             print(f"skip        {slug}: no speakable fragment"); continue
-        voice = KEEP_VOICE.get(slug, PALETTE[n % len(PALETTE)])
+        pal = palettes.get(district_of.get(slug), PALETTE)
+        voice = KEEP_VOICE.get(slug, pal[n % len(pal)])
         stemname = frag["id"].replace(":", "-").replace("/", "-")
         adir = os.path.join(FARM, "assets", "pages", slug, "hear")
         os.makedirs(adir, exist_ok=True)
@@ -258,18 +277,18 @@ def main():
         json.dump(manifest, open(mp, "w"), indent=1)
         r = validate_file(mp, "wiki-city-media", files=adir)
         if not r["ok"]:
-            print(f"INVALID     {slug}: {r['errors']}"); sys.exit(1)
+            print(f"INVALID     {slug}: {r['errors']}", flush=True); invalid.append(slug); continue
         if not a.no_write_page:
             write_page(h, url, frag, voice, loud, dur, a.dry_run)
         index.append(dict(slug=slug, title=h["page"]["title"], fragment_id=frag["id"], heading=frag["heading"], words=frag["words"],
-                          voice=voice, seconds=round(dur, 1), loudness=loud, rights=h["rec"].get("rights"),
+                          voice=voice, district=district_of.get(slug), role="verbatim_fragment", seconds=round(dur, 1), loudness=loud, rights=h["rec"].get("rights"),
                           manifest=f"{BASE}/{slug}/hear/wiki-city-media.json", audio=url + ".m4a", opus=url + ".opus"))
         print(f"voiced      {slug:<44} {voice:<9} {dur:5.1f}s  {loud['integrated_lufs']:6.2f} LUFS  {frag['id']}  ({time.time()-t1:.1f}s)")
     json.dump(dict(street=m["street"], edition=edition, built=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), houses=index),
-              open(os.path.join(HERE, "street-media.json"), "w"), indent=1)
+              open(a.index or os.path.join(HERE, "street-media.json"), "w"), indent=1)
     if not a.dry_run and not a.no_write_page:
         print("indexes    ", fw.delete_indexes(FARM))
-    print(f"done        {len(index)} houses in {time.time()-t0:.0f}s -> {os.path.join(HERE, 'street-media.json')}")
+    print(f"done        {len(index)} houses in {time.time()-t0:.0f}s; invalid {len(invalid)} {invalid[:8]} -> {a.index or os.path.join(HERE, 'street-media.json')}")
 
 
 if __name__ == "__main__":

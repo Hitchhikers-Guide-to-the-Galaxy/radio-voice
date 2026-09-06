@@ -5,128 +5,493 @@
   "description": "One manifest per semantic target (a page-house). Sidecar to map.json, joined by wiki_city_id. Frozen from the sketch in WIKI-CITY-SEMANTIC-MEDIA-AND-HEAR-CROWDS.md section 7 by the Hear Crowds Plan, Phase 2.",
   "type": "object",
   "additionalProperties": false,
-  "required": ["schema_version", "manifest_id", "map_edition_id", "semantic_target", "assets"],
+  "required": [
+    "schema_version",
+    "manifest_id",
+    "map_edition_id",
+    "semantic_target",
+    "assets"
+  ],
   "properties": {
-    "schema_version": {"type": "string", "pattern": "^0\\.1\\.[0-9]+$"},
-    "manifest_id": {"type": "string", "pattern": "^media:[a-z0-9.-]+/[a-z0-9-]+:[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
-    "map_edition_id": {"type": "string", "minLength": 1},
+    "schema_version": {
+      "type": "string",
+      "pattern": "^0\\.1\\.[0-9]+$"
+    },
+    "manifest_id": {
+      "type": "string",
+      "pattern": "^media:[a-z0-9.-]+/[a-z0-9-]+:[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "map_edition_id": {
+      "type": "string",
+      "minLength": 1
+    },
     "semantic_target": {
-      "type": "object", "additionalProperties": false,
-      "required": ["wiki_city_id", "entity_type", "canonical_uri", "source_revision", "access_policy_uri"],
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "wiki_city_id",
+        "entity_type",
+        "canonical_uri",
+        "source_revision",
+        "access_policy_uri"
+      ],
       "properties": {
-        "wiki_city_id": {"type": "string", "pattern": "^page:[a-z0-9.-]+/[a-z0-9-]+$"},
-        "entity_type": {"enum": ["page_house", "square", "district", "region"]},
-        "canonical_uri": {"type": "string", "format": "uri", "pattern": "^https://[a-z0-9.-]+/[a-z0-9-]+\\.json$"},
-        "title": {"type": "string"},
-        "source_revision": {"$ref": "#/$defs/sha256"},
-        "access_policy_uri": {"enum": ["policy:public", "policy:tailnet", "policy:private"]}
+        "wiki_city_id": {
+          "type": "string",
+          "pattern": "^page:[a-z0-9.-]+/[a-z0-9-]+$"
+        },
+        "entity_type": {
+          "enum": [
+            "page_house",
+            "square",
+            "district",
+            "region"
+          ]
+        },
+        "canonical_uri": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://[a-z0-9.-]+/[a-z0-9-]+\\.json$"
+        },
+        "title": {
+          "type": "string"
+        },
+        "source_revision": {
+          "$ref": "#/$defs/sha256"
+        },
+        "access_policy_uri": {
+          "enum": [
+            "policy:public",
+            "policy:tailnet",
+            "policy:private"
+          ]
+        }
       }
     },
-    "assets": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/asset"}},
+    "assets": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/asset"
+      }
+    },
     "live_room": {
-      "type": "object", "additionalProperties": false,
-      "required": ["enabled"],
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "enabled"
+      ],
       "properties": {
-        "enabled": {"type": "boolean"}, "room_key": {"type": "string"}, "provider": {"type": "string"},
-        "access_policy_uri": {"type": "string"}, "recording": {"enum": ["off", "on"]},
-        "transcription": {"enum": ["off", "on"]}, "e2ee": {"type": "string"}, "agent_participation": {"type": "string"}
+        "enabled": {
+          "type": "boolean"
+        },
+        "room_key": {
+          "type": "string"
+        },
+        "provider": {
+          "type": "string"
+        },
+        "access_policy_uri": {
+          "type": "string"
+        },
+        "recording": {
+          "enum": [
+            "off",
+            "on"
+          ]
+        },
+        "transcription": {
+          "enum": [
+            "off",
+            "on"
+          ]
+        },
+        "e2ee": {
+          "type": "string"
+        },
+        "agent_participation": {
+          "type": "string"
+        }
       }
     }
   },
   "$defs": {
-    "sha256": {"type": "string", "pattern": "^sha256:[0-9a-f]{64}$"},
+    "sha256": {
+      "type": "string",
+      "pattern": "^sha256:[0-9a-f]{64}$"
+    },
     "delivery": {
-      "type": "object", "additionalProperties": false,
-      "required": ["uri", "mime", "sha256"],
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "uri",
+        "mime",
+        "sha256"
+      ],
       "properties": {
-        "uri": {"type": "string", "minLength": 1},
-        "mime": {"enum": ["audio/ogg; codecs=opus", "audio/mp4", "audio/mpeg", "audio/wav", "image/png", "image/jpeg", "application/pdf"]},
-        "sha256": {"$ref": "#/$defs/sha256"},
-        "bytes": {"type": "integer", "minimum": 1}
+        "uri": {
+          "type": "string",
+          "minLength": 1
+        },
+        "mime": {
+          "enum": [
+            "audio/ogg; codecs=opus",
+            "audio/mp4",
+            "audio/mpeg",
+            "audio/wav",
+            "image/png",
+            "image/jpeg",
+            "application/pdf"
+          ]
+        },
+        "sha256": {
+          "$ref": "#/$defs/sha256"
+        },
+        "bytes": {
+          "type": "integer",
+          "minimum": 1
+        }
       }
     },
     "asset": {
-      "type": "object", "additionalProperties": false,
-      "required": ["asset_id", "media_type", "role", "language", "title", "delivery", "duration_seconds",
-                   "transcript_uri", "source_text", "provenance", "rights", "spatial", "playback"],
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "asset_id",
+        "media_type",
+        "role",
+        "language",
+        "title",
+        "delivery",
+        "duration_seconds",
+        "transcript_uri",
+        "source_text",
+        "provenance",
+        "rights",
+        "spatial",
+        "playback"
+      ],
       "properties": {
-        "asset_id": {"type": "string", "pattern": "^(voice|human|ambience|image|doc):[a-z0-9.:-]+:v[0-9]+$"},
-        "media_type": {"enum": ["audio", "image", "document", "video"]},
-        "role": {"enum": ["verbatim_fragment", "invitation", "generated_summary", "human_reading", "ambience", "commentary"]},
-        "language": {"type": "string", "pattern": "^[a-z]{2}(-[A-Z]{2})?$"},
-        "title": {"type": "string", "minLength": 1},
-        "delivery": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/delivery"}},
-        "master": {"type": "object", "required": ["uri", "sha256"], "properties": {"uri": {"type": "string"}, "sha256": {"$ref": "#/$defs/sha256"}}},
-        "duration_seconds": {"type": "number", "exclusiveMinimum": 0},
-        "loudness": {
-          "type": "object", "additionalProperties": false,
-          "required": ["integrated_lufs", "true_peak_dbtp"],
-          "properties": {"integrated_lufs": {"type": "number"}, "true_peak_dbtp": {"type": "number"}, "lra": {"type": "number"},
-                         "target": {"type": "string"}}
+        "asset_id": {
+          "type": "string",
+          "pattern": "^(voice|human|ambience|image|doc):[A-Za-z0-9.:_()-]+:v[0-9]+$"
         },
-        "transcript_uri": {"type": "string", "pattern": "\\.vtt$"},
-        "transcript_text_uri": {"type": "string", "pattern": "\\.txt$"},
-        "source_text": {
-          "type": "object", "additionalProperties": false,
-          "required": ["kind", "text_uri", "input_revision", "review_status"],
+        "media_type": {
+          "enum": [
+            "audio",
+            "image",
+            "document",
+            "video"
+          ]
+        },
+        "role": {
+          "enum": [
+            "verbatim_fragment",
+            "invitation",
+            "generated_summary",
+            "human_reading",
+            "ambience",
+            "commentary"
+          ]
+        },
+        "language": {
+          "type": "string",
+          "pattern": "^[a-z]{2}(-[A-Z]{2})?$"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "delivery": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/delivery"
+          }
+        },
+        "master": {
+          "type": "object",
+          "required": [
+            "uri",
+            "sha256"
+          ],
           "properties": {
-            "kind": {"enum": ["verbatim", "summary", "invitation", "reading"]},
-            "text_uri": {"type": "string"},
-            "fragment_id": {"type": "string", "pattern": "^[a-z0-9-]+:[^\\s]+$"},
-            "heading": {"type": "string"},
-            "words": {"type": "integer", "minimum": 1},
-            "input_revision": {"$ref": "#/$defs/sha256"},
-            "review_status": {"enum": ["machine_selected", "human_accepted", "human_rejected"]}
+            "uri": {
+              "type": "string"
+            },
+            "sha256": {
+              "$ref": "#/$defs/sha256"
+            }
+          }
+        },
+        "duration_seconds": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        },
+        "loudness": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "integrated_lufs",
+            "true_peak_dbtp"
+          ],
+          "properties": {
+            "integrated_lufs": {
+              "type": "number"
+            },
+            "true_peak_dbtp": {
+              "type": "number"
+            },
+            "lra": {
+              "type": "number"
+            },
+            "target": {
+              "type": "string"
+            }
+          }
+        },
+        "transcript_uri": {
+          "type": "string",
+          "pattern": "\\.vtt$"
+        },
+        "transcript_text_uri": {
+          "type": "string",
+          "pattern": "\\.txt$"
+        },
+        "source_text": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "text_uri",
+            "input_revision",
+            "review_status"
+          ],
+          "properties": {
+            "kind": {
+              "enum": [
+                "verbatim",
+                "summary",
+                "invitation",
+                "reading"
+              ]
+            },
+            "text_uri": {
+              "type": "string"
+            },
+            "fragment_id": {
+              "type": "string",
+              "pattern": "^[a-z0-9-]+:[^\\s]+$"
+            },
+            "heading": {
+              "type": "string"
+            },
+            "words": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "input_revision": {
+              "$ref": "#/$defs/sha256"
+            },
+            "review_status": {
+              "enum": [
+                "machine_selected",
+                "human_accepted",
+                "human_rejected"
+              ]
+            }
           }
         },
         "provenance": {
-          "type": "object", "additionalProperties": false,
-          "required": ["kind", "generator", "generated_at"],
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "generator",
+            "generated_at"
+          ],
           "properties": {
-            "kind": {"enum": ["synthetic_voice", "human_voice", "field_recording", "generated_music"]},
-            "generator": {"type": "string"},
-            "model": {"type": "string"}, "model_version": {"type": "string"}, "model_sha256": {"$ref": "#/$defs/sha256"},
-            "voice_id": {"type": "string"}, "voice_registry": {"type": "string"},
-            "reader": {"type": "string"}, "recording_uri": {"type": "string"},
-            "prompt_spec_version": {"type": "string"},
-            "pipeline": {"type": "string"},
-            "generated_at": {"type": "string", "format": "date-time"}
+            "kind": {
+              "enum": [
+                "synthetic_voice",
+                "human_voice",
+                "field_recording",
+                "generated_music"
+              ]
+            },
+            "generator": {
+              "type": "string"
+            },
+            "model": {
+              "type": "string"
+            },
+            "model_version": {
+              "type": "string"
+            },
+            "model_sha256": {
+              "$ref": "#/$defs/sha256"
+            },
+            "voice_id": {
+              "type": "string"
+            },
+            "voice_registry": {
+              "type": "string"
+            },
+            "reader": {
+              "type": "string"
+            },
+            "recording_uri": {
+              "type": "string"
+            },
+            "prompt_spec_version": {
+              "type": "string"
+            },
+            "pipeline": {
+              "type": "string"
+            },
+            "generated_at": {
+              "type": "string",
+              "format": "date-time"
+            }
           }
         },
         "rights": {
-          "type": "object", "additionalProperties": false,
-          "required": ["source_licence", "voice_licence", "consent_record_uri", "public_render", "attribution"],
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "source_licence",
+            "voice_licence",
+            "consent_record_uri",
+            "public_render",
+            "attribution"
+          ],
           "properties": {
-            "source_licence": {"type": "string", "minLength": 1},
-            "source_rights_class": {"enum": ["open", "credited", "restricted", "public_domain"]},
-            "voice_licence": {"type": "string", "minLength": 1},
-            "consent_record_uri": {"type": ["string", "null"]},
-            "public_render": {"type": "boolean"},
-            "attribution": {"type": "string"}
+            "source_licence": {
+              "type": "string",
+              "minLength": 1
+            },
+            "source_rights_class": {
+              "enum": [
+                "open",
+                "credited",
+                "restricted",
+                "public_domain"
+              ]
+            },
+            "voice_licence": {
+              "type": "string",
+              "minLength": 1
+            },
+            "consent_record_uri": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "public_render": {
+              "type": "boolean"
+            },
+            "attribution": {
+              "type": "string"
+            }
           }
         },
         "spatial": {
-          "type": "object", "additionalProperties": false,
-          "required": ["anchor", "distance_model", "ref_distance", "max_distance", "rolloff_factor"],
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "anchor",
+            "distance_model",
+            "ref_distance",
+            "max_distance",
+            "rolloff_factor"
+          ],
           "properties": {
-            "anchor": {"enum": ["exterior", "threshold", "interior", "meeting_center"]},
-            "distance_model": {"enum": ["linear", "inverse", "exponential"]},
-            "ref_distance": {"type": "number", "exclusiveMinimum": 0},
-            "max_distance": {"type": "number", "exclusiveMinimum": 0},
-            "rolloff_factor": {"type": "number", "minimum": 0},
-            "cone_inner_angle": {"type": "number"}, "cone_outer_angle": {"type": "number"}, "cone_outer_gain": {"type": "number"},
-            "occlusion": {"type": "boolean"}, "reverb_zone": {"type": "string"}
+            "anchor": {
+              "enum": [
+                "exterior",
+                "threshold",
+                "interior",
+                "meeting_center"
+              ]
+            },
+            "distance_model": {
+              "enum": [
+                "linear",
+                "inverse",
+                "exponential"
+              ]
+            },
+            "ref_distance": {
+              "type": "number",
+              "exclusiveMinimum": 0
+            },
+            "max_distance": {
+              "type": "number",
+              "exclusiveMinimum": 0
+            },
+            "rolloff_factor": {
+              "type": "number",
+              "minimum": 0
+            },
+            "cone_inner_angle": {
+              "type": "number"
+            },
+            "cone_outer_angle": {
+              "type": "number"
+            },
+            "cone_outer_gain": {
+              "type": "number"
+            },
+            "occlusion": {
+              "type": "boolean"
+            },
+            "reverb_zone": {
+              "type": "string"
+            }
           }
         },
         "playback": {
-          "type": "object", "additionalProperties": false,
-          "required": ["trigger", "loop", "priority", "bus"],
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "trigger",
+            "loop",
+            "priority",
+            "bus"
+          ],
           "properties": {
-            "trigger": {"enum": ["focus_or_threshold", "proximity", "focus", "always", "manual"]},
-            "loop": {"type": "boolean"},
-            "priority": {"type": "integer", "minimum": 0, "maximum": 100},
-            "bus": {"enum": ["human_speech", "synthetic_speech", "live_room", "music", "ambience", "ui"]},
-            "cooldown_seconds": {"type": "number", "minimum": 0}
+            "trigger": {
+              "enum": [
+                "focus_or_threshold",
+                "proximity",
+                "focus",
+                "always",
+                "manual"
+              ]
+            },
+            "loop": {
+              "type": "boolean"
+            },
+            "priority": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 100
+            },
+            "bus": {
+              "enum": [
+                "human_speech",
+                "synthetic_speech",
+                "live_room",
+                "music",
+                "ambience",
+                "ui"
+              ]
+            },
+            "cooldown_seconds": {
+              "type": "number",
+              "minimum": 0
+            }
           }
         }
       }
